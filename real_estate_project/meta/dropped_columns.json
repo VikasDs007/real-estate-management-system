@@ -1,0 +1,10 @@
+{
+  "active": [
+    "monthly_rent",
+    "security_deposit"
+  ],
+  "archive": [
+    "bedrooms_bhk"
+  ],
+  "clients": []
+}

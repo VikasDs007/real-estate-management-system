@@ -1,0 +1,1001 @@
+property_id,listing_status,listing_type,listing_date,closing_date,building___society,area___locality,city,pincode,property_type,bedrooms__bhk,area__sq__ft,asking_price__â_¹,monthly_rent__â_¹,final_price__â_¹,owner_name
+RENT-APAR-2001,Rented,Rent,2025-02-24,2025-05-21,Deep Towers,Golden Nest,Mira Bhayandar,401105,Apartment,3.0,1147,,41000.0,41000.0,Kabir Loke
+SALE-OFFI-2002,Sold,Sale,2020-12-12,2021-01-19,Mane Towers,Shanti Nagar,Mira Bhayandar,401105,Office Space,,882,19600000.0,,19146491.0,Samaksh Morar
+RENT-APAR-2003,Rented,Rent,2025-01-21,2025-03-05,Iyer Residency,Bhayandar East,Mira Bhayandar,401105,Apartment,3.0,1235,,52000.0,52000.0,Veer Gulati
+SALE-APAR-2004,Sold,Sale,2021-01-18,2021-03-02,Wagle Heights,Bhayandar West,Mira Bhayandar,401101,Apartment,2.0,828,10100000.0,,9821493.0,Raksha Bakshi
+SALE-APAR-2005,Sold,Sale,2025-05-01,2025-06-08,Hegde Towers,Shanti Nagar,Mira Bhayandar,401101,Apartment,3.0,1773,19300000.0,,18500624.0,Leela Khalsa
+SALE-OFFI-2006,Sold,Sale,2025-05-08,2025-07-05,Devi Park,Bhayandar West,Mira Bhayandar,401107,Office Space,,2075,39300000.0,,38642781.0,Tara Bassi
+RENT-OFFI-2007,Rented,Rent,2022-02-11,2022-03-22,Tiwari Residency,Mira Road East,Mira Bhayandar,401107,Office Space,,395,,147000.0,147000.0,Dipta Naidu
+RENT-APAR-2008,Rented,Rent,2024-10-09,2024-11-13,Bhalla Heights,Shanti Nagar,Mira Bhayandar,401101,Apartment,1.0,426,,22000.0,22000.0,Aarna Soman
+RENT-APAR-2009,Rented,Rent,2020-11-16,2021-01-02,Taneja Complex,Shanti Nagar,Mira Bhayandar,401105,Apartment,1.0,497,,18000.0,18000.0,Gaurika Anne
+SALE-APAR-2010,Sold,Sale,2023-11-23,2024-01-27,Kohli Complex,Shanti Nagar,Mira Bhayandar,401107,Apartment,1.0,502,6000000.0,,5886655.0,Bhavna Narasimhan
+RENT-SHOP-2011,Rented,Rent,2022-09-03,2022-10-03,Kapoor Residency,Bhayandar West,Mira Bhayandar,401101,Shop,,539,,70000.0,70000.0,Mason Dara
+RENT-OFFI-2012,Rented,Rent,2022-02-11,2022-04-12,Prakash Towers,Golden Nest,Mira Bhayandar,401101,Office Space,,640,,111000.0,111000.0,Upkaar Kohli
+RENT-APAR-2013,Rented,Rent,2022-01-10,2022-03-02,Swaminathan Residency,Shanti Nagar,Mira Bhayandar,401101,Apartment,2.0,831,,30000.0,30000.0,Sarthak Manne
+RENT-OFFI-2014,Rented,Rent,2022-05-23,2022-08-13,Sankaran Park,Bhayandar West,Mira Bhayandar,401107,Office Space,,1748,,89000.0,89000.0,Ekaraj Balan
+SALE-APAR-2015,Sold,Sale,2023-06-23,2023-09-21,Cherian Residency,Bhayandar East,Mira Bhayandar,401107,Apartment,1.0,591,5500000.0,,5433032.0,Aarnav Wason
+RENT-APAR-2016,Rented,Rent,2020-11-26,2021-02-12,Rajagopalan Residency,Beverly Park,Mira Bhayandar,401107,Apartment,3.0,1532,,41000.0,41000.0,Unni Dhillon
+RENT-SHOP-2017,Rented,Rent,2022-09-27,2022-10-25,Mammen Towers,Beverly Park,Mira Bhayandar,401107,Shop,,2197,,68000.0,68000.0,Reyansh Vohra
+SALE-OFFI-2018,Sold,Sale,2022-08-09,2022-10-20,Iyengar Heights,Bhayandar East,Mira Bhayandar,401101,Office Space,,1831,26100000.0,,25883161.0,Chasmum Dani
+SALE-APAR-2019,Sold,Sale,2021-10-02,2021-10-29,Dhar Towers,Bhayandar West,Mira Bhayandar,401107,Apartment,1.0,630,5200000.0,,5073002.0,Jack Sharma
+RENT-OFFI-2020,Rented,Rent,2024-01-19,2024-04-07,Kalla Plaza,Golden Nest,Mira Bhayandar,401101,Office Space,,2101,,138000.0,138000.0,Orinder Yadav
+RENT-OFFI-2021,Rented,Rent,2025-06-28,2025-09-23,Dewan Towers,Shanti Nagar,Mira Bhayandar,401101,Office Space,,1167,,127000.0,127000.0,Samarth Ganguly
+RENT-APAR-2022,Rented,Rent,2024-06-17,2024-09-07,Jain Plaza,Shanti Nagar,Mira Bhayandar,401105,Apartment,1.0,672,,16000.0,16000.0,Raksha Rajan
+RENT-SHOP-2023,Rented,Rent,2024-02-03,2024-04-07,Salvi Towers,Kanakia,Mira Bhayandar,401101,Shop,,1451,,62000.0,62000.0,Amruta Desai
+RENT-OFFI-2024,Rented,Rent,2025-05-06,2025-06-07,Ravel Park,Bhayandar East,Mira Bhayandar,401105,Office Space,,241,,125000.0,125000.0,Chasmum Mammen
+RENT-APAR-2025,Rented,Rent,2023-04-30,2023-07-01,Solanki Plaza,Beverly Park,Mira Bhayandar,401101,Apartment,2.0,650,,38000.0,38000.0,Michael Sem
+SALE-SHOP-2026,Sold,Sale,2021-10-18,2021-12-26,Kaul Complex,Mira Road East,Mira Bhayandar,401107,Shop,,1934,14300000.0,,13846204.0,Varsha Prabhakar
+SALE-APAR-2027,Sold,Sale,2025-04-15,2025-07-12,Sur Heights,Bhayandar East,Mira Bhayandar,401105,Apartment,1.0,483,7800000.0,,7463346.0,Ekaraj Mani
+SALE-SHOP-2028,Sold,Sale,2024-08-09,2024-10-13,Malhotra Plaza,Beverly Park,Mira Bhayandar,401105,Shop,,2356,22600000.0,,22068938.0,Atharv Talwar
+RENT-OFFI-2029,Rented,Rent,2021-04-17,2021-06-20,Bath Heights,Bhayandar East,Mira Bhayandar,401105,Office Space,,1871,,123000.0,123000.0,Ishanvi Thaman
+RENT-SHOP-2030,Rented,Rent,2021-03-12,2021-05-16,Roy Plaza,Shanti Nagar,Mira Bhayandar,401107,Shop,,1267,,193000.0,193000.0,Ekta Rege
+RENT-SHOP-2031,Rented,Rent,2022-03-22,2022-06-12,Mannan Heights,Golden Nest,Mira Bhayandar,401105,Shop,,1903,,121000.0,121000.0,Darika Gokhale
+RENT-APAR-2032,Rented,Rent,2021-05-15,2021-07-20,Peri Towers,Golden Nest,Mira Bhayandar,401101,Apartment,1.0,480,,24000.0,24000.0,Faraj Yohannan
+SALE-SHOP-2033,Sold,Sale,2021-05-18,2021-07-11,Sunder Complex,Shanti Nagar,Mira Bhayandar,401105,Shop,,679,9500000.0,,9352526.0,Gopal Lall
+SALE-OFFI-2034,Sold,Sale,2022-04-07,2022-04-29,Kota Complex,Mira Road East,Mira Bhayandar,401107,Office Space,,2102,21600000.0,,20802740.0,Kamya Kapur
+SALE-OFFI-2035,Sold,Sale,2024-05-23,2024-07-02,Mannan Complex,Golden Nest,Mira Bhayandar,401107,Office Space,,1939,26600000.0,,25849204.0,Radhika Deol
+RENT-SHOP-2036,Rented,Rent,2022-12-18,2023-01-26,Nori Residency,Bhayandar East,Mira Bhayandar,401101,Shop,,734,,164000.0,164000.0,Bhanumati Manne
+RENT-SHOP-2037,Rented,Rent,2021-07-04,2021-09-04,Sur Heights,Mira Road East,Mira Bhayandar,401107,Shop,,1614,,183000.0,183000.0,Liam Raju
+SALE-SHOP-2038,Sold,Sale,2020-07-28,2020-09-29,Kant Residency,Shanti Nagar,Mira Bhayandar,401105,Shop,,2046,9700000.0,,9527254.0,Matthew Brahmbhatt
+SALE-APAR-2039,Sold,Sale,2024-01-14,2024-04-12,Acharya Plaza,Shanti Nagar,Mira Bhayandar,401101,Apartment,1.0,420,5200000.0,,5164512.0,Abha Wason
+SALE-APAR-2040,Sold,Sale,2025-01-13,2025-03-12,Issac Residency,Kanakia,Mira Bhayandar,401107,Apartment,1.0,412,5300000.0,,5232775.0,Nakul Bajaj
+RENT-SHOP-2041,Rented,Rent,2022-01-08,2022-01-31,Kurian Complex,Bhayandar East,Mira Bhayandar,401101,Shop,,558,,76000.0,76000.0,Ubika Palla
+RENT-OFFI-2042,Rented,Rent,2021-08-03,2021-09-10,Sule Towers,Beverly Park,Mira Bhayandar,401107,Office Space,,1212,,119000.0,119000.0,Girik Jayaraman
+SALE-APAR-2043,Sold,Sale,2023-12-24,2024-02-25,Datta Park,Kanakia,Mira Bhayandar,401101,Apartment,1.0,474,7100000.0,,6756222.0,Vivaan Seshadri
+RENT-OFFI-2044,Rented,Rent,2020-10-17,2020-12-03,Naik Complex,Golden Nest,Mira Bhayandar,401101,Office Space,,210,,62000.0,62000.0,Azad Nanda
+RENT-SHOP-2045,Rented,Rent,2021-01-14,2021-04-11,Kala Towers,Bhayandar West,Mira Bhayandar,401101,Shop,,1235,,72000.0,72000.0,Triveni Chanda
+SALE-SHOP-2046,Sold,Sale,2021-02-07,2021-03-11,Wable Park,Bhayandar West,Mira Bhayandar,401107,Shop,,349,9300000.0,,9042513.0,Qushi Swaminathan
+RENT-SHOP-2047,Rented,Rent,2021-11-07,2022-02-02,Sarraf Heights,Golden Nest,Mira Bhayandar,401105,Shop,,1664,,195000.0,195000.0,Libni Sunder
+SALE-APAR-2048,Sold,Sale,2021-03-06,2021-04-14,Sridhar Towers,Bhayandar West,Mira Bhayandar,401105,Apartment,3.0,1256,15600000.0,,15077885.0,Warinder Sridhar
+RENT-SHOP-2049,Rented,Rent,2025-01-29,2025-04-20,Solanki Towers,Shanti Nagar,Mira Bhayandar,401101,Shop,,787,,57000.0,57000.0,Jeevika Dhawan
+SALE-OFFI-2050,Sold,Sale,2024-10-01,2024-11-20,Bumb Towers,Mira Road East,Mira Bhayandar,401101,Office Space,,2318,33000000.0,,32022962.0,Nidhi Keer
+SALE-APAR-2051,Sold,Sale,2025-05-28,2025-06-24,Gopal Park,Kanakia,Mira Bhayandar,401105,Apartment,3.0,1733,15700000.0,,15175546.0,Chatresh Sen
+RENT-SHOP-2052,Rented,Rent,2022-10-29,2022-12-29,Bal Plaza,Golden Nest,Mira Bhayandar,401101,Shop,,2380,,130000.0,130000.0,Quincy Sharma
+RENT-APAR-2053,Rented,Rent,2024-07-20,2024-09-17,Samra Heights,Bhayandar East,Mira Bhayandar,401105,Apartment,1.0,514,,19000.0,19000.0,Tanish Shankar
+SALE-SHOP-2054,Sold,Sale,2024-01-11,2024-04-07,Gour Residency,Bhayandar East,Mira Bhayandar,401105,Shop,,1352,9100000.0,,8705453.0,Chandani Mukherjee
+RENT-SHOP-2055,Rented,Rent,2023-07-07,2023-08-03,Sekhon Park,Kanakia,Mira Bhayandar,401107,Shop,,753,,87000.0,87000.0,Gunbir Dash
+RENT-OFFI-2056,Rented,Rent,2022-11-08,2022-11-28,Shan Plaza,Mira Road East,Mira Bhayandar,401105,Office Space,,1058,,92000.0,92000.0,Gabriel Devan
+SALE-SHOP-2057,Sold,Sale,2025-04-02,2025-06-20,Bhatt Park,Mira Road East,Mira Bhayandar,401101,Shop,,2284,36900000.0,,36139854.0,Chakradev Ratta
+SALE-APAR-2058,Sold,Sale,2020-11-06,2020-12-26,Jayaraman Complex,Bhayandar East,Mira Bhayandar,401105,Apartment,2.0,991,11400000.0,,11130662.0,Yashodhara Tailor
+SALE-OFFI-2059,Sold,Sale,2024-02-20,2024-03-15,Goyal Towers,Golden Nest,Mira Bhayandar,401105,Office Space,,1190,21700000.0,,20942056.0,Rachana Magar
+SALE-SHOP-2060,Sold,Sale,2024-04-26,2024-07-11,Dhingra Heights,Beverly Park,Mira Bhayandar,401107,Shop,,704,23200000.0,,22150592.0,Pranav Barad
+SALE-APAR-2061,Sold,Sale,2024-04-11,2024-05-18,Bhatnagar Park,Kanakia,Mira Bhayandar,401107,Apartment,3.0,1590,23000000.0,,22446208.0,Aashi Muni
+RENT-APAR-2062,Rented,Rent,2020-08-31,2020-11-06,Gole Towers,Bhayandar East,Mira Bhayandar,401107,Apartment,2.0,1039,,32000.0,32000.0,Prisha Dugar
+SALE-OFFI-2063,Sold,Sale,2024-07-28,2024-08-26,Bhatt Towers,Bhayandar West,Mira Bhayandar,401101,Office Space,,1120,24500000.0,,23472101.0,Maanav Borah
+RENT-OFFI-2064,Rented,Rent,2021-03-14,2021-04-26,Kurian Plaza,Golden Nest,Mira Bhayandar,401107,Office Space,,680,,85000.0,85000.0,Reva Joshi
+SALE-SHOP-2065,Sold,Sale,2022-06-26,2022-08-09,Prashad Park,Bhayandar West,Mira Bhayandar,401101,Shop,,2146,16500000.0,,16248652.0,Niharika Borde
+RENT-OFFI-2066,Rented,Rent,2023-04-16,2023-06-25,Saini Towers,Golden Nest,Mira Bhayandar,401101,Office Space,,1478,,190000.0,190000.0,Chasmum Soni
+RENT-OFFI-2067,Rented,Rent,2021-04-07,2021-06-16,Yohannan Heights,Bhayandar West,Mira Bhayandar,401101,Office Space,,1835,,190000.0,190000.0,Ayushman Banik
+SALE-OFFI-2068,Sold,Sale,2024-03-06,2024-05-22,Nayak Complex,Kanakia,Mira Bhayandar,401105,Office Space,,1683,16100000.0,,16077920.0,Krishna Dugar
+SALE-APAR-2069,Sold,Sale,2020-08-04,2020-08-26,Kant Plaza,Shanti Nagar,Mira Bhayandar,401101,Apartment,1.0,528,5600000.0,,5412015.0,Tanmayi Murthy
+RENT-SHOP-2070,Rented,Rent,2024-08-02,2024-10-04,Yogi Plaza,Bhayandar West,Mira Bhayandar,401107,Shop,,764,,111000.0,111000.0,Avi Narang
+SALE-SHOP-2071,Sold,Sale,2023-04-11,2023-06-16,Butala Park,Bhayandar West,Mira Bhayandar,401107,Shop,,648,36900000.0,,35245685.0,Laban Naidu
+RENT-OFFI-2072,Rented,Rent,2023-02-15,2023-05-07,Ganesh Residency,Bhayandar West,Mira Bhayandar,401107,Office Space,,919,,72000.0,72000.0,Samar Venkatesh
+SALE-APAR-2073,Sold,Sale,2025-07-08,2025-09-29,Dhingra Complex,Bhayandar East,Mira Bhayandar,401107,Apartment,3.0,1371,22000000.0,,21112078.0,Jatin Natt
+SALE-OFFI-2074,Sold,Sale,2022-09-08,2022-11-07,Handa Heights,Beverly Park,Mira Bhayandar,401101,Office Space,,903,15000000.0,,14646360.0,Logan Madan
+RENT-SHOP-2075,Rented,Rent,2022-06-03,2022-07-14,Narain Plaza,Bhayandar West,Mira Bhayandar,401107,Shop,,1666,,146000.0,146000.0,Ubika Chand
+RENT-SHOP-2076,Rented,Rent,2021-01-19,2021-02-12,Pant Towers,Beverly Park,Mira Bhayandar,401105,Shop,,1082,,108000.0,108000.0,Radhika Rama
+SALE-SHOP-2077,Sold,Sale,2024-05-28,2024-06-18,Sahota Plaza,Beverly Park,Mira Bhayandar,401105,Shop,,627,18800000.0,,18005905.0,Warjas Lalla
+SALE-APAR-2078,Sold,Sale,2023-04-28,2023-07-07,Dora Complex,Golden Nest,Mira Bhayandar,401107,Apartment,1.0,489,8000000.0,,7839740.0,Aarush Tara
+SALE-OFFI-2079,Sold,Sale,2024-08-22,2024-11-17,Merchant Complex,Golden Nest,Mira Bhayandar,401107,Office Space,,673,33800000.0,,33591243.0,Deepa Pillay
+RENT-APAR-2080,Rented,Rent,2024-02-05,2024-03-12,Zacharia Plaza,Beverly Park,Mira Bhayandar,401107,Apartment,2.0,727,,36000.0,36000.0,Varsha Bajwa
+RENT-APAR-2081,Rented,Rent,2023-10-16,2023-11-28,Korpal Towers,Beverly Park,Mira Bhayandar,401105,Apartment,2.0,828,,38000.0,38000.0,Timothy Krishna
+SALE-SHOP-2082,Sold,Sale,2024-06-22,2024-08-18,Patla Complex,Mira Road East,Mira Bhayandar,401107,Shop,,2045,21400000.0,,21250098.0,Widisha Loyal
+RENT-APAR-2083,Rented,Rent,2022-11-16,2023-02-11,Basu Plaza,Shanti Nagar,Mira Bhayandar,401105,Apartment,2.0,997,,30000.0,30000.0,Joshua Khatri
+RENT-SHOP-2084,Rented,Rent,2023-10-06,2023-12-19,Dhar Towers,Golden Nest,Mira Bhayandar,401101,Shop,,453,,189000.0,189000.0,Meera Dugal
+SALE-SHOP-2085,Sold,Sale,2023-11-07,2024-01-20,Vora Towers,Bhayandar West,Mira Bhayandar,401101,Shop,,777,27600000.0,,26810382.0,Jatin Sarraf
+RENT-SHOP-2086,Rented,Rent,2021-01-03,2021-02-03,Jha Towers,Shanti Nagar,Mira Bhayandar,401101,Shop,,295,,56000.0,56000.0,Ria Rau
+RENT-OFFI-2087,Rented,Rent,2021-01-30,2021-04-05,Tak Complex,Bhayandar East,Mira Bhayandar,401107,Office Space,,1799,,179000.0,179000.0,Meera Palan
+RENT-OFFI-2088,Rented,Rent,2023-11-20,2024-01-16,Ratta Complex,Bhayandar East,Mira Bhayandar,401105,Office Space,,389,,68000.0,68000.0,Gaurang Banik
+RENT-APAR-2089,Rented,Rent,2022-01-24,2022-04-18,Handa Residency,Beverly Park,Mira Bhayandar,401105,Apartment,2.0,733,,35000.0,35000.0,Indrajit Handa
+SALE-APAR-2090,Sold,Sale,2021-08-08,2021-09-20,Lalla Park,Mira Road East,Mira Bhayandar,401107,Apartment,3.0,1634,15400000.0,,14964216.0,Tanmayi Kalita
+SALE-APAR-2091,Sold,Sale,2022-08-07,2022-09-08,Buch Residency,Bhayandar West,Mira Bhayandar,401101,Apartment,3.0,1707,20300000.0,,19507957.0,Isha Ganesan
+SALE-APAR-2092,Sold,Sale,2022-09-19,2022-11-02,Lalla Complex,Bhayandar East,Mira Bhayandar,401101,Apartment,2.0,935,9700000.0,,9319095.0,Pushti Anne
+RENT-APAR-2093,Rented,Rent,2025-02-15,2025-05-07,Sharaf Residency,Beverly Park,Mira Bhayandar,401107,Apartment,2.0,966,,34000.0,34000.0,Hemani Kulkarni
+RENT-OFFI-2094,Rented,Rent,2021-11-28,2022-02-23,Kanda Towers,Mira Road East,Mira Bhayandar,401101,Office Space,,1208,,59000.0,59000.0,Manbir Kumar
+SALE-SHOP-2095,Sold,Sale,2021-03-14,2021-04-29,Andra Complex,Golden Nest,Mira Bhayandar,401107,Shop,,2232,27500000.0,,26678315.0,Manthan Raja
+SALE-SHOP-2096,Sold,Sale,2021-03-24,2021-05-24,Brar Towers,Shanti Nagar,Mira Bhayandar,401101,Shop,,2194,10200000.0,,9795811.0,Chaman Sibal
+RENT-APAR-2097,Rented,Rent,2022-03-30,2022-05-12,Gandhi Towers,Kanakia,Mira Bhayandar,401101,Apartment,3.0,1642,,58000.0,58000.0,George Rattan
+SALE-APAR-2098,Sold,Sale,2023-04-10,2023-05-02,Iyengar Towers,Kanakia,Mira Bhayandar,401107,Apartment,3.0,1465,21100000.0,,20067966.0,Yashvi Kale
+SALE-SHOP-2099,Sold,Sale,2023-09-27,2023-12-18,Shetty Residency,Kanakia,Mira Bhayandar,401105,Shop,,2334,23600000.0,,22842107.0,Jack Menon
+RENT-SHOP-2100,Rented,Rent,2023-08-12,2023-10-17,Mann Park,Mira Road East,Mira Bhayandar,401105,Shop,,1254,,113000.0,113000.0,Ekavir Rama
+SALE-OFFI-2101,Sold,Sale,2023-03-07,2023-04-26,Mitra Towers,Mira Road East,Mira Bhayandar,401107,Office Space,,463,35700000.0,,34563829.0,Lekha Bhardwaj
+RENT-OFFI-2102,Rented,Rent,2023-02-15,2023-04-03,Kala Plaza,Bhayandar West,Mira Bhayandar,401107,Office Space,,1159,,190000.0,190000.0,Laban Agarwal
+RENT-APAR-2103,Rented,Rent,2021-06-17,2021-08-22,Dube Plaza,Bhayandar East,Mira Bhayandar,401101,Apartment,2.0,695,,31000.0,31000.0,Ishwar Bera
+SALE-APAR-2104,Sold,Sale,2020-08-27,2020-10-16,Chawla Park,Bhayandar West,Mira Bhayandar,401105,Apartment,3.0,1618,24500000.0,,24042657.0,Baghyawati Rastogi
+SALE-APAR-2105,Sold,Sale,2023-08-30,2023-09-22,Dube Complex,Bhayandar West,Mira Bhayandar,401105,Apartment,3.0,1647,20100000.0,,19709984.0,Kavya Mohan
+RENT-OFFI-2106,Rented,Rent,2025-05-02,2025-07-31,Narula Complex,Bhayandar East,Mira Bhayandar,401107,Office Space,,829,,101000.0,101000.0,William Sharma
+SALE-SHOP-2107,Sold,Sale,2024-06-18,2024-08-28,Shankar Complex,Mira Road East,Mira Bhayandar,401107,Shop,,897,27300000.0,,26438671.0,Zaitra Vasa
+SALE-SHOP-2108,Sold,Sale,2023-01-20,2023-04-04,Halder Towers,Shanti Nagar,Mira Bhayandar,401105,Shop,,1195,10000000.0,,9791798.0,Yuvraj Sastry
+RENT-SHOP-2109,Rented,Rent,2022-11-22,2022-12-22,Saha Plaza,Kanakia,Mira Bhayandar,401105,Shop,,536,,130000.0,130000.0,Upkaar Bhat
+RENT-APAR-2110,Rented,Rent,2024-07-19,2024-08-14,Khanna Park,Shanti Nagar,Mira Bhayandar,401105,Apartment,3.0,1606,,53000.0,53000.0,Finn Chahal
+RENT-SHOP-2111,Rented,Rent,2021-04-04,2021-05-11,Borah Towers,Beverly Park,Mira Bhayandar,401107,Shop,,2408,,58000.0,58000.0,Megha Parikh
+RENT-OFFI-2112,Rented,Rent,2021-01-18,2021-03-17,Kalita Plaza,Golden Nest,Mira Bhayandar,401107,Office Space,,1407,,164000.0,164000.0,Niharika Balakrishnan
+RENT-APAR-2113,Rented,Rent,2024-04-11,2024-06-21,Morar Plaza,Beverly Park,Mira Bhayandar,401101,Apartment,2.0,822,,39000.0,39000.0,Matthew Saha
+SALE-APAR-2114,Sold,Sale,2020-12-27,2021-03-26,Sant Park,Shanti Nagar,Mira Bhayandar,401107,Apartment,3.0,1210,22600000.0,,22466815.0,Eesha Kapadia
+SALE-APAR-2115,Sold,Sale,2021-08-08,2021-09-15,Lata Towers,Shanti Nagar,Mira Bhayandar,401105,Apartment,1.0,657,8000000.0,,7993720.0,Tamanna Vyas
+RENT-SHOP-2116,Rented,Rent,2023-06-11,2023-07-29,Gara Residency,Bhayandar West,Mira Bhayandar,401107,Shop,,2352,,186000.0,186000.0,Daksh Raval
+SALE-SHOP-2117,Sold,Sale,2023-11-16,2024-02-01,Kari Towers,Mira Road East,Mira Bhayandar,401101,Shop,,667,21700000.0,,21420979.0,Vamakshi Kumer
+SALE-SHOP-2118,Sold,Sale,2021-02-15,2021-03-22,Sandal Towers,Shanti Nagar,Mira Bhayandar,401107,Shop,,868,30900000.0,,30592161.0,Xavier Parekh
+RENT-OFFI-2119,Rented,Rent,2021-04-09,2021-06-09,Subramaniam Park,Bhayandar East,Mira Bhayandar,401107,Office Space,,1615,,68000.0,68000.0,Rehaan Kadakia
+RENT-OFFI-2120,Rented,Rent,2024-12-20,2025-01-16,Chokshi Plaza,Beverly Park,Mira Bhayandar,401105,Office Space,,1113,,70000.0,70000.0,Harita Tiwari
+SALE-APAR-2121,Sold,Sale,2021-03-30,2021-06-28,Mani Plaza,Golden Nest,Mira Bhayandar,401107,Apartment,2.0,783,9200000.0,,9140341.0,Vidhi Sinha
+RENT-SHOP-2122,Rented,Rent,2024-08-17,2024-09-30,Parikh Heights,Beverly Park,Mira Bhayandar,401107,Shop,,1923,,72000.0,72000.0,Victor Talwar
+RENT-OFFI-2123,Rented,Rent,2023-09-05,2023-11-15,Nayar Plaza,Golden Nest,Mira Bhayandar,401101,Office Space,,2168,,141000.0,141000.0,Anjali Radhakrishnan
+SALE-SHOP-2124,Sold,Sale,2023-12-08,2024-02-10,Soman Plaza,Kanakia,Mira Bhayandar,401101,Shop,,528,26700000.0,,25521451.0,Pratyush Luthra
+RENT-SHOP-2125,Rented,Rent,2021-02-01,2021-03-24,Konda Heights,Golden Nest,Mira Bhayandar,401101,Shop,,822,,67000.0,67000.0,Nitesh Dhingra
+SALE-SHOP-2126,Sold,Sale,2023-06-14,2023-07-17,Mann Plaza,Shanti Nagar,Mira Bhayandar,401105,Shop,,578,30100000.0,,29720315.0,Lila Suri
+SALE-OFFI-2127,Sold,Sale,2022-09-06,2022-11-18,Amble Residency,Bhayandar West,Mira Bhayandar,401105,Office Space,,2185,9200000.0,,9106632.0,Sai Soman
+RENT-OFFI-2128,Rented,Rent,2023-10-08,2023-12-06,Saraf Park,Golden Nest,Mira Bhayandar,401101,Office Space,,1519,,136000.0,136000.0,Sneha Desai
+RENT-OFFI-2129,Rented,Rent,2021-04-16,2021-07-11,Nagar Plaza,Golden Nest,Mira Bhayandar,401105,Office Space,,2402,,122000.0,122000.0,Jeremiah Varma
+RENT-APAR-2130,Rented,Rent,2021-04-01,2021-06-24,Ratti Park,Bhayandar West,Mira Bhayandar,401107,Apartment,3.0,1376,,51000.0,51000.0,Elijah Kapoor
+SALE-SHOP-2131,Sold,Sale,2023-07-03,2023-07-31,Balasubramanian Towers,Bhayandar West,Mira Bhayandar,401107,Shop,,2440,17900000.0,,17866057.0,Widisha Barad
+RENT-APAR-2132,Rented,Rent,2024-12-14,2025-01-29,Shere Residency,Bhayandar West,Mira Bhayandar,401105,Apartment,2.0,1032,,25000.0,25000.0,Ekiya Yadav
+RENT-APAR-2133,Rented,Rent,2022-07-18,2022-10-04,Krishnan Plaza,Mira Road East,Mira Bhayandar,401105,Apartment,2.0,876,,25000.0,25000.0,Madhavi Bandi
+RENT-SHOP-2134,Rented,Rent,2023-05-03,2023-06-29,Sehgal Residency,Golden Nest,Mira Bhayandar,401101,Shop,,772,,130000.0,130000.0,Samuel Vasa
+SALE-SHOP-2135,Sold,Sale,2025-01-15,2025-03-15,Dara Residency,Golden Nest,Mira Bhayandar,401105,Shop,,1571,12500000.0,,12373564.0,Logan Kata
+RENT-APAR-2136,Rented,Rent,2022-03-10,2022-04-26,Kamdar Residency,Shanti Nagar,Mira Bhayandar,401107,Apartment,3.0,1266,,56000.0,56000.0,Warhi Dora
+RENT-APAR-2137,Rented,Rent,2021-11-24,2022-01-01,Barman Residency,Mira Road East,Mira Bhayandar,401101,Apartment,3.0,1579,,57000.0,57000.0,Ridhi Baria
+RENT-SHOP-2138,Rented,Rent,2022-12-03,2023-02-18,Ray Towers,Shanti Nagar,Mira Bhayandar,401105,Shop,,1783,,175000.0,175000.0,Varsha Narayanan
+RENT-SHOP-2139,Rented,Rent,2020-12-18,2021-02-09,Kohli Residency,Bhayandar East,Mira Bhayandar,401101,Shop,,697,,83000.0,83000.0,Vamakshi Patla
+SALE-SHOP-2140,Sold,Sale,2022-11-07,2023-01-15,Cherian Heights,Shanti Nagar,Mira Bhayandar,401105,Shop,,1534,13300000.0,,13088325.0,Kai Lad
+SALE-APAR-2141,Sold,Sale,2025-07-08,2025-09-06,Behl Complex,Bhayandar East,Mira Bhayandar,401105,Apartment,2.0,1048,13800000.0,,13201421.0,Alexander Apte
+SALE-SHOP-2142,Sold,Sale,2022-07-03,2022-08-09,Mittal Heights,Shanti Nagar,Mira Bhayandar,401105,Shop,,1657,7200000.0,,7052091.0,Mitesh Khosla
+RENT-APAR-2143,Rented,Rent,2022-06-11,2022-08-30,Mitter Park,Bhayandar East,Mira Bhayandar,401107,Apartment,1.0,517,,24000.0,24000.0,Aarna Shanker
+RENT-APAR-2144,Rented,Rent,2024-06-26,2024-09-20,Saxena Park,Beverly Park,Mira Bhayandar,401101,Apartment,2.0,695,,39000.0,39000.0,Aayush Bassi
+SALE-APAR-2145,Sold,Sale,2025-04-03,2025-06-24,Lata Plaza,Mira Road East,Mira Bhayandar,401101,Apartment,1.0,520,6700000.0,,6468233.0,Rachana Hayer
+SALE-OFFI-2146,Sold,Sale,2021-10-07,2021-12-05,Kaul Complex,Beverly Park,Mira Bhayandar,401101,Office Space,,1442,18800000.0,,17916655.0,Wahab Narain
+SALE-APAR-2147,Sold,Sale,2022-10-03,2022-10-24,Sahni Residency,Beverly Park,Mira Bhayandar,401105,Apartment,3.0,1429,20900000.0,,19885593.0,Vritti Barad
+RENT-OFFI-2148,Rented,Rent,2024-01-12,2024-03-29,Gera Complex,Golden Nest,Mira Bhayandar,401107,Office Space,,2209,,108000.0,108000.0,Vamakshi Bhandari
+RENT-OFFI-2149,Rented,Rent,2021-10-06,2021-11-28,Tak Heights,Shanti Nagar,Mira Bhayandar,401101,Office Space,,2126,,156000.0,156000.0,Gavin Patla
+SALE-APAR-2150,Sold,Sale,2021-06-20,2021-08-22,Wali Towers,Mira Road East,Mira Bhayandar,401101,Apartment,1.0,433,5300000.0,,5211064.0,Zaid Balan
+SALE-OFFI-2151,Sold,Sale,2021-09-23,2021-11-16,Dash Towers,Mira Road East,Mira Bhayandar,401105,Office Space,,2013,32700000.0,,31251083.0,Maya Sengupta
+RENT-SHOP-2152,Rented,Rent,2023-05-19,2023-06-15,Dugar Complex,Shanti Nagar,Mira Bhayandar,401101,Shop,,1709,,101000.0,101000.0,Faras Gokhale
+SALE-SHOP-2153,Sold,Sale,2024-10-12,2024-12-07,Anne Park,Beverly Park,Mira Bhayandar,401101,Shop,,1516,28200000.0,,28052222.0,Qasim Bir
+SALE-APAR-2154,Sold,Sale,2023-12-16,2024-02-13,Suresh Park,Kanakia,Mira Bhayandar,401105,Apartment,3.0,1106,19400000.0,,19037006.0,Janani Halder
+RENT-OFFI-2155,Rented,Rent,2021-11-18,2021-12-11,Narasimhan Towers,Beverly Park,Mira Bhayandar,401105,Office Space,,648,,192000.0,192000.0,Vedhika Venkataraman
+SALE-APAR-2156,Sold,Sale,2020-10-19,2021-01-17,Bawa Towers,Bhayandar East,Mira Bhayandar,401101,Apartment,3.0,1745,19800000.0,,19131632.0,Gauri Soni
+SALE-SHOP-2157,Sold,Sale,2022-06-16,2022-08-12,Nath Residency,Bhayandar West,Mira Bhayandar,401107,Shop,,2230,34900000.0,,34084850.0,Zaitra Brahmbhatt
+SALE-OFFI-2158,Sold,Sale,2024-06-26,2024-09-12,Rai Complex,Kanakia,Mira Bhayandar,401107,Office Space,,1323,30900000.0,,29397872.0,Kiaan Kade
+SALE-APAR-2159,Sold,Sale,2020-07-25,2020-08-27,Kala Towers,Bhayandar East,Mira Bhayandar,401101,Apartment,3.0,1688,16500000.0,,16129038.0,Ishita Thakkar
+RENT-APAR-2160,Rented,Rent,2023-11-27,2023-12-26,Bhargava Park,Bhayandar East,Mira Bhayandar,401101,Apartment,2.0,1064,,32000.0,32000.0,Devika Kaur
+SALE-APAR-2161,Sold,Sale,2021-11-25,2021-12-21,Rajagopalan Residency,Bhayandar West,Mira Bhayandar,401107,Apartment,2.0,1083,10700000.0,,10298810.0,Ekiya Shan
+SALE-OFFI-2162,Sold,Sale,2023-02-12,2023-03-17,Dar Towers,Golden Nest,Mira Bhayandar,401105,Office Space,,1148,18900000.0,,18856011.0,Ekapad Mistry
+SALE-OFFI-2163,Sold,Sale,2022-06-20,2022-09-16,Parmer Park,Bhayandar West,Mira Bhayandar,401105,Office Space,,342,9200000.0,,8906781.0,Jeet Bala
+SALE-SHOP-2164,Sold,Sale,2022-02-20,2022-04-25,Ramachandran Complex,Bhayandar West,Mira Bhayandar,401107,Shop,,829,36700000.0,,35508134.0,Waida Viswanathan
+RENT-APAR-2165,Rented,Rent,2021-04-19,2021-06-10,Raghavan Towers,Kanakia,Mira Bhayandar,401105,Apartment,2.0,950,,35000.0,35000.0,Mitali More
+SALE-SHOP-2166,Sold,Sale,2022-03-29,2022-06-22,Patla Heights,Shanti Nagar,Mira Bhayandar,401101,Shop,,699,28900000.0,,28585356.0,Rohan Sarkar
+RENT-OFFI-2167,Rented,Rent,2022-12-12,2023-02-05,Patla Plaza,Bhayandar East,Mira Bhayandar,401107,Office Space,,905,,68000.0,68000.0,Kashvi Bhagat
+RENT-OFFI-2168,Rented,Rent,2022-04-19,2022-06-02,Saha Residency,Mira Road East,Mira Bhayandar,401101,Office Space,,428,,71000.0,71000.0,Watika Ganesan
+RENT-APAR-2169,Rented,Rent,2021-10-09,2021-12-30,Kuruvilla Heights,Mira Road East,Mira Bhayandar,401101,Apartment,2.0,1098,,40000.0,40000.0,Riya Venkatesh
+SALE-SHOP-2170,Sold,Sale,2020-11-05,2021-01-07,Pandya Park,Beverly Park,Mira Bhayandar,401101,Shop,,1714,15400000.0,,15168119.0,Raghav Dhaliwal
+SALE-APAR-2171,Sold,Sale,2024-07-08,2024-09-28,Konda Park,Mira Road East,Mira Bhayandar,401105,Apartment,3.0,1306,19100000.0,,18704046.0,Rachana Gandhi
+SALE-SHOP-2172,Sold,Sale,2024-08-11,2024-11-08,Taneja Heights,Bhayandar East,Mira Bhayandar,401105,Shop,,1037,31200000.0,,30532676.0,Eshana Kata
+RENT-APAR-2173,Rented,Rent,2023-04-07,2023-05-19,Talwar Park,Bhayandar East,Mira Bhayandar,401107,Apartment,2.0,738,,39000.0,39000.0,Ria Savant
+SALE-OFFI-2174,Sold,Sale,2022-08-06,2022-09-13,Chaudhari Complex,Shanti Nagar,Mira Bhayandar,401105,Office Space,,233,14900000.0,,14265045.0,Udyati Chad
+SALE-APAR-2175,Sold,Sale,2024-11-09,2025-01-17,Raju Park,Mira Road East,Mira Bhayandar,401107,Apartment,3.0,1447,17000000.0,,16815180.0,Victor Sami
+RENT-OFFI-2176,Rented,Rent,2021-05-22,2021-08-05,Rana Towers,Kanakia,Mira Bhayandar,401107,Office Space,,672,,104000.0,104000.0,Xiti Kamdar
+RENT-SHOP-2177,Rented,Rent,2023-04-15,2023-05-23,Dhingra Heights,Bhayandar East,Mira Bhayandar,401107,Shop,,266,,119000.0,119000.0,Hema Boase
+SALE-OFFI-2178,Sold,Sale,2023-03-15,2023-05-08,Bail Complex,Kanakia,Mira Bhayandar,401101,Office Space,,2473,33900000.0,,32637471.0,Rajeshri Walla
+SALE-SHOP-2179,Sold,Sale,2022-06-12,2022-07-07,Rana Residency,Golden Nest,Mira Bhayandar,401107,Shop,,1090,15000000.0,,14837269.0,Samuel Sibal
+RENT-APAR-2180,Rented,Rent,2022-03-19,2022-04-17,Bakshi Park,Bhayandar West,Mira Bhayandar,401107,Apartment,1.0,610,,25000.0,25000.0,Wazir Tella
+SALE-APAR-2181,Sold,Sale,2024-09-30,2024-11-14,Reddy Park,Bhayandar East,Mira Bhayandar,401105,Apartment,3.0,1437,16600000.0,,16066225.0,Gaurangi Wable
+SALE-APAR-2182,Sold,Sale,2021-12-02,2022-01-05,Kakar Complex,Mira Road East,Mira Bhayandar,401107,Apartment,3.0,1786,16000000.0,,15755247.0,Wakeeta Bava
+RENT-SHOP-2183,Rented,Rent,2023-08-08,2023-10-12,Chandra Residency,Bhayandar West,Mira Bhayandar,401101,Shop,,2107,,170000.0,170000.0,Girindra Chahal
+SALE-APAR-2184,Sold,Sale,2022-03-12,2022-06-07,Rai Plaza,Golden Nest,Mira Bhayandar,401107,Apartment,3.0,1380,18000000.0,,17816881.0,Yashoda Tara
+RENT-SHOP-2185,Rented,Rent,2021-11-11,2021-12-17,Kapadia Complex,Mira Road East,Mira Bhayandar,401105,Shop,,605,,125000.0,125000.0,Suhani Iyengar
+RENT-APAR-2186,Rented,Rent,2025-03-23,2025-05-04,Chakrabarti Towers,Bhayandar East,Mira Bhayandar,401101,Apartment,1.0,471,,21000.0,21000.0,Ekta Anne
+SALE-SHOP-2187,Sold,Sale,2022-07-31,2022-09-07,Madan Residency,Bhayandar West,Mira Bhayandar,401101,Shop,,1095,21600000.0,,21142986.0,Girik Lall
+SALE-OFFI-2188,Sold,Sale,2024-01-21,2024-03-19,Sen Park,Bhayandar East,Mira Bhayandar,401101,Office Space,,2258,37000000.0,,35576741.0,Logan Menon
+RENT-SHOP-2189,Rented,Rent,2025-04-22,2025-05-23,Goda Complex,Mira Road East,Mira Bhayandar,401101,Shop,,1672,,147000.0,147000.0,Turvi Chada
+SALE-SHOP-2190,Sold,Sale,2022-06-09,2022-08-04,Dhawan Complex,Golden Nest,Mira Bhayandar,401101,Shop,,1960,15600000.0,,15569667.0,Viraj Dada
+SALE-OFFI-2191,Sold,Sale,2025-01-14,2025-03-03,Toor Heights,Shanti Nagar,Mira Bhayandar,401101,Office Space,,1004,11700000.0,,11391114.0,Matthew Choudhary
+SALE-APAR-2192,Sold,Sale,2025-04-18,2025-07-12,Parmer Complex,Beverly Park,Mira Bhayandar,401107,Apartment,2.0,679,14900000.0,,14517593.0,Shravya Aurora
+RENT-APAR-2193,Rented,Rent,2024-05-22,2024-07-05,Chaudhuri Residency,Golden Nest,Mira Bhayandar,401105,Apartment,2.0,987,,36000.0,36000.0,Vihaan Sinha
+RENT-OFFI-2194,Rented,Rent,2022-07-24,2022-10-03,Rajagopalan Park,Bhayandar East,Mira Bhayandar,401105,Office Space,,2160,,122000.0,122000.0,Yoshita Deol
+SALE-OFFI-2195,Sold,Sale,2021-12-14,2022-02-02,Dora Residency,Bhayandar East,Mira Bhayandar,401101,Office Space,,1814,15900000.0,,15319018.0,Devansh Balakrishnan
+SALE-OFFI-2196,Sold,Sale,2023-02-25,2023-05-04,Chatterjee Plaza,Kanakia,Mira Bhayandar,401107,Office Space,,1702,27200000.0,,26469041.0,Damyanti Mahal
+SALE-SHOP-2197,Sold,Sale,2021-09-25,2021-12-20,Raja Towers,Mira Road East,Mira Bhayandar,401107,Shop,,1852,37800000.0,,36189097.0,Joshua Banik
+RENT-APAR-2198,Rented,Rent,2025-02-16,2025-03-24,Sani Residency,Bhayandar West,Mira Bhayandar,401101,Apartment,2.0,803,,36000.0,36000.0,Yatin Pandit
+SALE-APAR-2199,Sold,Sale,2020-09-08,2020-12-03,Sabharwal Park,Kanakia,Mira Bhayandar,401101,Apartment,3.0,1323,21500000.0,,20564256.0,Arin Sehgal
+SALE-SHOP-2200,Sold,Sale,2021-01-24,2021-04-14,Nori Park,Golden Nest,Mira Bhayandar,401105,Shop,,428,22000000.0,,21416901.0,Devika Padmanabhan
+RENT-SHOP-2201,Rented,Rent,2021-04-07,2021-05-15,Majumdar Park,Bhayandar East,Mira Bhayandar,401105,Shop,,1026,,104000.0,104000.0,Upkaar Saran
+SALE-APAR-2202,Sold,Sale,2021-03-20,2021-04-18,Jani Plaza,Beverly Park,Mira Bhayandar,401101,Apartment,3.0,1717,22900000.0,,22655145.0,Krisha Mukhopadhyay
+SALE-OFFI-2203,Sold,Sale,2021-01-24,2021-03-30,Mital Park,Beverly Park,Mira Bhayandar,401105,Office Space,,982,35900000.0,,34598428.0,Lavanya Baral
+RENT-OFFI-2204,Rented,Rent,2021-02-08,2021-05-08,Kale Complex,Shanti Nagar,Mira Bhayandar,401107,Office Space,,1456,,193000.0,193000.0,Onkar Brahmbhatt
+RENT-SHOP-2205,Rented,Rent,2023-05-15,2023-07-15,Patla Complex,Kanakia,Mira Bhayandar,401101,Shop,,859,,58000.0,58000.0,Harsh Sharaf
+RENT-OFFI-2206,Rented,Rent,2023-09-21,2023-11-23,Kothari Towers,Bhayandar East,Mira Bhayandar,401107,Office Space,,1840,,175000.0,175000.0,Baljiwan Bava
+SALE-OFFI-2207,Sold,Sale,2021-03-08,2021-05-13,Sha Towers,Beverly Park,Mira Bhayandar,401107,Office Space,,1705,14800000.0,,14541448.0,Yashasvi Biswas
+RENT-SHOP-2208,Rented,Rent,2020-11-05,2020-12-16,Ramanathan Towers,Golden Nest,Mira Bhayandar,401105,Shop,,1387,,140000.0,140000.0,Krish Bhasin
+RENT-OFFI-2209,Rented,Rent,2025-07-08,2025-10-04,Vohra Towers,Kanakia,Mira Bhayandar,401105,Office Space,,2305,,183000.0,183000.0,Amrita Bal
+RENT-SHOP-2210,Rented,Rent,2024-12-23,2025-01-31,Dyal Residency,Shanti Nagar,Mira Bhayandar,401105,Shop,,2256,,136000.0,136000.0,Gagan Dass
+RENT-OFFI-2211,Rented,Rent,2024-04-26,2024-06-01,Dara Complex,Shanti Nagar,Mira Bhayandar,401105,Office Space,,990,,122000.0,122000.0,Omaja Chaudry
+RENT-SHOP-2212,Rented,Rent,2022-11-06,2023-01-06,Dhillon Plaza,Bhayandar West,Mira Bhayandar,401101,Shop,,432,,112000.0,112000.0,Diya Om
+SALE-SHOP-2213,Sold,Sale,2021-12-31,2022-03-05,Patil Plaza,Mira Road East,Mira Bhayandar,401105,Shop,,1959,7200000.0,,7123411.0,Udyati Sarraf
+RENT-OFFI-2214,Rented,Rent,2024-11-23,2025-02-15,Korpal Park,Shanti Nagar,Mira Bhayandar,401101,Office Space,,1002,,125000.0,125000.0,Vedhika Ramaswamy
+SALE-APAR-2215,Sold,Sale,2022-11-10,2022-12-30,Ray Complex,Golden Nest,Mira Bhayandar,401101,Apartment,3.0,1499,21100000.0,,20882701.0,Qabil Shan
+RENT-SHOP-2216,Rented,Rent,2021-01-09,2021-02-16,Dâ€™Alia Towers,Shanti Nagar,Mira Bhayandar,401101,Shop,,891,,157000.0,157000.0,Veda Khurana
+SALE-SHOP-2217,Sold,Sale,2023-05-10,2023-07-18,Magar Heights,Bhayandar East,Mira Bhayandar,401101,Shop,,1399,21100000.0,,21076092.0,Chasmum Upadhyay
+RENT-OFFI-2218,Rented,Rent,2024-05-02,2024-07-08,Mitter Residency,Shanti Nagar,Mira Bhayandar,401105,Office Space,,549,,168000.0,168000.0,Finn Balay
+SALE-APAR-2219,Sold,Sale,2025-02-23,2025-03-29,Suri Heights,Shanti Nagar,Mira Bhayandar,401107,Apartment,1.0,407,6500000.0,,6435185.0,Edhitha Nanda
+SALE-APAR-2220,Sold,Sale,2024-02-01,2024-03-31,Bora Plaza,Shanti Nagar,Mira Bhayandar,401101,Apartment,1.0,482,4600000.0,,4543950.0,Utkarsh Mishra
+RENT-OFFI-2221,Rented,Rent,2022-08-01,2022-08-28,Vyas Park,Bhayandar East,Mira Bhayandar,401101,Office Space,,947,,152000.0,152000.0,Daksh Som
+SALE-SHOP-2222,Sold,Sale,2021-03-15,2021-05-01,Bassi Park,Shanti Nagar,Mira Bhayandar,401101,Shop,,798,37800000.0,,36606850.0,Sarthak Kale
+RENT-OFFI-2223,Rented,Rent,2023-12-25,2024-02-21,Ramachandran Park,Kanakia,Mira Bhayandar,401107,Office Space,,1561,,86000.0,86000.0,Yuvraj Garde
+SALE-APAR-2224,Sold,Sale,2024-08-17,2024-10-27,Dey Heights,Bhayandar East,Mira Bhayandar,401105,Apartment,2.0,1038,12900000.0,,12528918.0,Sanaya Kashyap
+RENT-APAR-2225,Rented,Rent,2023-07-25,2023-10-10,Sridhar Park,Mira Road East,Mira Bhayandar,401105,Apartment,1.0,501,,23000.0,23000.0,Rajata Bhagat
+RENT-SHOP-2226,Rented,Rent,2023-11-06,2023-12-06,Nayar Plaza,Beverly Park,Mira Bhayandar,401101,Shop,,1501,,118000.0,118000.0,Dipta Murty
+RENT-SHOP-2227,Rented,Rent,2025-04-29,2025-07-18,Patil Towers,Bhayandar West,Mira Bhayandar,401101,Shop,,1907,,55000.0,55000.0,Banjeet Gala
+RENT-APAR-2228,Rented,Rent,2024-06-05,2024-07-23,Subramaniam Residency,Golden Nest,Mira Bhayandar,401105,Apartment,3.0,1562,,52000.0,52000.0,Farhan Amble
+SALE-OFFI-2229,Sold,Sale,2025-03-30,2025-06-11,Shankar Park,Bhayandar West,Mira Bhayandar,401107,Office Space,,204,28900000.0,,28041846.0,Aarav Murty
+RENT-APAR-2230,Rented,Rent,2021-05-23,2021-08-02,Ramachandran Towers,Kanakia,Mira Bhayandar,401107,Apartment,1.0,660,,25000.0,25000.0,Maanav Muni
+RENT-APAR-2231,Rented,Rent,2025-02-10,2025-03-02,Brahmbhatt Heights,Shanti Nagar,Mira Bhayandar,401105,Apartment,3.0,1450,,59000.0,59000.0,Rayaan Batta
+SALE-SHOP-2232,Sold,Sale,2022-03-04,2022-05-11,Dhawan Towers,Golden Nest,Mira Bhayandar,401107,Shop,,1137,29100000.0,,28665854.0,Manthan Bawa
+SALE-OFFI-2233,Sold,Sale,2022-09-13,2022-12-09,Saha Residency,Bhayandar East,Mira Bhayandar,401107,Office Space,,1447,40000000.0,,39838898.0,Banjeet Malhotra
+SALE-APAR-2234,Sold,Sale,2021-05-09,2021-07-01,Bawa Park,Shanti Nagar,Mira Bhayandar,401107,Apartment,2.0,972,14100000.0,,13413663.0,Yashoda Wason
+RENT-OFFI-2235,Rented,Rent,2024-03-09,2024-04-12,Sami Heights,Bhayandar East,Mira Bhayandar,401101,Office Space,,738,,199000.0,199000.0,Lila Aurora
+SALE-OFFI-2236,Sold,Sale,2022-06-30,2022-08-12,Pant Plaza,Mira Road East,Mira Bhayandar,401101,Office Space,,470,8900000.0,,8600775.0,Mason Dash
+SALE-APAR-2237,Sold,Sale,2021-10-19,2021-12-30,Balay Complex,Kanakia,Mira Bhayandar,401101,Apartment,2.0,805,10100000.0,,9635324.0,Lakshmi Som
+RENT-SHOP-2238,Rented,Rent,2024-05-14,2024-06-25,Bhat Plaza,Mira Road East,Mira Bhayandar,401101,Shop,,1345,,150000.0,150000.0,Leela Iyer
+RENT-OFFI-2239,Rented,Rent,2023-10-05,2023-11-07,Gour Heights,Bhayandar East,Mira Bhayandar,401105,Office Space,,1195,,182000.0,182000.0,Yuvraj Vohra
+RENT-APAR-2240,Rented,Rent,2022-05-02,2022-07-27,Mahal Plaza,Mira Road East,Mira Bhayandar,401105,Apartment,3.0,1317,,40000.0,40000.0,Timothy Raju
+SALE-SHOP-2241,Sold,Sale,2022-02-07,2022-03-03,Yadav Towers,Kanakia,Mira Bhayandar,401101,Shop,,1806,20000000.0,,19282196.0,Oscar Mukherjee
+RENT-APAR-2242,Rented,Rent,2024-01-23,2024-03-14,Naidu Residency,Mira Road East,Mira Bhayandar,401105,Apartment,2.0,1007,,29000.0,29000.0,Jyoti Zacharia
+RENT-SHOP-2243,Rented,Rent,2023-11-14,2023-12-06,Muni Plaza,Shanti Nagar,Mira Bhayandar,401107,Shop,,2191,,199000.0,199000.0,Samaksh Chopra
+RENT-SHOP-2244,Rented,Rent,2020-10-07,2021-01-01,Sarna Park,Bhayandar East,Mira Bhayandar,401107,Shop,,740,,167000.0,167000.0,Isaiah Gade
+SALE-APAR-2245,Sold,Sale,2024-12-26,2025-01-31,Wable Park,Bhayandar East,Mira Bhayandar,401107,Apartment,3.0,1793,21000000.0,,20688954.0,Tanish Bhasin
+SALE-SHOP-2246,Sold,Sale,2021-08-31,2021-10-17,Mani Park,Beverly Park,Mira Bhayandar,401101,Shop,,495,37900000.0,,37496231.0,Brinda Hegde
+SALE-APAR-2247,Sold,Sale,2021-05-17,2021-07-17,Madan Heights,Bhayandar West,Mira Bhayandar,401101,Apartment,2.0,1018,10000000.0,,9929173.0,Girik Sodhi
+SALE-APAR-2248,Sold,Sale,2021-05-02,2021-05-22,Shah Towers,Bhayandar East,Mira Bhayandar,401107,Apartment,2.0,842,12400000.0,,11891234.0,Advaith Deol
+RENT-APAR-2249,Rented,Rent,2020-11-14,2020-12-22,Kala Park,Golden Nest,Mira Bhayandar,401107,Apartment,1.0,671,,25000.0,25000.0,Rachana Karnik
+SALE-APAR-2250,Sold,Sale,2024-11-11,2025-01-02,Rau Complex,Beverly Park,Mira Bhayandar,401105,Apartment,3.0,1279,17200000.0,,16452793.0,Pranit Khare
+RENT-APAR-2251,Rented,Rent,2024-06-01,2024-07-09,Sama Park,Golden Nest,Mira Bhayandar,401105,Apartment,1.0,440,,15000.0,15000.0,Arya Dass
+RENT-SHOP-2252,Rented,Rent,2021-07-10,2021-07-30,Kumar Heights,Shanti Nagar,Mira Bhayandar,401107,Shop,,1610,,151000.0,151000.0,Niharika Dara
+RENT-APAR-2253,Rented,Rent,2022-11-05,2023-01-25,Pandey Residency,Bhayandar West,Mira Bhayandar,401107,Apartment,1.0,596,,19000.0,19000.0,Odika Sem
+RENT-OFFI-2254,Rented,Rent,2021-08-09,2021-09-16,Nair Plaza,Shanti Nagar,Mira Bhayandar,401101,Office Space,,474,,172000.0,172000.0,Ekantika Kalla
+RENT-APAR-2255,Rented,Rent,2021-04-14,2021-05-12,Krishnan Residency,Bhayandar West,Mira Bhayandar,401101,Apartment,2.0,808,,25000.0,25000.0,Nakul Warrior
+SALE-APAR-2256,Sold,Sale,2023-10-07,2023-12-10,Bora Complex,Kanakia,Mira Bhayandar,401101,Apartment,1.0,607,4900000.0,,4829910.0,Rehaan Baria
+RENT-APAR-2257,Rented,Rent,2021-01-12,2021-02-24,Sarkar Plaza,Kanakia,Mira Bhayandar,401101,Apartment,3.0,1438,,59000.0,59000.0,Chakradhar Suresh
+RENT-APAR-2258,Rented,Rent,2022-07-25,2022-10-19,Baria Complex,Bhayandar East,Mira Bhayandar,401101,Apartment,2.0,1086,,37000.0,37000.0,Vedika Taneja
+SALE-SHOP-2259,Sold,Sale,2022-10-19,2022-11-29,Srinivas Towers,Kanakia,Mira Bhayandar,401101,Shop,,1641,20600000.0,,20496323.0,Sneha Thaman
+SALE-SHOP-2260,Sold,Sale,2022-05-30,2022-08-21,Raja Residency,Mira Road East,Mira Bhayandar,401107,Shop,,1889,30100000.0,,29813359.0,Praneel Sahota
+RENT-SHOP-2261,Rented,Rent,2022-07-14,2022-08-17,Datta Towers,Golden Nest,Mira Bhayandar,401107,Shop,,1730,,169000.0,169000.0,Andrew Nadkarni
+RENT-APAR-2262,Rented,Rent,2022-11-16,2022-12-28,Mitra Towers,Beverly Park,Mira Bhayandar,401105,Apartment,2.0,1085,,34000.0,34000.0,Pranav Kadakia
+RENT-SHOP-2263,Rented,Rent,2024-03-15,2024-04-25,Mannan Residency,Golden Nest,Mira Bhayandar,401105,Shop,,1248,,88000.0,88000.0,Logan Doctor
+RENT-APAR-2264,Rented,Rent,2020-09-27,2020-12-04,Hari Towers,Shanti Nagar,Mira Bhayandar,401101,Apartment,1.0,423,,15000.0,15000.0,Jagvi Tailor
+RENT-SHOP-2265,Rented,Rent,2022-03-18,2022-06-09,Mody Towers,Kanakia,Mira Bhayandar,401107,Shop,,452,,129000.0,129000.0,Yasti Randhawa
+SALE-APAR-2266,Sold,Sale,2020-12-20,2021-02-14,Rajagopal Plaza,Bhayandar West,Mira Bhayandar,401107,Apartment,2.0,784,9800000.0,,9349769.0,Hitesh Singhal
+SALE-OFFI-2267,Sold,Sale,2025-06-07,2025-07-15,Sibal Towers,Bhayandar West,Mira Bhayandar,401107,Office Space,,1956,27800000.0,,26694096.0,Balveer Varkey
+RENT-OFFI-2268,Rented,Rent,2024-05-17,2024-08-09,Sani Towers,Mira Road East,Mira Bhayandar,401107,Office Space,,769,,79000.0,79000.0,Krisha Bhatti
+RENT-OFFI-2269,Rented,Rent,2025-05-18,2025-08-15,Garg Towers,Bhayandar East,Mira Bhayandar,401101,Office Space,,1656,,80000.0,80000.0,Deepa Lata
+SALE-OFFI-2270,Sold,Sale,2024-01-10,2024-02-09,Prakash Plaza,Bhayandar West,Mira Bhayandar,401105,Office Space,,1289,7700000.0,,7319096.0,Amaira Sankar
+RENT-OFFI-2271,Rented,Rent,2025-04-03,2025-06-07,Dutta Park,Kanakia,Mira Bhayandar,401107,Office Space,,1832,,63000.0,63000.0,Krishna Konda
+SALE-APAR-2272,Sold,Sale,2022-01-28,2022-03-09,Kulkarni Plaza,Golden Nest,Mira Bhayandar,401105,Apartment,1.0,612,4600000.0,,4530713.0,Ridhi Chaudhari
+RENT-SHOP-2273,Rented,Rent,2022-07-26,2022-08-17,Ramachandran Complex,Bhayandar West,Mira Bhayandar,401101,Shop,,591,,93000.0,93000.0,Bhavya Bir
+RENT-SHOP-2274,Rented,Rent,2025-05-05,2025-08-03,Krishnan Residency,Shanti Nagar,Mira Bhayandar,401105,Shop,,495,,53000.0,53000.0,Girindra Zachariah
+SALE-OFFI-2275,Sold,Sale,2023-05-17,2023-07-19,Raghavan Towers,Beverly Park,Mira Bhayandar,401107,Office Space,,2445,23200000.0,,22346550.0,Harsh Ghose
+SALE-APAR-2276,Sold,Sale,2024-05-31,2024-08-25,Nair Complex,Shanti Nagar,Mira Bhayandar,401107,Apartment,3.0,1197,22800000.0,,22114518.0,Darika Chahal
+SALE-APAR-2277,Sold,Sale,2022-10-15,2022-12-30,Goyal Heights,Bhayandar West,Mira Bhayandar,401105,Apartment,3.0,1685,20300000.0,,19893053.0,Om Munshi
+SALE-OFFI-2278,Sold,Sale,2021-12-16,2022-03-01,Chander Towers,Bhayandar West,Mira Bhayandar,401101,Office Space,,806,21100000.0,,20891695.0,Diya Narayan
+RENT-SHOP-2279,Rented,Rent,2024-12-18,2025-02-22,Bir Park,Golden Nest,Mira Bhayandar,401107,Shop,,1557,,168000.0,168000.0,David Chowdhury
+SALE-SHOP-2280,Sold,Sale,2021-07-06,2021-09-16,Mital Towers,Mira Road East,Mira Bhayandar,401105,Shop,,1515,11300000.0,,11189738.0,Hredhaan Sarkar
+RENT-OFFI-2281,Rented,Rent,2021-01-13,2021-02-12,Kumer Complex,Kanakia,Mira Bhayandar,401101,Office Space,,2404,,126000.0,126000.0,Yuvraj Mane
+RENT-APAR-2282,Rented,Rent,2021-11-23,2021-12-27,Shanker Complex,Shanti Nagar,Mira Bhayandar,401105,Apartment,1.0,451,,21000.0,21000.0,Wyatt Panchal
+SALE-SHOP-2283,Sold,Sale,2021-06-07,2021-07-06,Zacharia Complex,Bhayandar West,Mira Bhayandar,401107,Shop,,1257,25800000.0,,25344231.0,Oviya Pathak
+SALE-OFFI-2284,Sold,Sale,2024-09-02,2024-11-09,Kannan Heights,Bhayandar West,Mira Bhayandar,401101,Office Space,,1294,9000000.0,,8565112.0,Nidra Mannan
+RENT-APAR-2285,Rented,Rent,2021-05-21,2021-07-01,Gole Complex,Bhayandar West,Mira Bhayandar,401105,Apartment,2.0,855,,40000.0,40000.0,Eiravati Sem
+RENT-APAR-2286,Rented,Rent,2021-11-04,2022-01-15,Bumb Park,Shanti Nagar,Mira Bhayandar,401101,Apartment,3.0,1555,,45000.0,45000.0,Dakshesh Srinivasan
+RENT-APAR-2287,Rented,Rent,2020-10-11,2021-01-06,Borah Heights,Bhayandar East,Mira Bhayandar,401105,Apartment,3.0,1767,,56000.0,56000.0,Samesh Radhakrishnan
+SALE-APAR-2288,Sold,Sale,2024-06-05,2024-07-22,Kothari Towers,Kanakia,Mira Bhayandar,401101,Apartment,1.0,518,5000000.0,,4834796.0,Ayush Mammen
+SALE-SHOP-2289,Sold,Sale,2024-10-14,2024-11-16,Som Plaza,Mira Road East,Mira Bhayandar,401101,Shop,,1490,22200000.0,,21095861.0,Ishwar Pandit
+SALE-APAR-2290,Sold,Sale,2023-01-23,2023-03-28,Pandey Plaza,Mira Road East,Mira Bhayandar,401101,Apartment,2.0,968,11400000.0,,11219015.0,Harshil Lala
+SALE-SHOP-2291,Sold,Sale,2020-11-24,2021-01-10,Chopra Towers,Beverly Park,Mira Bhayandar,401101,Shop,,2069,7000000.0,,6811292.0,Gavin Dewan
+SALE-APAR-2292,Sold,Sale,2023-10-22,2024-01-07,Varma Residency,Shanti Nagar,Mira Bhayandar,401105,Apartment,1.0,559,6700000.0,,6429868.0,Girish Shanker
+SALE-APAR-2293,Sold,Sale,2025-03-01,2025-03-22,Choudhry Residency,Shanti Nagar,Mira Bhayandar,401107,Apartment,2.0,971,13400000.0,,13036968.0,Anusha Rao
+RENT-APAR-2294,Rented,Rent,2022-12-01,2023-01-03,Bajaj Towers,Shanti Nagar,Mira Bhayandar,401107,Apartment,2.0,965,,34000.0,34000.0,Nakul Seth
+SALE-APAR-2295,Sold,Sale,2021-04-17,2021-07-01,Majumdar Complex,Golden Nest,Mira Bhayandar,401105,Apartment,3.0,1712,20500000.0,,20328743.0,Girindra Lalla
+SALE-SHOP-2296,Sold,Sale,2020-08-10,2020-10-24,Dar Plaza,Mira Road East,Mira Bhayandar,401101,Shop,,2265,17500000.0,,17308181.0,Ishita More
+SALE-SHOP-2297,Sold,Sale,2023-07-12,2023-09-22,Dhar Complex,Bhayandar East,Mira Bhayandar,401101,Shop,,1241,19700000.0,,19653493.0,Hema Muni
+RENT-SHOP-2298,Rented,Rent,2024-05-05,2024-07-06,Chaudhary Residency,Beverly Park,Mira Bhayandar,401105,Shop,,1650,,136000.0,136000.0,Gaurangi Dasgupta
+RENT-APAR-2299,Rented,Rent,2022-07-10,2022-10-01,Suresh Park,Bhayandar East,Mira Bhayandar,401101,Apartment,2.0,982,,25000.0,25000.0,Eiravati Hari
+SALE-SHOP-2300,Sold,Sale,2023-04-24,2023-05-18,Sharma Complex,Kanakia,Mira Bhayandar,401107,Shop,,1714,25700000.0,,24623557.0,Ronith Morar
+SALE-SHOP-2301,Sold,Sale,2024-10-23,2024-12-26,Bora Park,Mira Road East,Mira Bhayandar,401101,Shop,,2140,9000000.0,,8944102.0,Dominic Palan
+SALE-OFFI-2302,Sold,Sale,2023-11-11,2023-12-29,Saxena Towers,Beverly Park,Mira Bhayandar,401101,Office Space,,2412,11900000.0,,11415970.0,Brinda Solanki
+SALE-APAR-2303,Sold,Sale,2021-05-12,2021-06-19,Garde Heights,Golden Nest,Mira Bhayandar,401105,Apartment,2.0,951,13800000.0,,13594990.0,Aarav Manne
+RENT-OFFI-2304,Rented,Rent,2024-02-08,2024-04-08,Shetty Towers,Golden Nest,Mira Bhayandar,401105,Office Space,,2105,,90000.0,90000.0,Elijah Hari
+SALE-SHOP-2305,Sold,Sale,2023-12-27,2024-03-17,Majumdar Towers,Mira Road East,Mira Bhayandar,401107,Shop,,824,31700000.0,,30727616.0,Keya Buch
+SALE-OFFI-2306,Sold,Sale,2025-02-10,2025-03-26,Chand Heights,Kanakia,Mira Bhayandar,401101,Office Space,,2254,35800000.0,,35395790.0,Zashil Subramanian
+RENT-SHOP-2307,Rented,Rent,2023-05-04,2023-06-04,Soman Towers,Beverly Park,Mira Bhayandar,401105,Shop,,210,,117000.0,117000.0,Urvashi Sinha
+RENT-OFFI-2308,Rented,Rent,2023-02-05,2023-03-19,Malhotra Towers,Mira Road East,Mira Bhayandar,401105,Office Space,,1068,,167000.0,167000.0,Laban Chandra
+RENT-SHOP-2309,Rented,Rent,2021-02-08,2021-03-04,Bhavsar Towers,Golden Nest,Mira Bhayandar,401105,Shop,,2004,,161000.0,161000.0,Naksh Lal
+SALE-OFFI-2310,Sold,Sale,2024-12-23,2025-03-04,Minhas Heights,Shanti Nagar,Mira Bhayandar,401101,Office Space,,737,27800000.0,,26982120.0,Bhanumati Sundaram
+RENT-OFFI-2311,Rented,Rent,2022-02-23,2022-04-27,Vora Towers,Shanti Nagar,Mira Bhayandar,401105,Office Space,,2121,,177000.0,177000.0,Yashodhara Kalla
+SALE-OFFI-2312,Sold,Sale,2025-04-27,2025-05-21,Bandi Park,Bhayandar East,Mira Bhayandar,401101,Office Space,,864,9500000.0,,9204466.0,Anjali De
+SALE-OFFI-2313,Sold,Sale,2022-01-25,2022-02-19,Joshi Towers,Shanti Nagar,Mira Bhayandar,401107,Office Space,,275,26800000.0,,26400048.0,Saanvi Khurana
+RENT-OFFI-2314,Rented,Rent,2023-03-11,2023-04-02,Ganguly Heights,Mira Road East,Mira Bhayandar,401107,Office Space,,572,,134000.0,134000.0,Sneha Goel
+RENT-OFFI-2315,Rented,Rent,2021-05-10,2021-08-02,Hari Park,Beverly Park,Mira Bhayandar,401101,Office Space,,381,,88000.0,88000.0,Aryan Rau
+SALE-APAR-2316,Sold,Sale,2023-04-26,2023-05-31,Kunda Park,Shanti Nagar,Mira Bhayandar,401101,Apartment,1.0,412,6600000.0,,6345093.0,Manan Sarma
+SALE-APAR-2317,Sold,Sale,2021-10-18,2021-11-11,Chaudhuri Park,Mira Road East,Mira Bhayandar,401107,Apartment,2.0,651,12800000.0,,12661096.0,Yashica Dubey
+SALE-SHOP-2318,Sold,Sale,2022-01-24,2022-04-07,Mani Complex,Kanakia,Mira Bhayandar,401101,Shop,,2447,23600000.0,,23182379.0,Ojas Khalsa
+SALE-SHOP-2319,Sold,Sale,2023-08-23,2023-11-10,Solanki Complex,Shanti Nagar,Mira Bhayandar,401105,Shop,,600,21300000.0,,20644541.0,Jonathan Mann
+RENT-APAR-2320,Rented,Rent,2021-02-15,2021-05-05,Palla Towers,Kanakia,Mira Bhayandar,401101,Apartment,1.0,417,,17000.0,17000.0,Balhaar Garde
+SALE-SHOP-2321,Sold,Sale,2023-06-29,2023-09-23,Bhakta Park,Mira Road East,Mira Bhayandar,401105,Shop,,862,19000000.0,,18539597.0,Benjamin Sachdeva
+RENT-OFFI-2322,Rented,Rent,2023-06-12,2023-09-04,Sunder Residency,Shanti Nagar,Mira Bhayandar,401101,Office Space,,2198,,140000.0,140000.0,Aayush Loke
+RENT-APAR-2323,Rented,Rent,2024-12-19,2025-01-25,Basu Residency,Bhayandar West,Mira Bhayandar,401101,Apartment,2.0,809,,39000.0,39000.0,Janaki Bhandari
+RENT-OFFI-2324,Rented,Rent,2020-12-27,2021-02-19,Chatterjee Park,Bhayandar East,Mira Bhayandar,401107,Office Space,,1634,,61000.0,61000.0,Jalsa Chandra
+RENT-SHOP-2325,Rented,Rent,2024-01-07,2024-03-13,Mutti Plaza,Beverly Park,Mira Bhayandar,401107,Shop,,2389,,185000.0,185000.0,Ganga Parekh
+SALE-SHOP-2326,Sold,Sale,2020-11-09,2021-01-01,Ramachandran Complex,Shanti Nagar,Mira Bhayandar,401105,Shop,,1692,36400000.0,,35522119.0,Ranbir Bakshi
+RENT-APAR-2327,Rented,Rent,2021-08-21,2021-11-14,Bhargava Park,Beverly Park,Mira Bhayandar,401105,Apartment,2.0,1018,,37000.0,37000.0,Ikbal Iyer
+RENT-SHOP-2328,Rented,Rent,2023-08-29,2023-11-26,Saxena Complex,Shanti Nagar,Mira Bhayandar,401105,Shop,,1371,,78000.0,78000.0,Ekaja Sathe
+RENT-SHOP-2329,Rented,Rent,2022-03-03,2022-04-03,Dara Complex,Golden Nest,Mira Bhayandar,401101,Shop,,1689,,120000.0,120000.0,Champak Chaudhry
+RENT-OFFI-2330,Rented,Rent,2021-01-17,2021-03-01,Dalal Towers,Bhayandar West,Mira Bhayandar,401105,Office Space,,1648,,56000.0,56000.0,Mohini Chaudhuri
+RENT-APAR-2331,Rented,Rent,2023-12-28,2024-02-18,Muni Plaza,Shanti Nagar,Mira Bhayandar,401105,Apartment,1.0,558,,22000.0,22000.0,Nitesh Prabhakar
+SALE-OFFI-2332,Sold,Sale,2025-06-17,2025-09-14,Naidu Complex,Golden Nest,Mira Bhayandar,401107,Office Space,,1094,17800000.0,,17735950.0,Bhanumati Radhakrishnan
+RENT-OFFI-2333,Rented,Rent,2023-05-20,2023-07-30,Gara Residency,Shanti Nagar,Mira Bhayandar,401105,Office Space,,601,,92000.0,92000.0,Neha Dhar
+RENT-APAR-2334,Rented,Rent,2023-06-27,2023-09-01,Singh Towers,Mira Road East,Mira Bhayandar,401101,Apartment,2.0,1062,,25000.0,25000.0,Neha Bala
+SALE-APAR-2335,Sold,Sale,2022-02-27,2022-05-12,Deo Complex,Shanti Nagar,Mira Bhayandar,401101,Apartment,3.0,1128,18100000.0,,17897880.0,Januja Mukherjee
+SALE-OFFI-2336,Sold,Sale,2021-05-10,2021-07-13,Bumb Residency,Golden Nest,Mira Bhayandar,401105,Office Space,,1248,12500000.0,,12461010.0,Bhavini Wason
+SALE-OFFI-2337,Sold,Sale,2022-11-25,2023-02-12,Dube Park,Bhayandar West,Mira Bhayandar,401107,Office Space,,1415,20100000.0,,19305980.0,Ojasvi Sen
+RENT-OFFI-2338,Rented,Rent,2024-11-05,2024-11-30,Nagarajan Plaza,Mira Road East,Mira Bhayandar,401105,Office Space,,1697,,130000.0,130000.0,Mugdha Arora
+RENT-APAR-2339,Rented,Rent,2024-08-25,2024-10-29,Ahuja Complex,Golden Nest,Mira Bhayandar,401107,Apartment,1.0,589,,15000.0,15000.0,Ekbal Lata
+RENT-OFFI-2340,Rented,Rent,2022-05-09,2022-06-29,Nagarajan Heights,Bhayandar East,Mira Bhayandar,401101,Office Space,,1316,,190000.0,190000.0,Neha Bumb
+RENT-OFFI-2341,Rented,Rent,2024-03-07,2024-05-22,Pradhan Towers,Kanakia,Mira Bhayandar,401105,Office Space,,817,,153000.0,153000.0,Kalpit Kanda
+SALE-APAR-2342,Sold,Sale,2022-03-14,2022-05-29,Gour Park,Mira Road East,Mira Bhayandar,401107,Apartment,3.0,1296,19300000.0,,18464816.0,Kai Vala
+RENT-SHOP-2343,Rented,Rent,2025-01-17,2025-03-31,Narang Residency,Bhayandar East,Mira Bhayandar,401107,Shop,,2460,,133000.0,133000.0,Vrishti Chhabra
+RENT-OFFI-2344,Rented,Rent,2021-07-12,2021-08-24,Bhattacharyya Plaza,Shanti Nagar,Mira Bhayandar,401101,Office Space,,1674,,149000.0,149000.0,Eta Naidu
+RENT-SHOP-2345,Rented,Rent,2021-10-04,2022-01-02,Ramesh Residency,Kanakia,Mira Bhayandar,401105,Shop,,1104,,138000.0,138000.0,George Wali
+SALE-APAR-2346,Sold,Sale,2021-09-18,2021-11-20,Badal Towers,Mira Road East,Mira Bhayandar,401101,Apartment,3.0,1771,24700000.0,,24564302.0,Kiaan Majumdar
+RENT-APAR-2347,Rented,Rent,2023-12-01,2024-02-05,Comar Complex,Bhayandar East,Mira Bhayandar,401105,Apartment,3.0,1377,,42000.0,42000.0,Rohan Basu
+SALE-OFFI-2348,Sold,Sale,2021-10-20,2021-11-11,Gopal Complex,Mira Road East,Mira Bhayandar,401105,Office Space,,810,33400000.0,,32270902.0,Aarush Vora
+RENT-SHOP-2349,Rented,Rent,2021-08-23,2021-09-25,Sethi Heights,Golden Nest,Mira Bhayandar,401101,Shop,,820,,158000.0,158000.0,Urishilla Dube
+RENT-APAR-2350,Rented,Rent,2021-05-11,2021-06-05,Narayan Complex,Beverly Park,Mira Bhayandar,401107,Apartment,1.0,622,,15000.0,15000.0,Caleb Warrior
+RENT-SHOP-2351,Rented,Rent,2021-03-31,2021-05-14,Hari Plaza,Shanti Nagar,Mira Bhayandar,401101,Shop,,2293,,100000.0,100000.0,Dalaja Reddy
+SALE-SHOP-2352,Sold,Sale,2022-05-05,2022-07-05,Singh Plaza,Bhayandar East,Mira Bhayandar,401105,Shop,,883,12800000.0,,12423303.0,Samesh Handa
+SALE-APAR-2353,Sold,Sale,2021-12-19,2022-03-04,Balan Residency,Bhayandar West,Mira Bhayandar,401107,Apartment,2.0,881,11600000.0,,11187402.0,Advika Buch
+RENT-OFFI-2354,Rented,Rent,2021-05-16,2021-08-06,Mani Plaza,Kanakia,Mira Bhayandar,401107,Office Space,,538,,191000.0,191000.0,Mohammed Bajwa
+SALE-OFFI-2355,Sold,Sale,2024-01-30,2024-04-29,Shanker Heights,Beverly Park,Mira Bhayandar,401107,Office Space,,2106,8800000.0,,8692278.0,Praneel Bahri
+SALE-OFFI-2356,Sold,Sale,2022-11-16,2022-12-09,Rajagopal Park,Kanakia,Mira Bhayandar,401105,Office Space,,1067,29600000.0,,28999407.0,Geetika Sule
+RENT-APAR-2357,Rented,Rent,2025-07-02,2025-09-17,Pau Residency,Mira Road East,Mira Bhayandar,401101,Apartment,3.0,1316,,60000.0,60000.0,Luke Thaman
+RENT-SHOP-2358,Rented,Rent,2025-07-22,2025-10-10,Pandya Heights,Golden Nest,Mira Bhayandar,401101,Shop,,409,,93000.0,93000.0,Charita Buch
+SALE-APAR-2359,Sold,Sale,2025-02-17,2025-03-29,Zachariah Heights,Kanakia,Mira Bhayandar,401101,Apartment,2.0,1092,13800000.0,,13619716.0,Inaya Mane
+SALE-SHOP-2360,Sold,Sale,2022-12-11,2023-01-31,Varghese Towers,Bhayandar West,Mira Bhayandar,401105,Shop,,1283,14300000.0,,14064162.0,Chakrika Prasad
+RENT-OFFI-2361,Rented,Rent,2020-12-27,2021-03-14,Madan Park,Beverly Park,Mira Bhayandar,401105,Office Space,,2138,,192000.0,192000.0,Alexander Ganesan
+RENT-OFFI-2362,Rented,Rent,2025-02-24,2025-03-18,Yogi Heights,Bhayandar East,Mira Bhayandar,401107,Office Space,,1677,,160000.0,160000.0,Qabil Prashad
+SALE-SHOP-2363,Sold,Sale,2021-09-07,2021-10-15,Ranganathan Park,Shanti Nagar,Mira Bhayandar,401107,Shop,,1309,7200000.0,,6872911.0,Vincent Pau
+RENT-APAR-2364,Rented,Rent,2022-05-24,2022-08-22,Padmanabhan Complex,Golden Nest,Mira Bhayandar,401105,Apartment,2.0,674,,32000.0,32000.0,Ekansh Pathak
+RENT-APAR-2365,Rented,Rent,2022-01-02,2022-03-16,Pal Complex,Golden Nest,Mira Bhayandar,401101,Apartment,1.0,426,,24000.0,24000.0,Qabil Bora
+RENT-SHOP-2366,Rented,Rent,2024-07-21,2024-08-15,Sane Towers,Kanakia,Mira Bhayandar,401107,Shop,,502,,179000.0,179000.0,Hemal Som
+RENT-APAR-2367,Rented,Rent,2020-09-06,2020-10-25,Bali Complex,Beverly Park,Mira Bhayandar,401105,Apartment,3.0,1585,,44000.0,44000.0,Yadavi Tak
+RENT-OFFI-2368,Rented,Rent,2021-12-09,2022-02-21,Gour Plaza,Mira Road East,Mira Bhayandar,401105,Office Space,,233,,130000.0,130000.0,Wakeeta Shan
+SALE-OFFI-2369,Sold,Sale,2024-01-30,2024-04-03,Roy Heights,Beverly Park,Mira Bhayandar,401105,Office Space,,205,27600000.0,,26949760.0,Aashi Dasgupta
+RENT-APAR-2370,Rented,Rent,2023-01-25,2023-03-13,Agarwal Complex,Mira Road East,Mira Bhayandar,401107,Apartment,2.0,1077,,36000.0,36000.0,Victor Mammen
+SALE-SHOP-2371,Sold,Sale,2023-07-15,2023-08-13,Swaminathan Heights,Shanti Nagar,Mira Bhayandar,401107,Shop,,758,9700000.0,,9480276.0,Adweta Mohanty
+SALE-OFFI-2372,Sold,Sale,2021-03-08,2021-04-06,Apte Residency,Golden Nest,Mira Bhayandar,401105,Office Space,,1319,33400000.0,,33030254.0,Amrita Narula
+SALE-SHOP-2373,Sold,Sale,2021-12-12,2022-01-30,Nori Residency,Bhayandar East,Mira Bhayandar,401101,Shop,,2380,21800000.0,,21516658.0,Chanakya Madan
+SALE-OFFI-2374,Sold,Sale,2022-10-29,2022-11-25,Krishnan Residency,Bhayandar West,Mira Bhayandar,401107,Office Space,,1565,32000000.0,,31236225.0,Fiyaz Gola
+RENT-APAR-2375,Rented,Rent,2022-11-15,2023-01-10,Kashyap Heights,Golden Nest,Mira Bhayandar,401107,Apartment,1.0,420,,15000.0,15000.0,Jagvi Dutta
+RENT-OFFI-2376,Rented,Rent,2025-05-03,2025-06-22,Dhillon Complex,Bhayandar East,Mira Bhayandar,401107,Office Space,,1213,,166000.0,166000.0,Chakradev Sarkar
+SALE-SHOP-2377,Sold,Sale,2020-11-06,2021-01-04,Bir Park,Bhayandar West,Mira Bhayandar,401101,Shop,,2021,28900000.0,,28263252.0,Anmol Choudhary
+SALE-APAR-2378,Sold,Sale,2020-11-09,2021-01-20,Wable Complex,Bhayandar West,Mira Bhayandar,401107,Apartment,3.0,1312,21400000.0,,20621499.0,Alka Dar
+SALE-OFFI-2379,Sold,Sale,2022-08-29,2022-11-24,Vala Heights,Bhayandar West,Mira Bhayandar,401105,Office Space,,798,34800000.0,,34767880.0,Lakshit Borde
+RENT-SHOP-2380,Rented,Rent,2024-04-29,2024-06-29,Sama Residency,Kanakia,Mira Bhayandar,401105,Shop,,245,,59000.0,59000.0,Nilima Patla
+RENT-SHOP-2381,Rented,Rent,2023-04-21,2023-07-01,Andra Park,Kanakia,Mira Bhayandar,401107,Shop,,557,,119000.0,119000.0,Sai Chaudhari
+RENT-APAR-2382,Rented,Rent,2024-11-02,2024-12-30,Baria Complex,Golden Nest,Mira Bhayandar,401105,Apartment,2.0,811,,35000.0,35000.0,Theodore Ramachandran
+SALE-OFFI-2383,Sold,Sale,2022-01-18,2022-03-31,Mukhopadhyay Residency,Kanakia,Mira Bhayandar,401107,Office Space,,806,18900000.0,,18560374.0,Hiral Dani
+RENT-APAR-2384,Rented,Rent,2021-01-06,2021-02-09,Chauhan Residency,Beverly Park,Mira Bhayandar,401101,Apartment,2.0,938,,38000.0,38000.0,Jack Rana
+SALE-APAR-2385,Sold,Sale,2025-07-09,2025-08-16,Nagi Towers,Bhayandar East,Mira Bhayandar,401105,Apartment,2.0,900,12600000.0,,12033209.0,Ekbal Chakrabarti
+SALE-APAR-2386,Sold,Sale,2025-01-09,2025-03-03,Ghose Park,Bhayandar East,Mira Bhayandar,401101,Apartment,3.0,1125,24900000.0,,24834511.0,David Bora
+SALE-APAR-2387,Sold,Sale,2024-04-07,2024-06-19,Ranganathan Residency,Shanti Nagar,Mira Bhayandar,401101,Apartment,2.0,721,9400000.0,,9066666.0,Oeshi Sami
+SALE-APAR-2388,Sold,Sale,2023-03-10,2023-05-08,Panchal Heights,Bhayandar East,Mira Bhayandar,401101,Apartment,3.0,1473,22600000.0,,22463711.0,Abdul Mammen
+SALE-SHOP-2389,Sold,Sale,2024-03-07,2024-05-21,Peri Towers,Beverly Park,Mira Bhayandar,401107,Shop,,1275,24100000.0,,23507626.0,Nachiket Kulkarni
+RENT-SHOP-2390,Rented,Rent,2021-11-28,2022-02-08,Krishnamurthy Residency,Kanakia,Mira Bhayandar,401105,Shop,,2076,,148000.0,148000.0,Jalsa Kurian
+SALE-OFFI-2391,Sold,Sale,2023-08-18,2023-09-14,Batra Towers,Shanti Nagar,Mira Bhayandar,401107,Office Space,,784,32000000.0,,31016640.0,Vamakshi Choudhry
+RENT-APAR-2392,Rented,Rent,2024-01-15,2024-04-06,Bath Towers,Bhayandar East,Mira Bhayandar,401101,Apartment,3.0,1642,,45000.0,45000.0,Anjali Narain
+RENT-SHOP-2393,Rented,Rent,2022-03-04,2022-05-26,Prakash Plaza,Shanti Nagar,Mira Bhayandar,401107,Shop,,2306,,133000.0,133000.0,Rohan Kaur
+SALE-APAR-2394,Sold,Sale,2023-10-20,2023-12-07,Halder Towers,Golden Nest,Mira Bhayandar,401107,Apartment,2.0,952,10400000.0,,10044277.0,Anamika Dhar
+SALE-SHOP-2395,Sold,Sale,2024-03-05,2024-05-01,Toor Complex,Golden Nest,Mira Bhayandar,401105,Shop,,636,34000000.0,,33606611.0,Ridhi Singh
+RENT-OFFI-2396,Rented,Rent,2025-07-05,2025-07-30,Sankaran Heights,Bhayandar West,Mira Bhayandar,401105,Office Space,,2352,,198000.0,198000.0,Yug Nayak
+RENT-OFFI-2397,Rented,Rent,2021-11-09,2022-02-02,Pingle Heights,Bhayandar West,Mira Bhayandar,401105,Office Space,,1574,,104000.0,104000.0,Garima Bhardwaj
+RENT-APAR-2398,Rented,Rent,2022-07-26,2022-10-10,Madan Complex,Golden Nest,Mira Bhayandar,401105,Apartment,2.0,759,,26000.0,26000.0,Janaki Ganesan
+RENT-APAR-2399,Rented,Rent,2023-03-03,2023-04-18,Mukherjee Plaza,Bhayandar East,Mira Bhayandar,401105,Apartment,3.0,1569,,52000.0,52000.0,Om Rana
+RENT-OFFI-2400,Rented,Rent,2023-01-31,2023-03-22,Bath Residency,Golden Nest,Mira Bhayandar,401105,Office Space,,1363,,118000.0,118000.0,Nidhi Shah
+SALE-SHOP-2401,Sold,Sale,2022-03-09,2022-04-14,Varughese Plaza,Shanti Nagar,Mira Bhayandar,401101,Shop,,1621,32900000.0,,32322771.0,Bina Menon
+SALE-APAR-2402,Sold,Sale,2025-06-08,2025-09-04,Thakkar Complex,Golden Nest,Mira Bhayandar,401101,Apartment,3.0,1169,21900000.0,,21717459.0,Advaith Hayre
+RENT-SHOP-2403,Rented,Rent,2023-05-15,2023-06-23,Atwal Heights,Shanti Nagar,Mira Bhayandar,401107,Shop,,2162,,80000.0,80000.0,Zaitra Bal
+RENT-OFFI-2404,Rented,Rent,2020-11-21,2021-01-02,Dora Park,Beverly Park,Mira Bhayandar,401107,Office Space,,507,,105000.0,105000.0,Nitesh Pall
+SALE-OFFI-2405,Sold,Sale,2022-07-10,2022-08-14,Kothari Plaza,Kanakia,Mira Bhayandar,401107,Office Space,,1082,28000000.0,,26968419.0,Shivani Kibe
+SALE-SHOP-2406,Sold,Sale,2024-09-25,2024-11-01,Kothari Complex,Shanti Nagar,Mira Bhayandar,401107,Shop,,1255,38500000.0,,37806975.0,Alexander Naik
+SALE-OFFI-2407,Sold,Sale,2023-09-26,2023-12-24,Pandya Heights,Bhayandar West,Mira Bhayandar,401107,Office Space,,2426,39100000.0,,37253508.0,Utkarsh Natarajan
+RENT-SHOP-2408,Rented,Rent,2022-07-13,2022-10-05,Tandon Park,Beverly Park,Mira Bhayandar,401107,Shop,,2415,,170000.0,170000.0,Ira Kaul
+SALE-SHOP-2409,Sold,Sale,2023-12-26,2024-02-15,Chatterjee Towers,Golden Nest,Mira Bhayandar,401107,Shop,,686,39900000.0,,38415193.0,Onveer Apte
+RENT-OFFI-2410,Rented,Rent,2024-05-20,2024-07-09,Brar Residency,Mira Road East,Mira Bhayandar,401101,Office Space,,828,,187000.0,187000.0,Abhimanyu Sanghvi
+SALE-APAR-2411,Sold,Sale,2024-07-08,2024-08-24,Boase Residency,Mira Road East,Mira Bhayandar,401105,Apartment,2.0,999,12300000.0,,12060271.0,Rajata Ghosh
+RENT-OFFI-2412,Rented,Rent,2022-01-18,2022-03-14,Kibe Residency,Bhayandar West,Mira Bhayandar,401105,Office Space,,2489,,145000.0,145000.0,Rushil Viswanathan
+RENT-SHOP-2413,Rented,Rent,2021-06-08,2021-09-04,Choudhry Complex,Bhayandar East,Mira Bhayandar,401105,Shop,,263,,128000.0,128000.0,Meera Oza
+SALE-APAR-2414,Sold,Sale,2022-12-25,2023-02-16,Sekhon Plaza,Beverly Park,Mira Bhayandar,401105,Apartment,1.0,509,6200000.0,,6069221.0,Faraj Bose
+SALE-APAR-2415,Sold,Sale,2020-08-07,2020-08-31,Keer Residency,Kanakia,Mira Bhayandar,401105,Apartment,3.0,1386,22200000.0,,22176980.0,Shivansh Maharaj
+SALE-SHOP-2416,Sold,Sale,2020-11-19,2021-02-03,Chhabra Complex,Kanakia,Mira Bhayandar,401107,Shop,,1133,18800000.0,,18047237.0,Chandani Shah
+RENT-OFFI-2417,Rented,Rent,2021-12-07,2022-01-07,Cheema Residency,Kanakia,Mira Bhayandar,401107,Office Space,,1374,,111000.0,111000.0,Avni Butala
+RENT-SHOP-2418,Rented,Rent,2021-07-09,2021-08-01,Banik Residency,Bhayandar West,Mira Bhayandar,401107,Shop,,1620,,77000.0,77000.0,Indali Bajwa
+SALE-APAR-2419,Sold,Sale,2023-05-10,2023-07-29,Sule Residency,Bhayandar East,Mira Bhayandar,401107,Apartment,3.0,1447,16500000.0,,16068993.0,Chandran Contractor
+RENT-OFFI-2420,Rented,Rent,2025-03-20,2025-05-26,Kala Towers,Beverly Park,Mira Bhayandar,401101,Office Space,,2050,,160000.0,160000.0,Anjali Tara
+RENT-SHOP-2421,Rented,Rent,2021-10-26,2022-01-23,Soni Residency,Golden Nest,Mira Bhayandar,401101,Shop,,1740,,112000.0,112000.0,Omaja Bhatia
+SALE-SHOP-2422,Sold,Sale,2020-08-24,2020-10-31,Kaul Plaza,Kanakia,Mira Bhayandar,401107,Shop,,777,13600000.0,,12993069.0,Dhruv Sani
+RENT-SHOP-2423,Rented,Rent,2023-08-24,2023-09-18,Balan Towers,Mira Road East,Mira Bhayandar,401101,Shop,,935,,96000.0,96000.0,Samaksh Doshi
+RENT-APAR-2424,Rented,Rent,2024-08-08,2024-09-12,Reddy Plaza,Bhayandar West,Mira Bhayandar,401101,Apartment,3.0,1561,,57000.0,57000.0,Zaid Mandal
+SALE-SHOP-2425,Sold,Sale,2021-09-03,2021-10-14,Tara Towers,Bhayandar East,Mira Bhayandar,401101,Shop,,1085,16100000.0,,15532987.0,Vamakshi Sahni
+RENT-SHOP-2426,Rented,Rent,2024-10-02,2024-10-30,Tella Plaza,Golden Nest,Mira Bhayandar,401107,Shop,,615,,153000.0,153000.0,Yashoda Sengupta
+SALE-SHOP-2427,Sold,Sale,2025-07-22,2025-09-21,Vohra Plaza,Kanakia,Mira Bhayandar,401101,Shop,,904,11300000.0,,11171914.0,Alka Sarkar
+RENT-OFFI-2428,Rented,Rent,2023-03-06,2023-04-13,Sachdeva Complex,Mira Road East,Mira Bhayandar,401105,Office Space,,2199,,107000.0,107000.0,Hemani Srivastava
+RENT-SHOP-2429,Rented,Rent,2020-09-16,2020-12-07,Ramesh Complex,Golden Nest,Mira Bhayandar,401101,Shop,,340,,92000.0,92000.0,Benjamin Sandal
+SALE-APAR-2430,Sold,Sale,2022-03-07,2022-05-02,Parikh Plaza,Bhayandar East,Mira Bhayandar,401107,Apartment,1.0,643,7300000.0,,7155473.0,Gavin Parekh
+RENT-SHOP-2431,Rented,Rent,2021-03-03,2021-04-29,Sen Park,Beverly Park,Mira Bhayandar,401105,Shop,,246,,149000.0,149000.0,Dalbir Suri
+RENT-OFFI-2432,Rented,Rent,2024-03-04,2024-04-05,Zachariah Residency,Shanti Nagar,Mira Bhayandar,401105,Office Space,,1121,,181000.0,181000.0,Rudra Sarkar
+RENT-OFFI-2433,Rented,Rent,2024-06-09,2024-08-30,Rai Park,Bhayandar West,Mira Bhayandar,401101,Office Space,,1225,,98000.0,98000.0,Caleb Gulati
+RENT-APAR-2434,Rented,Rent,2021-08-01,2021-10-26,Memon Residency,Bhayandar East,Mira Bhayandar,401105,Apartment,3.0,1127,,50000.0,50000.0,Shaurya Munshi
+RENT-SHOP-2435,Rented,Rent,2021-05-21,2021-06-14,Dar Towers,Bhayandar West,Mira Bhayandar,401101,Shop,,1838,,57000.0,57000.0,Abha Bhardwaj
+SALE-SHOP-2436,Sold,Sale,2021-04-11,2021-06-12,Deo Complex,Bhayandar West,Mira Bhayandar,401107,Shop,,597,9300000.0,,8925605.0,Suhani Mand
+RENT-APAR-2437,Rented,Rent,2023-10-09,2023-11-11,Khare Towers,Bhayandar East,Mira Bhayandar,401107,Apartment,3.0,1583,,41000.0,41000.0,Janani Sheth
+RENT-OFFI-2438,Rented,Rent,2021-04-12,2021-07-11,Loke Park,Golden Nest,Mira Bhayandar,401105,Office Space,,1310,,157000.0,157000.0,Leela Hayer
+SALE-OFFI-2439,Sold,Sale,2024-03-02,2024-04-01,Dhar Complex,Golden Nest,Mira Bhayandar,401107,Office Space,,547,30800000.0,,30522035.0,Kavya Walia
+RENT-SHOP-2440,Rented,Rent,2022-06-10,2022-08-21,Chad Complex,Mira Road East,Mira Bhayandar,401105,Shop,,1187,,52000.0,52000.0,Maanas Oak
+SALE-OFFI-2441,Sold,Sale,2023-07-27,2023-10-24,Bose Heights,Kanakia,Mira Bhayandar,401107,Office Space,,1436,16000000.0,,15975470.0,Amruta De
+RENT-APAR-2442,Rented,Rent,2022-08-15,2022-10-31,Nayar Residency,Golden Nest,Mira Bhayandar,401105,Apartment,1.0,598,,18000.0,18000.0,Jhalak Bhattacharyya
+SALE-OFFI-2443,Sold,Sale,2025-06-04,2025-08-14,More Complex,Shanti Nagar,Mira Bhayandar,401101,Office Space,,1549,23700000.0,,23087258.0,Tanish Sood
+SALE-OFFI-2444,Sold,Sale,2022-07-04,2022-08-13,Suresh Towers,Bhayandar West,Mira Bhayandar,401105,Office Space,,2250,16900000.0,,16404387.0,Rushil Sandal
+RENT-SHOP-2445,Rented,Rent,2023-02-10,2023-04-03,Mandal Heights,Golden Nest,Mira Bhayandar,401107,Shop,,1343,,198000.0,198000.0,Ansh Doctor
+RENT-SHOP-2446,Rented,Rent,2023-03-27,2023-05-29,Arya Heights,Bhayandar West,Mira Bhayandar,401101,Shop,,2062,,172000.0,172000.0,Anamika Prasad
+RENT-SHOP-2447,Rented,Rent,2023-09-24,2023-10-20,Setty Plaza,Bhayandar East,Mira Bhayandar,401105,Shop,,426,,200000.0,200000.0,Falguni Kara
+RENT-APAR-2448,Rented,Rent,2020-12-28,2021-02-04,Shukla Complex,Beverly Park,Mira Bhayandar,401101,Apartment,3.0,1361,,40000.0,40000.0,Ojas Salvi
+SALE-OFFI-2449,Sold,Sale,2024-08-03,2024-10-12,Rastogi Towers,Bhayandar East,Mira Bhayandar,401101,Office Space,,1937,8100000.0,,7945109.0,Leela Dixit
+SALE-SHOP-2450,Sold,Sale,2023-03-17,2023-06-09,Pathak Towers,Beverly Park,Mira Bhayandar,401101,Shop,,656,28300000.0,,27615871.0,Lajita Khosla
+SALE-APAR-2451,Sold,Sale,2024-02-16,2024-03-17,Dube Residency,Bhayandar East,Mira Bhayandar,401105,Apartment,3.0,1523,23100000.0,,22695205.0,Isaac Kata
+SALE-APAR-2452,Sold,Sale,2023-10-18,2023-11-29,Sharma Plaza,Mira Road East,Mira Bhayandar,401101,Apartment,2.0,1023,13100000.0,,12942004.0,Sanya Thakkar
+SALE-SHOP-2453,Sold,Sale,2024-05-05,2024-06-11,Kale Residency,Kanakia,Mira Bhayandar,401101,Shop,,1476,22900000.0,,22610988.0,Krishna Dubey
+RENT-APAR-2454,Rented,Rent,2025-03-21,2025-06-13,Shah Residency,Kanakia,Mira Bhayandar,401101,Apartment,2.0,908,,38000.0,38000.0,Balendra Dani
+RENT-APAR-2455,Rented,Rent,2022-06-18,2022-07-22,Tella Plaza,Bhayandar West,Mira Bhayandar,401101,Apartment,1.0,402,,19000.0,19000.0,Orinder Bhattacharyya
+RENT-APAR-2456,Rented,Rent,2021-12-26,2022-03-15,Bala Heights,Bhayandar West,Mira Bhayandar,401101,Apartment,3.0,1293,,51000.0,51000.0,Jalsa Choudhary
+SALE-OFFI-2457,Sold,Sale,2021-05-12,2021-07-01,Goyal Complex,Golden Nest,Mira Bhayandar,401105,Office Space,,1036,10300000.0,,9834837.0,Ayaan Samra
+RENT-APAR-2458,Rented,Rent,2020-10-14,2020-12-27,Cheema Park,Golden Nest,Mira Bhayandar,401105,Apartment,2.0,902,,25000.0,25000.0,Jeet Buch
+RENT-SHOP-2459,Rented,Rent,2025-05-11,2025-07-14,Saini Plaza,Bhayandar West,Mira Bhayandar,401105,Shop,,528,,112000.0,112000.0,Meera Parmer
+SALE-OFFI-2460,Sold,Sale,2023-06-20,2023-09-16,Maharaj Towers,Mira Road East,Mira Bhayandar,401101,Office Space,,1621,17700000.0,,17556521.0,Yamini Shenoy
+SALE-APAR-2461,Sold,Sale,2023-03-26,2023-06-12,Modi Park,Shanti Nagar,Mira Bhayandar,401101,Apartment,1.0,587,6300000.0,,6281525.0,Diya Gour
+RENT-OFFI-2462,Rented,Rent,2024-09-23,2024-10-23,Nagi Heights,Kanakia,Mira Bhayandar,401101,Office Space,,318,,160000.0,160000.0,Ekansh Natarajan
+SALE-SHOP-2463,Sold,Sale,2023-12-13,2024-01-15,Vig Park,Beverly Park,Mira Bhayandar,401101,Shop,,1251,36700000.0,,35844172.0,Aditya Venkataraman
+SALE-OFFI-2464,Sold,Sale,2023-11-27,2024-02-04,Sibal Complex,Shanti Nagar,Mira Bhayandar,401101,Office Space,,1226,35500000.0,,34568093.0,Aarini Kalla
+SALE-OFFI-2465,Sold,Sale,2024-09-01,2024-10-07,Konda Park,Bhayandar East,Mira Bhayandar,401107,Office Space,,1645,39700000.0,,37976955.0,Azad Maharaj
+SALE-OFFI-2466,Sold,Sale,2022-03-03,2022-05-09,Borde Plaza,Mira Road East,Mira Bhayandar,401101,Office Space,,629,32000000.0,,30595268.0,Chandresh Balan
+SALE-APAR-2467,Sold,Sale,2024-09-19,2024-12-15,Butala Plaza,Mira Road East,Mira Bhayandar,401101,Apartment,2.0,865,8500000.0,,8372566.0,Yochana Khanna
+SALE-APAR-2468,Sold,Sale,2024-06-13,2024-09-03,Chahal Residency,Golden Nest,Mira Bhayandar,401105,Apartment,2.0,797,10100000.0,,9666714.0,Caleb Oommen
+RENT-SHOP-2469,Rented,Rent,2022-04-18,2022-05-16,Behl Heights,Bhayandar West,Mira Bhayandar,401105,Shop,,415,,157000.0,157000.0,Irya Pant
+RENT-OFFI-2470,Rented,Rent,2023-04-19,2023-06-07,Sandal Plaza,Bhayandar West,Mira Bhayandar,401101,Office Space,,1323,,161000.0,161000.0,Vamakshi Amble
+SALE-OFFI-2471,Sold,Sale,2022-04-09,2022-07-05,Sachar Plaza,Golden Nest,Mira Bhayandar,401107,Office Space,,1834,28000000.0,,27238878.0,Yashoda Ramaswamy
+RENT-OFFI-2472,Rented,Rent,2025-05-01,2025-06-15,Mishra Complex,Golden Nest,Mira Bhayandar,401107,Office Space,,544,,123000.0,123000.0,Baljiwan Guha
+SALE-APAR-2473,Sold,Sale,2020-09-10,2020-12-06,Varghese Residency,Mira Road East,Mira Bhayandar,401105,Apartment,2.0,788,10700000.0,,10608323.0,Bahadurjit Rana
+SALE-SHOP-2474,Sold,Sale,2021-11-21,2022-01-15,Sekhon Towers,Golden Nest,Mira Bhayandar,401105,Shop,,1173,29500000.0,,28239630.0,Advaith Cherian
+RENT-APAR-2475,Rented,Rent,2021-11-25,2021-12-29,Upadhyay Heights,Shanti Nagar,Mira Bhayandar,401107,Apartment,3.0,1339,,49000.0,49000.0,Zashil Pandey
+RENT-APAR-2476,Rented,Rent,2021-12-11,2022-01-10,Sarkar Residency,Bhayandar West,Mira Bhayandar,401105,Apartment,2.0,982,,39000.0,39000.0,Chatura Nadkarni
+SALE-APAR-2477,Sold,Sale,2024-07-21,2024-09-22,Minhas Towers,Golden Nest,Mira Bhayandar,401105,Apartment,3.0,1217,17400000.0,,17260658.0,Christopher Raghavan
+RENT-OFFI-2478,Rented,Rent,2021-04-09,2021-06-07,Raja Plaza,Shanti Nagar,Mira Bhayandar,401101,Office Space,,1689,,185000.0,185000.0,Balhaar Tella
+RENT-SHOP-2479,Rented,Rent,2021-02-08,2021-04-08,Shroff Heights,Shanti Nagar,Mira Bhayandar,401107,Shop,,2316,,136000.0,136000.0,Ojas Nadig
+SALE-APAR-2480,Sold,Sale,2024-10-09,2024-12-16,Issac Park,Shanti Nagar,Mira Bhayandar,401105,Apartment,3.0,1378,24100000.0,,23897455.0,Unnati Choudhry
+SALE-OFFI-2481,Sold,Sale,2021-06-30,2021-08-29,Mitter Complex,Beverly Park,Mira Bhayandar,401105,Office Space,,2432,37000000.0,,35324187.0,Devika Natarajan
+SALE-OFFI-2482,Sold,Sale,2022-04-16,2022-05-20,Lata Plaza,Shanti Nagar,Mira Bhayandar,401107,Office Space,,2106,29700000.0,,28271256.0,Akshay Uppal
+RENT-SHOP-2483,Rented,Rent,2020-09-22,2020-11-24,Ratti Plaza,Shanti Nagar,Mira Bhayandar,401107,Shop,,2115,,59000.0,59000.0,Saanvi Chowdhury
+RENT-APAR-2484,Rented,Rent,2021-06-25,2021-09-18,Kala Complex,Mira Road East,Mira Bhayandar,401107,Apartment,3.0,1369,,46000.0,46000.0,Yashvi Deshmukh
+SALE-OFFI-2485,Sold,Sale,2022-10-25,2022-12-03,Johal Park,Shanti Nagar,Mira Bhayandar,401105,Office Space,,1804,30300000.0,,29999621.0,George Boase
+SALE-OFFI-2486,Sold,Sale,2024-05-06,2024-06-20,Konda Residency,Golden Nest,Mira Bhayandar,401105,Office Space,,2454,22900000.0,,21883360.0,Samar Naik
+SALE-OFFI-2487,Sold,Sale,2020-08-08,2020-10-14,Toor Residency,Bhayandar West,Mira Bhayandar,401107,Office Space,,2168,26100000.0,,25603278.0,Rayaan Kata
+SALE-SHOP-2488,Sold,Sale,2021-04-30,2021-05-25,Shenoy Complex,Kanakia,Mira Bhayandar,401101,Shop,,1450,12200000.0,,12172056.0,Bishakha Sahni
+SALE-APAR-2489,Sold,Sale,2021-09-20,2021-12-04,Palla Complex,Bhayandar East,Mira Bhayandar,401105,Apartment,3.0,1211,15700000.0,,15312358.0,Yatan Kala
+RENT-APAR-2490,Rented,Rent,2024-05-05,2024-07-15,Modi Residency,Shanti Nagar,Mira Bhayandar,401107,Apartment,2.0,750,,28000.0,28000.0,Abha Menon
+RENT-OFFI-2491,Rented,Rent,2022-03-10,2022-03-30,Patil Towers,Bhayandar East,Mira Bhayandar,401105,Office Space,,2099,,170000.0,170000.0,Mohammed Rao
+SALE-SHOP-2492,Sold,Sale,2024-02-24,2024-04-16,Devan Plaza,Golden Nest,Mira Bhayandar,401107,Shop,,1838,33900000.0,,33568052.0,Pranav Sidhu
+SALE-APAR-2493,Sold,Sale,2024-10-07,2024-11-12,Kadakia Plaza,Golden Nest,Mira Bhayandar,401101,Apartment,3.0,1506,21600000.0,,20984421.0,Nisha Dasgupta
+SALE-OFFI-2494,Sold,Sale,2020-08-17,2020-09-14,Majumdar Towers,Bhayandar East,Mira Bhayandar,401101,Office Space,,2219,33200000.0,,32090638.0,Lucky Seshadri
+SALE-APAR-2495,Sold,Sale,2022-01-12,2022-02-25,Choudhary Residency,Bhayandar East,Mira Bhayandar,401105,Apartment,2.0,969,11200000.0,,10653045.0,Ganga Kara
+SALE-OFFI-2496,Sold,Sale,2023-10-29,2023-12-01,Nagar Park,Bhayandar West,Mira Bhayandar,401107,Office Space,,904,10300000.0,,10127065.0,Priya Date
+RENT-SHOP-2497,Rented,Rent,2021-04-17,2021-07-12,Kala Plaza,Shanti Nagar,Mira Bhayandar,401107,Shop,,2337,,141000.0,141000.0,Yashvi Raman
+RENT-SHOP-2498,Rented,Rent,2023-08-14,2023-11-11,Bansal Plaza,Golden Nest,Mira Bhayandar,401101,Shop,,1776,,55000.0,55000.0,Leena Narang
+RENT-SHOP-2499,Rented,Rent,2022-05-18,2022-07-30,Gopal Plaza,Golden Nest,Mira Bhayandar,401107,Shop,,2191,,94000.0,94000.0,Gagan Anand
+SALE-SHOP-2500,Sold,Sale,2020-09-14,2020-10-14,Gokhale Complex,Bhayandar West,Mira Bhayandar,401105,Shop,,361,20500000.0,,20021896.0,Wahab Dhillon
+RENT-APAR-2501,Rented,Rent,2021-04-28,2021-06-26,Prabhu Residency,Beverly Park,Mira Bhayandar,401101,Apartment,3.0,1417,,56000.0,56000.0,Yasti Buch
+SALE-APAR-2502,Sold,Sale,2022-07-18,2022-09-13,Baral Towers,Golden Nest,Mira Bhayandar,401105,Apartment,3.0,1531,19300000.0,,18693580.0,Vinaya Sarin
+RENT-OFFI-2503,Rented,Rent,2024-02-06,2024-03-15,Andra Towers,Bhayandar West,Mira Bhayandar,401107,Office Space,,2425,,123000.0,123000.0,Ekalinga Murty
+RENT-OFFI-2504,Rented,Rent,2021-05-24,2021-07-17,Nair Park,Shanti Nagar,Mira Bhayandar,401107,Office Space,,1132,,148000.0,148000.0,Devansh Srinivasan
+RENT-APAR-2505,Rented,Rent,2025-03-14,2025-05-12,Dutt Park,Beverly Park,Mira Bhayandar,401105,Apartment,2.0,773,,36000.0,36000.0,Harita Sidhu
+SALE-APAR-2506,Sold,Sale,2022-04-16,2022-07-10,Sarna Complex,Golden Nest,Mira Bhayandar,401107,Apartment,1.0,501,6500000.0,,6320039.0,Manthan Char
+SALE-SHOP-2507,Sold,Sale,2025-04-03,2025-06-21,Kuruvilla Plaza,Shanti Nagar,Mira Bhayandar,401101,Shop,,1269,9400000.0,,8962826.0,Pushti Mallick
+SALE-APAR-2508,Sold,Sale,2023-04-30,2023-05-22,Saxena Residency,Golden Nest,Mira Bhayandar,401105,Apartment,1.0,680,5300000.0,,5207129.0,Ubika Yohannan
+RENT-APAR-2509,Rented,Rent,2024-03-07,2024-04-20,Chakrabarti Plaza,Bhayandar West,Mira Bhayandar,401101,Apartment,2.0,1010,,33000.0,33000.0,Arjun Parmar
+RENT-SHOP-2510,Rented,Rent,2022-01-26,2022-02-15,Wable Heights,Shanti Nagar,Mira Bhayandar,401107,Shop,,1106,,180000.0,180000.0,Om Chad
+SALE-APAR-2511,Sold,Sale,2024-07-30,2024-10-20,Pandit Plaza,Bhayandar East,Mira Bhayandar,401101,Apartment,1.0,501,7100000.0,,6884920.0,Gaurang Dara
+SALE-APAR-2512,Sold,Sale,2021-06-10,2021-07-26,Dass Park,Shanti Nagar,Mira Bhayandar,401107,Apartment,2.0,1032,8600000.0,,8287626.0,Ekta Nath
+RENT-SHOP-2513,Rented,Rent,2023-06-03,2023-07-31,Khatri Residency,Kanakia,Mira Bhayandar,401107,Shop,,2009,,111000.0,111000.0,Wahab Dey
+SALE-SHOP-2514,Sold,Sale,2025-02-22,2025-03-17,Choudhry Heights,Golden Nest,Mira Bhayandar,401105,Shop,,538,16900000.0,,16261954.0,Zinal Purohit
+SALE-SHOP-2515,Sold,Sale,2024-11-27,2025-01-15,Mohanty Plaza,Bhayandar West,Mira Bhayandar,401105,Shop,,1290,25500000.0,,25371139.0,Samar Bir
+RENT-SHOP-2516,Rented,Rent,2025-06-05,2025-07-20,Karan Residency,Kanakia,Mira Bhayandar,401105,Shop,,647,,111000.0,111000.0,Niharika Puri
+SALE-OFFI-2517,Sold,Sale,2023-06-05,2023-07-28,Sura Plaza,Golden Nest,Mira Bhayandar,401101,Office Space,,369,23900000.0,,23091852.0,Pallavi Pandit
+SALE-OFFI-2518,Sold,Sale,2025-02-12,2025-03-29,Mangal Park,Bhayandar West,Mira Bhayandar,401105,Office Space,,778,7900000.0,,7539826.0,Advika Nazareth
+SALE-SHOP-2519,Sold,Sale,2021-09-03,2021-11-17,Das Complex,Kanakia,Mira Bhayandar,401101,Shop,,2409,35700000.0,,34617592.0,Christopher Virk
+SALE-APAR-2520,Sold,Sale,2024-09-01,2024-10-23,Baral Towers,Shanti Nagar,Mira Bhayandar,401107,Apartment,1.0,628,4600000.0,,4513282.0,Noah Butala
+RENT-APAR-2521,Rented,Rent,2021-11-27,2022-01-19,Sahota Plaza,Bhayandar East,Mira Bhayandar,401107,Apartment,1.0,610,,17000.0,17000.0,Chaaya Chacko
+RENT-OFFI-2522,Rented,Rent,2023-07-24,2023-09-04,Loke Park,Bhayandar West,Mira Bhayandar,401101,Office Space,,662,,131000.0,131000.0,Tejas Shroff
+SALE-SHOP-2523,Sold,Sale,2021-04-01,2021-06-16,Hora Towers,Golden Nest,Mira Bhayandar,401107,Shop,,1878,34700000.0,,34562735.0,Hamsini Seth
+RENT-SHOP-2524,Rented,Rent,2021-03-06,2021-04-03,Bala Towers,Shanti Nagar,Mira Bhayandar,401107,Shop,,669,,74000.0,74000.0,Diya Master
+SALE-APAR-2525,Sold,Sale,2020-08-13,2020-09-03,Reddy Heights,Beverly Park,Mira Bhayandar,401101,Apartment,3.0,1203,20500000.0,,20312870.0,Zehaan Tella
+SALE-SHOP-2526,Sold,Sale,2025-05-03,2025-06-09,Parekh Plaza,Bhayandar West,Mira Bhayandar,401107,Shop,,2076,9800000.0,,9680582.0,Unnati Patla
+RENT-SHOP-2527,Rented,Rent,2024-10-14,2024-11-21,Gour Plaza,Kanakia,Mira Bhayandar,401107,Shop,,1701,,179000.0,179000.0,Omisha Kamdar
+RENT-APAR-2528,Rented,Rent,2022-09-03,2022-11-18,Sarraf Park,Kanakia,Mira Bhayandar,401101,Apartment,2.0,927,,34000.0,34000.0,Yauvani Hayre
+SALE-APAR-2529,Sold,Sale,2020-10-03,2020-11-05,Chander Complex,Mira Road East,Mira Bhayandar,401101,Apartment,3.0,1125,21700000.0,,21094174.0,Gauri Sengupta
+SALE-APAR-2530,Sold,Sale,2023-10-10,2023-12-29,Venkatesh Park,Bhayandar East,Mira Bhayandar,401105,Apartment,3.0,1407,15700000.0,,15600187.0,Rachita Lall
+RENT-SHOP-2531,Rented,Rent,2024-07-31,2024-10-04,Choudhary Park,Bhayandar West,Mira Bhayandar,401107,Shop,,2250,,152000.0,152000.0,Om Deol
+SALE-SHOP-2532,Sold,Sale,2022-06-27,2022-09-18,Sankar Plaza,Bhayandar West,Mira Bhayandar,401105,Shop,,2446,24900000.0,,24057814.0,Amol Manne
+SALE-SHOP-2533,Sold,Sale,2021-10-06,2021-11-29,Sha Plaza,Kanakia,Mira Bhayandar,401101,Shop,,1082,31400000.0,,30484309.0,Kashish Oza
+RENT-APAR-2534,Rented,Rent,2024-05-07,2024-06-25,Mani Residency,Kanakia,Mira Bhayandar,401101,Apartment,3.0,1419,,47000.0,47000.0,Varsha Salvi
+SALE-OFFI-2535,Sold,Sale,2025-07-15,2025-08-05,De Heights,Bhayandar West,Mira Bhayandar,401107,Office Space,,2043,9500000.0,,9216271.0,Mugdha Sule
+SALE-OFFI-2536,Sold,Sale,2021-02-26,2021-04-21,Pillay Towers,Bhayandar West,Mira Bhayandar,401101,Office Space,,1283,15100000.0,,14961645.0,Unnati Dash
+RENT-SHOP-2537,Rented,Rent,2022-05-11,2022-06-30,Yadav Residency,Bhayandar East,Mira Bhayandar,401101,Shop,,322,,200000.0,200000.0,Oliver Raghavan
+SALE-SHOP-2538,Sold,Sale,2021-06-18,2021-09-13,Peri Complex,Mira Road East,Mira Bhayandar,401107,Shop,,878,13800000.0,,13212508.0,Yoshita Jayaraman
+SALE-OFFI-2539,Sold,Sale,2022-06-13,2022-08-19,Kar Park,Shanti Nagar,Mira Bhayandar,401101,Office Space,,1567,36100000.0,,35240490.0,Elijah Bassi
+RENT-APAR-2540,Rented,Rent,2024-01-31,2024-03-29,Deshmukh Park,Bhayandar East,Mira Bhayandar,401107,Apartment,2.0,786,,32000.0,32000.0,Ekbal Gupta
+RENT-SHOP-2541,Rented,Rent,2020-09-12,2020-11-26,Thakur Plaza,Bhayandar East,Mira Bhayandar,401107,Shop,,2028,,89000.0,89000.0,Onkar Yohannan
+SALE-OFFI-2542,Sold,Sale,2023-11-18,2023-12-09,Bakshi Park,Mira Road East,Mira Bhayandar,401107,Office Space,,582,13100000.0,,12831194.0,Jagvi Keer
+RENT-SHOP-2543,Rented,Rent,2025-04-17,2025-06-02,Sidhu Park,Shanti Nagar,Mira Bhayandar,401107,Shop,,1856,,158000.0,158000.0,Ati Walia
+SALE-OFFI-2544,Sold,Sale,2025-05-06,2025-07-16,Venkataraman Park,Beverly Park,Mira Bhayandar,401105,Office Space,,1288,13600000.0,,13260691.0,Nicholas Dugal
+SALE-SHOP-2545,Sold,Sale,2024-09-20,2024-10-14,Malhotra Plaza,Beverly Park,Mira Bhayandar,401107,Shop,,510,38800000.0,,37050531.0,Rishi Jaggi
+SALE-OFFI-2546,Sold,Sale,2021-11-27,2022-01-08,Dugal Complex,Golden Nest,Mira Bhayandar,401107,Office Space,,823,14500000.0,,14040071.0,Yashodhara Bose
+SALE-APAR-2547,Sold,Sale,2021-02-28,2021-03-25,Rau Heights,Bhayandar West,Mira Bhayandar,401101,Apartment,3.0,1643,15600000.0,,15383792.0,Bhavika Mammen
+SALE-SHOP-2548,Sold,Sale,2022-03-01,2022-05-28,Pingle Heights,Bhayandar West,Mira Bhayandar,401105,Shop,,425,9500000.0,,9455661.0,Aarush Gara
+SALE-OFFI-2549,Sold,Sale,2021-12-01,2022-02-04,Mohanty Heights,Shanti Nagar,Mira Bhayandar,401105,Office Space,,690,13300000.0,,12855837.0,Bakhshi Anand
+SALE-OFFI-2550,Sold,Sale,2021-05-03,2021-07-20,Saran Complex,Shanti Nagar,Mira Bhayandar,401101,Office Space,,1035,34800000.0,,33099347.0,Harsh Bains
+SALE-OFFI-2551,Sold,Sale,2021-11-27,2021-12-25,Sodhi Towers,Bhayandar East,Mira Bhayandar,401107,Office Space,,1246,26500000.0,,26433495.0,Tara Chandran
+SALE-OFFI-2552,Sold,Sale,2024-03-04,2024-04-03,Bansal Towers,Golden Nest,Mira Bhayandar,401101,Office Space,,780,14800000.0,,14183578.0,Hamsini Borde
+RENT-SHOP-2553,Rented,Rent,2021-05-30,2021-07-04,Madan Plaza,Bhayandar East,Mira Bhayandar,401107,Shop,,2388,,80000.0,80000.0,Yashoda Mammen
+SALE-SHOP-2554,Sold,Sale,2023-03-20,2023-05-27,Dara Residency,Golden Nest,Mira Bhayandar,401105,Shop,,1701,12300000.0,,11847511.0,Wakeeta Oza
+SALE-OFFI-2555,Sold,Sale,2021-11-18,2022-01-19,Talwar Towers,Mira Road East,Mira Bhayandar,401105,Office Space,,1721,14200000.0,,14089067.0,Hemang Dube
+SALE-OFFI-2556,Sold,Sale,2024-02-11,2024-04-15,Babu Plaza,Shanti Nagar,Mira Bhayandar,401101,Office Space,,547,7600000.0,,7538096.0,Jackson Singhal
+SALE-APAR-2557,Sold,Sale,2024-10-01,2024-10-26,Sha Park,Kanakia,Mira Bhayandar,401105,Apartment,1.0,450,7800000.0,,7428391.0,Nisha Thaker
+SALE-APAR-2558,Sold,Sale,2023-04-06,2023-06-02,Krish Towers,Golden Nest,Mira Bhayandar,401101,Apartment,3.0,1360,25000000.0,,24700841.0,Owen Kumer
+RENT-APAR-2559,Rented,Rent,2022-05-17,2022-08-15,Bhandari Towers,Beverly Park,Mira Bhayandar,401101,Apartment,1.0,601,,19000.0,19000.0,Vedhika Gour
+RENT-SHOP-2560,Rented,Rent,2021-07-19,2021-09-14,Chakraborty Plaza,Bhayandar West,Mira Bhayandar,401107,Shop,,722,,125000.0,125000.0,Mekhala Mallick
+RENT-SHOP-2561,Rented,Rent,2022-01-28,2022-04-09,Sule Park,Kanakia,Mira Bhayandar,401101,Shop,,2069,,71000.0,71000.0,Raghav Dugar
+SALE-APAR-2562,Sold,Sale,2022-06-09,2022-08-12,Dar Plaza,Golden Nest,Mira Bhayandar,401107,Apartment,1.0,519,6200000.0,,6166415.0,Wishi Mahajan
+SALE-OFFI-2563,Sold,Sale,2024-06-27,2024-08-04,Cherian Complex,Shanti Nagar,Mira Bhayandar,401105,Office Space,,1085,29000000.0,,28674978.0,Priya Gulati
+RENT-OFFI-2564,Rented,Rent,2024-12-16,2025-01-18,Sen Plaza,Beverly Park,Mira Bhayandar,401107,Office Space,,2167,,110000.0,110000.0,Sanaya Atwal
+RENT-SHOP-2565,Rented,Rent,2021-04-01,2021-06-02,Chanda Residency,Kanakia,Mira Bhayandar,401107,Shop,,2372,,186000.0,186000.0,Watika Batra
+RENT-SHOP-2566,Rented,Rent,2024-05-22,2024-07-19,Sharaf Park,Shanti Nagar,Mira Bhayandar,401105,Shop,,320,,142000.0,142000.0,Lakshmi Ray
+RENT-APAR-2567,Rented,Rent,2025-07-19,2025-10-07,Kalla Residency,Bhayandar East,Mira Bhayandar,401105,Apartment,2.0,961,,29000.0,29000.0,Abeer Walia
+SALE-SHOP-2568,Sold,Sale,2020-10-30,2021-01-05,Sura Heights,Bhayandar East,Mira Bhayandar,401107,Shop,,723,23900000.0,,22941726.0,Krishna Kapur
+RENT-OFFI-2569,Rented,Rent,2025-04-29,2025-07-25,Vig Towers,Golden Nest,Mira Bhayandar,401105,Office Space,,1256,,92000.0,92000.0,Aarnav Guha
+RENT-SHOP-2570,Rented,Rent,2022-09-15,2022-10-18,Hayre Complex,Bhayandar West,Mira Bhayandar,401101,Shop,,1064,,174000.0,174000.0,Onveer Karnik
+SALE-OFFI-2571,Sold,Sale,2024-10-28,2024-12-16,Contractor Plaza,Bhayandar East,Mira Bhayandar,401101,Office Space,,470,28900000.0,,28788578.0,Veda Hari
+SALE-SHOP-2572,Sold,Sale,2021-02-18,2021-03-26,Barman Park,Beverly Park,Mira Bhayandar,401107,Shop,,2498,34500000.0,,33562745.0,Mekhala Mani
+RENT-OFFI-2573,Rented,Rent,2025-05-19,2025-07-26,Badal Complex,Bhayandar East,Mira Bhayandar,401101,Office Space,,1445,,121000.0,121000.0,Madhav Saini
+RENT-OFFI-2574,Rented,Rent,2022-12-27,2023-03-25,Kuruvilla Residency,Kanakia,Mira Bhayandar,401107,Office Space,,1191,,197000.0,197000.0,Rajata Rout
+RENT-OFFI-2575,Rented,Rent,2024-04-09,2024-05-26,Palla Park,Bhayandar East,Mira Bhayandar,401105,Office Space,,1370,,99000.0,99000.0,Christopher Pau
+RENT-APAR-2576,Rented,Rent,2022-02-28,2022-04-07,Bhattacharyya Park,Mira Road East,Mira Bhayandar,401101,Apartment,2.0,1098,,37000.0,37000.0,Amara Butala
+SALE-SHOP-2577,Sold,Sale,2024-12-06,2025-02-16,Sarin Complex,Kanakia,Mira Bhayandar,401101,Shop,,306,19200000.0,,18854531.0,Tristan Madan
+SALE-APAR-2578,Sold,Sale,2020-12-24,2021-03-09,Pillai Park,Kanakia,Mira Bhayandar,401107,Apartment,1.0,553,7200000.0,,7178766.0,Manya Chaudhuri
+SALE-SHOP-2579,Sold,Sale,2025-05-05,2025-07-03,Pillai Residency,Bhayandar East,Mira Bhayandar,401105,Shop,,1814,24400000.0,,23912836.0,Hemangini Roy
+RENT-SHOP-2580,Rented,Rent,2022-08-07,2022-08-28,Parmer Plaza,Beverly Park,Mira Bhayandar,401101,Shop,,331,,142000.0,142000.0,Wriddhish Chandra
+SALE-SHOP-2581,Sold,Sale,2021-03-31,2021-05-01,Bath Residency,Bhayandar East,Mira Bhayandar,401105,Shop,,1456,31500000.0,,31029453.0,William Dâ€™Alia
+SALE-OFFI-2582,Sold,Sale,2022-09-03,2022-10-10,Vohra Park,Beverly Park,Mira Bhayandar,401105,Office Space,,1676,37500000.0,,36616897.0,Naveen Chaudhry
+RENT-APAR-2583,Rented,Rent,2021-12-17,2022-02-07,Parsa Towers,Beverly Park,Mira Bhayandar,401105,Apartment,3.0,1221,,44000.0,44000.0,Pratyush Shroff
+SALE-OFFI-2584,Sold,Sale,2020-10-27,2021-01-24,Borde Heights,Beverly Park,Mira Bhayandar,401105,Office Space,,307,29700000.0,,28263376.0,Bhavini Rege
+SALE-SHOP-2585,Sold,Sale,2023-09-27,2023-11-18,Sunder Heights,Kanakia,Mira Bhayandar,401105,Shop,,1078,22700000.0,,22004227.0,Udarsh Kota
+RENT-APAR-2586,Rented,Rent,2021-01-23,2021-03-24,Talwar Plaza,Beverly Park,Mira Bhayandar,401107,Apartment,1.0,457,,17000.0,17000.0,Rishi Bawa
+SALE-SHOP-2587,Sold,Sale,2021-05-03,2021-06-27,Guha Complex,Bhayandar West,Mira Bhayandar,401101,Shop,,1805,9900000.0,,9533858.0,Pavani Sankar
+RENT-SHOP-2588,Rented,Rent,2025-03-13,2025-05-05,Sangha Towers,Bhayandar West,Mira Bhayandar,401105,Shop,,1247,,62000.0,62000.0,Bimala Sankar
+RENT-OFFI-2589,Rented,Rent,2024-01-26,2024-03-22,Sane Plaza,Kanakia,Mira Bhayandar,401105,Office Space,,1951,,82000.0,82000.0,Aradhana Prabhakar
+SALE-SHOP-2590,Sold,Sale,2021-06-05,2021-07-15,Kapur Complex,Mira Road East,Mira Bhayandar,401105,Shop,,1836,27500000.0,,26479977.0,Ekani Talwar
+RENT-OFFI-2591,Rented,Rent,2023-12-24,2024-02-23,Kamdar Heights,Beverly Park,Mira Bhayandar,401107,Office Space,,1936,,133000.0,133000.0,Yashica Rau
+RENT-SHOP-2592,Rented,Rent,2021-02-11,2021-03-28,Mittal Residency,Kanakia,Mira Bhayandar,401101,Shop,,1398,,98000.0,98000.0,Bhavani Thaman
+RENT-OFFI-2593,Rented,Rent,2024-12-31,2025-03-06,Swamy Complex,Bhayandar East,Mira Bhayandar,401101,Office Space,,1448,,158000.0,158000.0,Bhavya Lalla
+SALE-SHOP-2594,Sold,Sale,2021-11-01,2022-01-30,Sahni Plaza,Mira Road East,Mira Bhayandar,401101,Shop,,2065,15800000.0,,15198384.0,Gabriel Kapadia
+SALE-APAR-2595,Sold,Sale,2022-09-30,2022-11-30,Tandon Complex,Beverly Park,Mira Bhayandar,401105,Apartment,2.0,823,10400000.0,,10206382.0,Aahana Borah
+SALE-APAR-2596,Sold,Sale,2023-07-01,2023-09-26,Aurora Plaza,Mira Road East,Mira Bhayandar,401105,Apartment,3.0,1287,22300000.0,,21888999.0,Chameli Tailor
+SALE-OFFI-2597,Sold,Sale,2021-04-03,2021-06-15,Chand Residency,Kanakia,Mira Bhayandar,401107,Office Space,,612,30600000.0,,30074413.0,Mohammed Choudhry
+RENT-SHOP-2598,Rented,Rent,2021-06-17,2021-07-07,Trivedi Towers,Shanti Nagar,Mira Bhayandar,401107,Shop,,1639,,75000.0,75000.0,Prisha Reddy
+SALE-APAR-2599,Sold,Sale,2020-12-27,2021-03-19,Bhavsar Complex,Bhayandar West,Mira Bhayandar,401107,Apartment,2.0,814,13600000.0,,13301048.0,Nisha Bera
+SALE-OFFI-2600,Sold,Sale,2023-06-19,2023-07-15,Garde Complex,Golden Nest,Mira Bhayandar,401101,Office Space,,849,13700000.0,,13631344.0,Suhani Gokhale
+SALE-SHOP-2601,Sold,Sale,2024-03-24,2024-05-01,Ganesh Heights,Mira Road East,Mira Bhayandar,401107,Shop,,1481,25600000.0,,24457869.0,Vaishnavi Wable
+RENT-APAR-2602,Rented,Rent,2025-02-26,2025-05-18,Patel Towers,Mira Road East,Mira Bhayandar,401101,Apartment,1.0,569,,22000.0,22000.0,Nathaniel Varghese
+RENT-SHOP-2603,Rented,Rent,2024-07-13,2024-08-16,Randhawa Heights,Golden Nest,Mira Bhayandar,401105,Shop,,1032,,75000.0,75000.0,Lekha Kibe
+RENT-APAR-2604,Rented,Rent,2021-08-03,2021-10-02,Merchant Park,Bhayandar West,Mira Bhayandar,401105,Apartment,2.0,662,,26000.0,26000.0,Ishwar Butala
+RENT-SHOP-2605,Rented,Rent,2021-07-05,2021-08-12,Kumar Complex,Bhayandar West,Mira Bhayandar,401101,Shop,,1541,,95000.0,95000.0,Manbir Narasimhan
+SALE-OFFI-2606,Sold,Sale,2024-01-27,2024-03-31,Mallick Heights,Shanti Nagar,Mira Bhayandar,401101,Office Space,,1109,39700000.0,,38884172.0,Brinda Johal
+SALE-APAR-2607,Sold,Sale,2023-06-01,2023-08-24,Sundaram Heights,Shanti Nagar,Mira Bhayandar,401105,Apartment,1.0,470,6100000.0,,6043028.0,Shivani Uppal
+RENT-APAR-2608,Rented,Rent,2023-06-19,2023-07-27,Wali Residency,Bhayandar West,Mira Bhayandar,401107,Apartment,2.0,700,,33000.0,33000.0,Pavani Kashyap
+RENT-SHOP-2609,Rented,Rent,2021-08-07,2021-09-21,Kaul Park,Shanti Nagar,Mira Bhayandar,401101,Shop,,1077,,120000.0,120000.0,Tejas Viswanathan
+SALE-SHOP-2610,Sold,Sale,2024-10-20,2025-01-17,Kohli Towers,Mira Road East,Mira Bhayandar,401105,Shop,,1987,14200000.0,,14069792.0,Maanav Prabhu
+SALE-APAR-2611,Sold,Sale,2024-12-14,2025-02-12,Samra Plaza,Beverly Park,Mira Bhayandar,401101,Apartment,3.0,1704,21800000.0,,21504557.0,Jagvi Dhaliwal
+SALE-SHOP-2612,Sold,Sale,2024-07-24,2024-08-20,Pillay Towers,Golden Nest,Mira Bhayandar,401105,Shop,,720,12400000.0,,11958710.0,Benjamin Dash
+RENT-SHOP-2613,Rented,Rent,2021-09-28,2021-11-02,Edwin Park,Kanakia,Mira Bhayandar,401105,Shop,,493,,91000.0,91000.0,Udyati Aggarwal
+RENT-SHOP-2614,Rented,Rent,2023-01-04,2023-02-05,Luthra Complex,Bhayandar West,Mira Bhayandar,401107,Shop,,896,,117000.0,117000.0,Hema Bhavsar
+RENT-OFFI-2615,Rented,Rent,2025-01-08,2025-03-09,Nagarajan Park,Mira Road East,Mira Bhayandar,401101,Office Space,,1657,,181000.0,181000.0,Sara Konda
+SALE-APAR-2616,Sold,Sale,2023-02-26,2023-04-06,Sekhon Complex,Golden Nest,Mira Bhayandar,401107,Apartment,3.0,1499,18200000.0,,17641794.0,Ekantika Murty
+SALE-SHOP-2617,Sold,Sale,2025-07-12,2025-09-22,Viswanathan Heights,Mira Road East,Mira Bhayandar,401101,Shop,,862,10200000.0,,9758162.0,Azad Hans
+SALE-OFFI-2618,Sold,Sale,2023-02-12,2023-03-29,Shere Residency,Mira Road East,Mira Bhayandar,401101,Office Space,,1147,35300000.0,,34187211.0,Raghav Roy
+RENT-SHOP-2619,Rented,Rent,2025-07-23,2025-10-06,Bhandari Heights,Bhayandar East,Mira Bhayandar,401101,Shop,,1472,,111000.0,111000.0,Avni Gole
+SALE-OFFI-2620,Sold,Sale,2023-10-25,2023-12-12,Hayer Plaza,Shanti Nagar,Mira Bhayandar,401105,Office Space,,1558,14300000.0,,13776088.0,Vasatika Gara
+RENT-APAR-2621,Rented,Rent,2025-06-11,2025-09-02,Johal Complex,Beverly Park,Mira Bhayandar,401101,Apartment,2.0,886,,34000.0,34000.0,Pavani Sathe
+SALE-SHOP-2622,Sold,Sale,2021-06-20,2021-08-30,Prabhakar Towers,Mira Road East,Mira Bhayandar,401101,Shop,,1820,9200000.0,,8870097.0,Laban Nagar
+SALE-APAR-2623,Sold,Sale,2025-06-01,2025-08-02,Wali Plaza,Kanakia,Mira Bhayandar,401105,Apartment,1.0,576,5500000.0,,5325328.0,Janani Thaker
+SALE-APAR-2624,Sold,Sale,2025-04-18,2025-05-21,Soni Plaza,Bhayandar West,Mira Bhayandar,401107,Apartment,1.0,639,7800000.0,,7703170.0,Nidra Rama
+SALE-APAR-2625,Sold,Sale,2022-12-28,2023-02-16,Pandya Towers,Mira Road East,Mira Bhayandar,401101,Apartment,3.0,1689,23700000.0,,23490740.0,Tristan Saraf
+SALE-APAR-2626,Sold,Sale,2021-04-25,2021-07-14,Prabhu Park,Golden Nest,Mira Bhayandar,401107,Apartment,1.0,635,4600000.0,,4577338.0,Tripti Badal
+RENT-OFFI-2627,Rented,Rent,2024-08-03,2024-10-18,Muni Towers,Bhayandar East,Mira Bhayandar,401107,Office Space,,1114,,166000.0,166000.0,Abhimanyu Yogi
+SALE-APAR-2628,Sold,Sale,2023-05-04,2023-07-10,Dyal Park,Beverly Park,Mira Bhayandar,401105,Apartment,1.0,625,6800000.0,,6551216.0,Sudiksha Bala
+RENT-SHOP-2629,Rented,Rent,2023-11-19,2024-01-07,Tandon Heights,Shanti Nagar,Mira Bhayandar,401107,Shop,,1245,,166000.0,166000.0,Isaiah Ray
+SALE-APAR-2630,Sold,Sale,2024-01-24,2024-03-26,Srivastava Heights,Mira Road East,Mira Bhayandar,401105,Apartment,3.0,1471,17200000.0,,17000928.0,Kai Jayaraman
+RENT-APAR-2631,Rented,Rent,2021-03-10,2021-05-27,Keer Heights,Golden Nest,Mira Bhayandar,401107,Apartment,3.0,1660,,47000.0,47000.0,Sanaya Nanda
+RENT-SHOP-2632,Rented,Rent,2023-02-18,2023-03-18,Kapur Plaza,Bhayandar West,Mira Bhayandar,401107,Shop,,550,,147000.0,147000.0,Jeremiah Peri
+SALE-SHOP-2633,Sold,Sale,2022-01-31,2022-04-30,Sehgal Towers,Shanti Nagar,Mira Bhayandar,401105,Shop,,363,34900000.0,,34076171.0,Wyatt Sastry
+RENT-OFFI-2634,Rented,Rent,2023-12-16,2024-01-30,Memon Heights,Bhayandar West,Mira Bhayandar,401105,Office Space,,1534,,117000.0,117000.0,Dhriti Minhas
+RENT-APAR-2635,Rented,Rent,2022-08-20,2022-10-09,Babu Complex,Kanakia,Mira Bhayandar,401105,Apartment,1.0,672,,24000.0,24000.0,Vansha Babu
+SALE-OFFI-2636,Sold,Sale,2025-02-24,2025-05-02,Mannan Park,Bhayandar East,Mira Bhayandar,401105,Office Space,,267,27500000.0,,27275638.0,Teerth Atwal
+SALE-APAR-2637,Sold,Sale,2021-06-09,2021-09-01,Saxena Plaza,Bhayandar East,Mira Bhayandar,401105,Apartment,3.0,1483,17700000.0,,17101106.0,Leela Kapadia
+RENT-OFFI-2638,Rented,Rent,2020-12-14,2021-03-07,Kala Towers,Shanti Nagar,Mira Bhayandar,401101,Office Space,,665,,175000.0,175000.0,Anamika Mander
+SALE-SHOP-2639,Sold,Sale,2023-06-01,2023-07-15,Nazareth Park,Shanti Nagar,Mira Bhayandar,401107,Shop,,1242,31400000.0,,31042320.0,Qabil Bali
+RENT-SHOP-2640,Rented,Rent,2022-12-31,2023-03-17,Gour Towers,Beverly Park,Mira Bhayandar,401105,Shop,,2323,,123000.0,123000.0,Yagnesh Dutt
+RENT-SHOP-2641,Rented,Rent,2022-04-22,2022-05-25,Kashyap Heights,Kanakia,Mira Bhayandar,401101,Shop,,1411,,69000.0,69000.0,Nitesh Tailor
+SALE-SHOP-2642,Sold,Sale,2024-09-08,2024-10-04,Palla Towers,Bhayandar East,Mira Bhayandar,401107,Shop,,1383,15700000.0,,15502083.0,Yagnesh Wason
+SALE-APAR-2643,Sold,Sale,2022-06-30,2022-07-25,Hayre Residency,Beverly Park,Mira Bhayandar,401101,Apartment,1.0,439,5200000.0,,5104947.0,Shivansh Singhal
+RENT-APAR-2644,Rented,Rent,2024-10-06,2024-12-27,Zachariah Plaza,Kanakia,Mira Bhayandar,401107,Apartment,1.0,516,,15000.0,15000.0,Bachittar Dhar
+SALE-APAR-2645,Sold,Sale,2020-11-11,2021-02-08,Chaudhuri Plaza,Bhayandar East,Mira Bhayandar,401101,Apartment,2.0,781,12100000.0,,11584207.0,Manan Ganguly
+RENT-OFFI-2646,Rented,Rent,2021-12-11,2022-02-08,Pai Complex,Beverly Park,Mira Bhayandar,401105,Office Space,,2001,,121000.0,121000.0,Qushi Bhavsar
+RENT-OFFI-2647,Rented,Rent,2024-02-06,2024-03-07,Minhas Heights,Beverly Park,Mira Bhayandar,401107,Office Space,,1935,,135000.0,135000.0,Yashasvi Grover
+SALE-SHOP-2648,Sold,Sale,2025-02-28,2025-05-20,Toor Residency,Mira Road East,Mira Bhayandar,401105,Shop,,1390,35200000.0,,33626794.0,Janaki Bhatnagar
+RENT-APAR-2649,Rented,Rent,2024-11-24,2024-12-27,Jhaveri Towers,Bhayandar East,Mira Bhayandar,401101,Apartment,2.0,798,,33000.0,33000.0,Urvi Bose
+RENT-SHOP-2650,Rented,Rent,2024-06-25,2024-08-18,Agrawal Plaza,Bhayandar West,Mira Bhayandar,401105,Shop,,2065,,121000.0,121000.0,Devansh Guha
+RENT-APAR-2651,Rented,Rent,2024-03-14,2024-06-12,Bala Heights,Kanakia,Mira Bhayandar,401101,Apartment,2.0,870,,29000.0,29000.0,Akshay Sinha
+RENT-SHOP-2652,Rented,Rent,2020-09-20,2020-12-13,Mohanty Plaza,Mira Road East,Mira Bhayandar,401101,Shop,,2165,,192000.0,192000.0,Abhiram Hayre
+RENT-SHOP-2653,Rented,Rent,2024-11-04,2025-01-01,Saxena Heights,Mira Road East,Mira Bhayandar,401107,Shop,,1356,,78000.0,78000.0,Edhitha Nayar
+SALE-SHOP-2654,Sold,Sale,2022-09-18,2022-10-22,Dey Residency,Shanti Nagar,Mira Bhayandar,401101,Shop,,932,16200000.0,,15488505.0,Damyanti Chaudhry
+RENT-SHOP-2655,Rented,Rent,2020-12-09,2021-01-23,Nanda Complex,Kanakia,Mira Bhayandar,401105,Shop,,1397,,107000.0,107000.0,Advik Khare
+RENT-OFFI-2656,Rented,Rent,2024-10-29,2025-01-24,Bhatti Park,Bhayandar West,Mira Bhayandar,401105,Office Space,,1309,,145000.0,145000.0,Jonathan Agrawal
+SALE-APAR-2657,Sold,Sale,2021-06-27,2021-08-30,Parmer Heights,Bhayandar West,Mira Bhayandar,401107,Apartment,2.0,980,11800000.0,,11534214.0,Ikshita Arora
+SALE-APAR-2658,Sold,Sale,2021-11-30,2022-02-20,Sinha Plaza,Golden Nest,Mira Bhayandar,401105,Apartment,3.0,1686,17600000.0,,16883697.0,Zilmil Choudhary
+SALE-APAR-2659,Sold,Sale,2023-09-26,2023-11-12,Mangal Complex,Shanti Nagar,Mira Bhayandar,401105,Apartment,3.0,1725,17400000.0,,16552643.0,Ojas Parmer
+RENT-APAR-2660,Rented,Rent,2022-03-30,2022-05-31,Vasa Park,Golden Nest,Mira Bhayandar,401105,Apartment,2.0,773,,33000.0,33000.0,Mahika Morar
+SALE-OFFI-2661,Sold,Sale,2022-03-24,2022-06-17,Dixit Heights,Shanti Nagar,Mira Bhayandar,401101,Office Space,,2006,35400000.0,,34079948.0,Mekhala Gupta
+RENT-SHOP-2662,Rented,Rent,2024-07-30,2024-10-22,Nazareth Towers,Mira Road East,Mira Bhayandar,401101,Shop,,2401,,90000.0,90000.0,Waida Kala
+SALE-OFFI-2663,Sold,Sale,2021-12-16,2022-02-27,Nori Residency,Bhayandar East,Mira Bhayandar,401105,Office Space,,412,18300000.0,,18268742.0,Ira Shukla
+RENT-SHOP-2664,Rented,Rent,2023-09-11,2023-11-25,Mutti Complex,Bhayandar East,Mira Bhayandar,401105,Shop,,1695,,50000.0,50000.0,Yashoda Sami
+SALE-SHOP-2665,Sold,Sale,2021-12-30,2022-02-25,Sankar Complex,Mira Road East,Mira Bhayandar,401105,Shop,,2038,8000000.0,,7928811.0,Netra Sahota
+RENT-OFFI-2666,Rented,Rent,2021-06-04,2021-08-07,Bath Park,Bhayandar East,Mira Bhayandar,401107,Office Space,,1708,,79000.0,79000.0,Chaaya Dewan
+RENT-OFFI-2667,Rented,Rent,2024-02-01,2024-04-29,Comar Plaza,Golden Nest,Mira Bhayandar,401107,Office Space,,1184,,172000.0,172000.0,Jairaj Saran
+RENT-OFFI-2668,Rented,Rent,2022-01-26,2022-02-21,Nath Park,Shanti Nagar,Mira Bhayandar,401105,Office Space,,2458,,147000.0,147000.0,Finn Iyengar
+RENT-SHOP-2669,Rented,Rent,2023-01-01,2023-02-04,Kaur Residency,Beverly Park,Mira Bhayandar,401107,Shop,,1886,,169000.0,169000.0,Harshil Hans
+SALE-SHOP-2670,Sold,Sale,2025-04-23,2025-06-27,Kala Towers,Bhayandar West,Mira Bhayandar,401101,Shop,,1096,10300000.0,,9941331.0,Yamini Dugar
+RENT-APAR-2671,Rented,Rent,2020-08-15,2020-09-13,Arora Residency,Bhayandar East,Mira Bhayandar,401105,Apartment,1.0,552,,21000.0,21000.0,Ayaan Manda
+SALE-SHOP-2672,Sold,Sale,2022-11-24,2022-12-18,Thakur Residency,Bhayandar West,Mira Bhayandar,401101,Shop,,2188,23900000.0,,23890255.0,Nirja Rama
+RENT-OFFI-2673,Rented,Rent,2024-07-16,2024-10-02,Loyal Complex,Kanakia,Mira Bhayandar,401101,Office Space,,1911,,135000.0,135000.0,Falguni Chandran
+SALE-APAR-2674,Sold,Sale,2024-05-11,2024-06-21,Kar Residency,Golden Nest,Mira Bhayandar,401105,Apartment,1.0,411,7800000.0,,7435901.0,Kashvi Morar
+SALE-SHOP-2675,Sold,Sale,2023-05-14,2023-08-03,Desai Complex,Kanakia,Mira Bhayandar,401105,Shop,,477,29200000.0,,28159692.0,Ayushman Raj
+SALE-SHOP-2676,Sold,Sale,2025-01-21,2025-03-29,Karan Residency,Bhayandar West,Mira Bhayandar,401101,Shop,,2000,26500000.0,,26098954.0,Krishna Chaudry
+SALE-SHOP-2677,Sold,Sale,2022-03-12,2022-06-05,Soman Heights,Kanakia,Mira Bhayandar,401107,Shop,,2126,38900000.0,,38882797.0,Bhavini Thaman
+SALE-SHOP-2678,Sold,Sale,2023-06-03,2023-08-06,Bobal Heights,Mira Road East,Mira Bhayandar,401105,Shop,,503,36900000.0,,36081339.0,Ubika Sengupta
+SALE-SHOP-2679,Sold,Sale,2022-08-02,2022-10-14,Chand Residency,Beverly Park,Mira Bhayandar,401101,Shop,,1508,39000000.0,,38435777.0,Anthony Bal
+RENT-OFFI-2680,Rented,Rent,2023-11-18,2023-12-30,Varma Plaza,Mira Road East,Mira Bhayandar,401107,Office Space,,660,,72000.0,72000.0,Megha Sood
+SALE-APAR-2681,Sold,Sale,2023-09-21,2023-11-26,Talwar Park,Bhayandar West,Mira Bhayandar,401105,Apartment,1.0,682,6400000.0,,6214422.0,Vihaan Dugar
+RENT-APAR-2682,Rented,Rent,2022-01-26,2022-04-19,Gopal Plaza,Kanakia,Mira Bhayandar,401101,Apartment,2.0,754,,38000.0,38000.0,Owen Vig
+SALE-APAR-2683,Sold,Sale,2024-02-04,2024-03-09,Bawa Complex,Beverly Park,Mira Bhayandar,401105,Apartment,3.0,1668,22700000.0,,22080171.0,Andrew Parikh
+SALE-SHOP-2684,Sold,Sale,2022-11-03,2022-12-26,Raval Residency,Beverly Park,Mira Bhayandar,401107,Shop,,832,31700000.0,,30923281.0,Sarthak Varma
+SALE-SHOP-2685,Sold,Sale,2021-10-28,2021-11-22,Sachdeva Towers,Kanakia,Mira Bhayandar,401107,Shop,,1006,31700000.0,,30376817.0,Isaiah Rajan
+SALE-SHOP-2686,Sold,Sale,2024-08-25,2024-11-11,Dani Plaza,Bhayandar East,Mira Bhayandar,401107,Shop,,1013,24800000.0,,24445635.0,Farhan Gala
+RENT-APAR-2687,Rented,Rent,2024-07-19,2024-09-09,Thakur Complex,Beverly Park,Mira Bhayandar,401101,Apartment,2.0,711,,35000.0,35000.0,Aarnav Bansal
+SALE-SHOP-2688,Sold,Sale,2024-01-16,2024-04-13,Mahajan Towers,Golden Nest,Mira Bhayandar,401101,Shop,,498,31600000.0,,30029283.0,Daksha De
+SALE-APAR-2689,Sold,Sale,2022-04-07,2022-05-22,Uppal Park,Shanti Nagar,Mira Bhayandar,401101,Apartment,1.0,637,5700000.0,,5468471.0,Saksham Narayanan
+RENT-APAR-2690,Rented,Rent,2022-04-09,2022-06-16,Bose Plaza,Bhayandar West,Mira Bhayandar,401105,Apartment,1.0,688,,16000.0,16000.0,Aarna Mittal
+SALE-APAR-2691,Sold,Sale,2023-04-26,2023-06-29,Dâ€™Alia Plaza,Beverly Park,Mira Bhayandar,401107,Apartment,1.0,401,5600000.0,,5377520.0,Mitesh Chaudhary
+SALE-OFFI-2692,Sold,Sale,2023-01-06,2023-02-07,Nadig Park,Kanakia,Mira Bhayandar,401105,Office Space,,923,14300000.0,,13593311.0,Nikita Zachariah
+SALE-SHOP-2693,Sold,Sale,2022-08-29,2022-09-25,Naidu Complex,Shanti Nagar,Mira Bhayandar,401107,Shop,,397,21400000.0,,20490118.0,Hitesh Divan
+SALE-OFFI-2694,Sold,Sale,2021-11-24,2022-02-14,Sarraf Heights,Mira Road East,Mira Bhayandar,401107,Office Space,,235,35700000.0,,35065799.0,Pahal Kibe
+SALE-OFFI-2695,Sold,Sale,2022-03-30,2022-05-23,Dhar Heights,Kanakia,Mira Bhayandar,401107,Office Space,,2004,17600000.0,,16943849.0,Ijaya Bir
+RENT-APAR-2696,Rented,Rent,2022-03-14,2022-04-13,Barad Plaza,Bhayandar West,Mira Bhayandar,401107,Apartment,2.0,1086,,36000.0,36000.0,Ekantika Dara
+RENT-SHOP-2697,Rented,Rent,2023-04-21,2023-06-12,Bandi Towers,Golden Nest,Mira Bhayandar,401101,Shop,,2378,,111000.0,111000.0,Hritik Badal
+RENT-OFFI-2698,Rented,Rent,2025-07-16,2025-09-08,Srinivas Park,Kanakia,Mira Bhayandar,401107,Office Space,,475,,197000.0,197000.0,Leela Goswami
+RENT-APAR-2699,Rented,Rent,2023-09-08,2023-11-17,Chandran Complex,Bhayandar East,Mira Bhayandar,401107,Apartment,1.0,579,,18000.0,18000.0,Banjeet Chahal
+SALE-APAR-2700,Sold,Sale,2020-09-23,2020-11-13,Taneja Complex,Shanti Nagar,Mira Bhayandar,401101,Apartment,3.0,1478,23000000.0,,22638903.0,Yochana Borde
+RENT-APAR-2701,Rented,Rent,2020-12-10,2021-01-17,Ramachandran Complex,Kanakia,Mira Bhayandar,401101,Apartment,1.0,470,,23000.0,23000.0,Viraj Walla
+RENT-APAR-2702,Rented,Rent,2022-06-02,2022-08-29,Pillai Plaza,Beverly Park,Mira Bhayandar,401105,Apartment,1.0,660,,22000.0,22000.0,Nikita Ganesh
+RENT-OFFI-2703,Rented,Rent,2023-11-23,2024-02-09,Shan Towers,Mira Road East,Mira Bhayandar,401107,Office Space,,499,,112000.0,112000.0,Gavin Joshi
+SALE-OFFI-2704,Sold,Sale,2023-01-31,2023-04-21,Gole Park,Bhayandar East,Mira Bhayandar,401101,Office Space,,1813,10700000.0,,10398474.0,Qadim Batra
+SALE-OFFI-2705,Sold,Sale,2021-04-22,2021-06-07,Anand Plaza,Mira Road East,Mira Bhayandar,401105,Office Space,,1634,8200000.0,,8115119.0,Balvan Kapur
+SALE-SHOP-2706,Sold,Sale,2023-03-16,2023-04-07,Rattan Plaza,Beverly Park,Mira Bhayandar,401107,Shop,,584,21300000.0,,21030802.0,Imaran Chaudhari
+SALE-SHOP-2707,Sold,Sale,2022-03-26,2022-05-28,Chadha Park,Kanakia,Mira Bhayandar,401101,Shop,,1997,14200000.0,,14100678.0,Mohammed Puri
+RENT-OFFI-2708,Rented,Rent,2021-10-14,2021-12-29,Panchal Plaza,Beverly Park,Mira Bhayandar,401105,Office Space,,977,,185000.0,185000.0,Luke Parekh
+SALE-APAR-2709,Sold,Sale,2024-05-04,2024-07-09,Bhatia Heights,Shanti Nagar,Mira Bhayandar,401101,Apartment,2.0,710,9500000.0,,9446801.0,Brijesh Thaman
+SALE-APAR-2710,Sold,Sale,2021-05-15,2021-06-05,Ramesh Heights,Mira Road East,Mira Bhayandar,401101,Apartment,3.0,1700,19600000.0,,19102628.0,Chatresh Kannan
+SALE-APAR-2711,Sold,Sale,2022-11-13,2022-12-04,Bhavsar Towers,Mira Road East,Mira Bhayandar,401107,Apartment,2.0,724,14300000.0,,13940462.0,Advika Borra
+RENT-SHOP-2712,Rented,Rent,2020-10-19,2020-11-12,Devan Towers,Beverly Park,Mira Bhayandar,401105,Shop,,856,,66000.0,66000.0,Kabir Pandya
+RENT-APAR-2713,Rented,Rent,2021-10-27,2022-01-02,Sur Heights,Bhayandar West,Mira Bhayandar,401107,Apartment,1.0,628,,24000.0,24000.0,Michael Palan
+RENT-OFFI-2714,Rented,Rent,2024-12-30,2025-03-27,Garde Residency,Golden Nest,Mira Bhayandar,401101,Office Space,,1441,,174000.0,174000.0,Eesha Krish
+RENT-APAR-2715,Rented,Rent,2025-05-02,2025-06-24,Chada Towers,Shanti Nagar,Mira Bhayandar,401107,Apartment,1.0,426,,23000.0,23000.0,Avi Prashad
+RENT-APAR-2716,Rented,Rent,2023-07-17,2023-09-15,Grewal Residency,Mira Road East,Mira Bhayandar,401107,Apartment,2.0,804,,39000.0,39000.0,Triveni Subramaniam
+SALE-SHOP-2717,Sold,Sale,2025-02-18,2025-04-28,Dâ€™Alia Plaza,Golden Nest,Mira Bhayandar,401101,Shop,,1885,21300000.0,,21001265.0,Indrajit Mitter
+SALE-OFFI-2718,Sold,Sale,2022-10-24,2022-12-30,Barad Residency,Kanakia,Mira Bhayandar,401107,Office Space,,1075,13800000.0,,13720187.0,Barkha Kalita
+RENT-OFFI-2719,Rented,Rent,2022-12-10,2023-03-09,Sheth Towers,Mira Road East,Mira Bhayandar,401105,Office Space,,1583,,83000.0,83000.0,Ekansh Vohra
+RENT-APAR-2720,Rented,Rent,2021-08-28,2021-10-15,Singhal Plaza,Kanakia,Mira Bhayandar,401107,Apartment,2.0,887,,39000.0,39000.0,Chandresh Thakkar
+RENT-SHOP-2721,Rented,Rent,2024-11-30,2024-12-24,Pradhan Towers,Beverly Park,Mira Bhayandar,401101,Shop,,634,,109000.0,109000.0,Nakul Ravel
+SALE-SHOP-2722,Sold,Sale,2022-07-07,2022-09-11,Batra Towers,Beverly Park,Mira Bhayandar,401105,Shop,,675,20000000.0,,19982698.0,Chakradev Sengupta
+SALE-APAR-2723,Sold,Sale,2024-09-05,2024-10-30,Hayer Park,Kanakia,Mira Bhayandar,401105,Apartment,3.0,1211,20500000.0,,19835100.0,Zaitra Pandya
+RENT-APAR-2724,Rented,Rent,2021-12-09,2022-02-07,Bobal Heights,Mira Road East,Mira Bhayandar,401101,Apartment,3.0,1163,,51000.0,51000.0,Umang Garde
+RENT-SHOP-2725,Rented,Rent,2022-08-16,2022-11-10,Khalsa Residency,Golden Nest,Mira Bhayandar,401101,Shop,,1847,,180000.0,180000.0,Manthan Barad
+RENT-SHOP-2726,Rented,Rent,2021-07-06,2021-10-03,Parsa Complex,Bhayandar East,Mira Bhayandar,401105,Shop,,621,,85000.0,85000.0,Mason Varty
+SALE-SHOP-2727,Sold,Sale,2021-11-11,2021-12-28,Banik Plaza,Golden Nest,Mira Bhayandar,401101,Shop,,313,26200000.0,,25360050.0,Charan Mahal
+RENT-OFFI-2728,Rented,Rent,2022-08-05,2022-10-22,Goel Complex,Bhayandar East,Mira Bhayandar,401105,Office Space,,616,,173000.0,173000.0,Charles Bandi
+RENT-SHOP-2729,Rented,Rent,2023-12-12,2024-01-10,Sule Residency,Mira Road East,Mira Bhayandar,401101,Shop,,992,,53000.0,53000.0,Vihaan Kala
+RENT-APAR-2730,Rented,Rent,2022-06-12,2022-07-22,Tak Heights,Bhayandar East,Mira Bhayandar,401107,Apartment,1.0,416,,16000.0,16000.0,Vrinda Chad
+RENT-APAR-2731,Rented,Rent,2025-02-10,2025-03-08,Mand Plaza,Beverly Park,Mira Bhayandar,401107,Apartment,3.0,1431,,42000.0,42000.0,Oni Prasad
+RENT-SHOP-2732,Rented,Rent,2023-10-29,2023-12-14,Sachar Residency,Shanti Nagar,Mira Bhayandar,401107,Shop,,1155,,137000.0,137000.0,Ethan Kunda
+SALE-APAR-2733,Sold,Sale,2021-10-31,2022-01-26,Bhasin Residency,Bhayandar West,Mira Bhayandar,401101,Apartment,1.0,680,7000000.0,,6891537.0,Netra Doctor
+RENT-APAR-2734,Rented,Rent,2020-07-26,2020-09-23,Mane Complex,Golden Nest,Mira Bhayandar,401105,Apartment,1.0,603,,22000.0,22000.0,Triveni Atwal
+SALE-APAR-2735,Sold,Sale,2021-04-16,2021-06-27,Wali Plaza,Beverly Park,Mira Bhayandar,401107,Apartment,3.0,1547,18500000.0,,18391110.0,Ucchal Johal
+SALE-SHOP-2736,Sold,Sale,2023-07-08,2023-09-08,Mutti Plaza,Golden Nest,Mira Bhayandar,401107,Shop,,2387,32200000.0,,32150979.0,Manbir Pillai
+SALE-APAR-2737,Sold,Sale,2025-05-30,2025-08-01,Minhas Heights,Shanti Nagar,Mira Bhayandar,401107,Apartment,3.0,1626,23800000.0,,22685506.0,Jacob Balakrishnan
+SALE-SHOP-2738,Sold,Sale,2022-06-22,2022-08-09,Toor Park,Golden Nest,Mira Bhayandar,401107,Shop,,294,21200000.0,,21165191.0,Mitali Barad
+RENT-OFFI-2739,Rented,Rent,2020-12-09,2021-01-05,Ravi Park,Kanakia,Mira Bhayandar,401101,Office Space,,1113,,199000.0,199000.0,Hardik Sinha
+SALE-SHOP-2740,Sold,Sale,2022-10-06,2022-12-01,Behl Towers,Beverly Park,Mira Bhayandar,401105,Shop,,851,21300000.0,,20354651.0,Gopal Gole
+SALE-APAR-2741,Sold,Sale,2023-09-13,2023-12-02,Master Residency,Mira Road East,Mira Bhayandar,401107,Apartment,1.0,495,7700000.0,,7688612.0,Udant Setty
+RENT-SHOP-2742,Rented,Rent,2024-05-14,2024-07-08,Barad Residency,Bhayandar East,Mira Bhayandar,401105,Shop,,1953,,91000.0,91000.0,David Kadakia
+RENT-APAR-2743,Rented,Rent,2021-02-15,2021-03-14,Master Heights,Shanti Nagar,Mira Bhayandar,401101,Apartment,2.0,896,,38000.0,38000.0,Pavani Mohanty
+SALE-APAR-2744,Sold,Sale,2021-02-04,2021-03-25,Dara Plaza,Kanakia,Mira Bhayandar,401105,Apartment,3.0,1395,21300000.0,,20423116.0,Ishani Chadha
+RENT-SHOP-2745,Rented,Rent,2021-07-01,2021-09-24,Pradhan Towers,Bhayandar East,Mira Bhayandar,401105,Shop,,1647,,161000.0,161000.0,Januja Hari
+RENT-APAR-2746,Rented,Rent,2024-07-06,2024-09-03,Mody Heights,Bhayandar West,Mira Bhayandar,401101,Apartment,2.0,923,,40000.0,40000.0,Lucky Sehgal
+SALE-OFFI-2747,Sold,Sale,2022-04-18,2022-05-12,Prabhakar Park,Shanti Nagar,Mira Bhayandar,401101,Office Space,,1241,10600000.0,,10100144.0,Inaya Garg
+RENT-SHOP-2748,Rented,Rent,2023-03-31,2023-05-02,Dua Plaza,Mira Road East,Mira Bhayandar,401107,Shop,,591,,103000.0,103000.0,Sanya Maharaj
+SALE-SHOP-2749,Sold,Sale,2020-08-08,2020-10-01,Sabharwal Complex,Beverly Park,Mira Bhayandar,401107,Shop,,2252,29300000.0,,28326453.0,Utkarsh Babu
+SALE-SHOP-2750,Sold,Sale,2022-09-27,2022-10-20,Patel Park,Bhayandar West,Mira Bhayandar,401107,Shop,,242,25800000.0,,24549155.0,Lakshit Lala
+SALE-SHOP-2751,Sold,Sale,2021-12-09,2022-01-01,Saraf Residency,Bhayandar East,Mira Bhayandar,401101,Shop,,2465,8700000.0,,8499098.0,Owen Natarajan
+SALE-SHOP-2752,Sold,Sale,2022-07-04,2022-09-11,Patil Complex,Bhayandar West,Mira Bhayandar,401105,Shop,,2381,15100000.0,,14422709.0,Faraj Narain
+SALE-APAR-2753,Sold,Sale,2024-04-14,2024-06-21,Mani Heights,Bhayandar West,Mira Bhayandar,401107,Apartment,3.0,1485,16800000.0,,16146538.0,Pallavi Ramaswamy
+SALE-APAR-2754,Sold,Sale,2024-05-05,2024-07-01,Singh Park,Mira Road East,Mira Bhayandar,401107,Apartment,3.0,1452,16200000.0,,16025153.0,Bhavna Chand
+SALE-SHOP-2755,Sold,Sale,2020-12-30,2021-02-03,Kari Towers,Bhayandar East,Mira Bhayandar,401107,Shop,,1049,27300000.0,,27018807.0,Tanish Kumar
+SALE-SHOP-2756,Sold,Sale,2024-03-27,2024-05-22,Krishna Towers,Kanakia,Mira Bhayandar,401101,Shop,,398,34100000.0,,34044381.0,Siya Hegde
+RENT-APAR-2757,Rented,Rent,2025-05-23,2025-08-04,Khalsa Heights,Golden Nest,Mira Bhayandar,401107,Apartment,2.0,692,,36000.0,36000.0,Nakul Deo
+SALE-APAR-2758,Sold,Sale,2024-06-06,2024-07-22,Sandhu Residency,Beverly Park,Mira Bhayandar,401101,Apartment,1.0,562,4800000.0,,4603601.0,Niharika Barad
+SALE-SHOP-2759,Sold,Sale,2024-12-25,2025-02-13,Rao Plaza,Bhayandar East,Mira Bhayandar,401107,Shop,,2282,33800000.0,,33313451.0,Ekta Munshi
+SALE-APAR-2760,Sold,Sale,2022-08-05,2022-09-03,Dani Plaza,Beverly Park,Mira Bhayandar,401101,Apartment,1.0,440,8000000.0,,7697969.0,Vyanjana Koshy
+RENT-SHOP-2761,Rented,Rent,2020-09-27,2020-12-03,Sachdev Complex,Kanakia,Mira Bhayandar,401101,Shop,,1021,,73000.0,73000.0,Charles Borde
+SALE-OFFI-2762,Sold,Sale,2024-06-30,2024-08-09,Goel Plaza,Shanti Nagar,Mira Bhayandar,401107,Office Space,,2197,10000000.0,,9552909.0,Turvi Jayaraman
+RENT-SHOP-2763,Rented,Rent,2025-07-02,2025-09-01,Zachariah Complex,Kanakia,Mira Bhayandar,401107,Shop,,2121,,51000.0,51000.0,Baljiwan Talwar
+RENT-OFFI-2764,Rented,Rent,2022-07-17,2022-08-19,Barman Heights,Beverly Park,Mira Bhayandar,401101,Office Space,,561,,144000.0,144000.0,Brinda Srinivasan
+RENT-SHOP-2765,Rented,Rent,2021-01-02,2021-03-26,Mand Plaza,Mira Road East,Mira Bhayandar,401101,Shop,,1407,,90000.0,90000.0,Radhika Raghavan
+RENT-SHOP-2766,Rented,Rent,2022-06-02,2022-08-26,Deshmukh Park,Kanakia,Mira Bhayandar,401101,Shop,,1829,,171000.0,171000.0,Zaitra Hari
+SALE-SHOP-2767,Sold,Sale,2020-10-13,2020-12-28,Goswami Plaza,Beverly Park,Mira Bhayandar,401107,Shop,,1416,37800000.0,,36247323.0,Falan Dora
+SALE-OFFI-2768,Sold,Sale,2024-02-15,2024-05-01,Bhandari Heights,Golden Nest,Mira Bhayandar,401107,Office Space,,1367,9100000.0,,8701344.0,Triya Taneja
+SALE-APAR-2769,Sold,Sale,2023-07-28,2023-09-07,Sant Complex,Bhayandar West,Mira Bhayandar,401105,Apartment,1.0,688,4900000.0,,4675987.0,Qasim Oza
+SALE-SHOP-2770,Sold,Sale,2025-01-26,2025-04-05,Dutta Heights,Beverly Park,Mira Bhayandar,401101,Shop,,520,16600000.0,,16259452.0,Christopher Suresh
+RENT-SHOP-2771,Rented,Rent,2023-03-24,2023-06-07,Nath Complex,Golden Nest,Mira Bhayandar,401101,Shop,,2436,,72000.0,72000.0,Wyatt Pal
+SALE-APAR-2772,Sold,Sale,2021-05-24,2021-07-01,Sane Heights,Kanakia,Mira Bhayandar,401107,Apartment,2.0,1073,13400000.0,,13385238.0,Turvi Din
+RENT-APAR-2773,Rented,Rent,2021-11-13,2022-01-27,Tripathi Heights,Kanakia,Mira Bhayandar,401101,Apartment,2.0,696,,40000.0,40000.0,Hiral Palla
+RENT-OFFI-2774,Rented,Rent,2021-03-28,2021-05-16,Soman Complex,Kanakia,Mira Bhayandar,401101,Office Space,,2030,,134000.0,134000.0,Darpan Swaminathan
+RENT-SHOP-2775,Rented,Rent,2022-07-21,2022-10-04,Ben Residency,Golden Nest,Mira Bhayandar,401107,Shop,,562,,122000.0,122000.0,Ekapad Gara
+SALE-OFFI-2776,Sold,Sale,2024-05-19,2024-06-25,Goswami Heights,Bhayandar West,Mira Bhayandar,401107,Office Space,,1886,33600000.0,,32938274.0,Osha Bala
+RENT-OFFI-2777,Rented,Rent,2021-02-03,2021-04-17,Singh Residency,Kanakia,Mira Bhayandar,401105,Office Space,,1197,,137000.0,137000.0,Ojasvi Upadhyay
+SALE-OFFI-2778,Sold,Sale,2024-01-28,2024-04-14,Choudhry Complex,Golden Nest,Mira Bhayandar,401107,Office Space,,2298,36500000.0,,35373741.0,Ekta Basu
+SALE-SHOP-2779,Sold,Sale,2021-04-18,2021-06-10,Sood Towers,Golden Nest,Mira Bhayandar,401107,Shop,,1853,12400000.0,,11896707.0,Upkaar Tara
+SALE-SHOP-2780,Sold,Sale,2025-03-02,2025-05-04,Srinivas Heights,Bhayandar East,Mira Bhayandar,401105,Shop,,1115,21300000.0,,20847855.0,Oliver Oommen
+RENT-SHOP-2781,Rented,Rent,2024-07-24,2024-08-19,Parmar Towers,Kanakia,Mira Bhayandar,401107,Shop,,2049,,109000.0,109000.0,Libni Narayan
+RENT-SHOP-2782,Rented,Rent,2022-01-20,2022-03-29,Padmanabhan Residency,Shanti Nagar,Mira Bhayandar,401105,Shop,,1570,,169000.0,169000.0,Pallavi Sandhu
+RENT-APAR-2783,Rented,Rent,2021-06-19,2021-08-19,Kumer Park,Kanakia,Mira Bhayandar,401105,Apartment,1.0,511,,19000.0,19000.0,Lavanya Sagar
+RENT-APAR-2784,Rented,Rent,2024-05-28,2024-07-19,Chaudhuri Plaza,Beverly Park,Mira Bhayandar,401105,Apartment,2.0,651,,28000.0,28000.0,Alexander Kara
+RENT-OFFI-2785,Rented,Rent,2023-08-30,2023-09-26,Sheth Towers,Bhayandar West,Mira Bhayandar,401101,Office Space,,1741,,52000.0,52000.0,Logan Thakkar
+SALE-OFFI-2786,Sold,Sale,2022-07-24,2022-10-19,Buch Plaza,Beverly Park,Mira Bhayandar,401105,Office Space,,1887,9500000.0,,9437342.0,Anya Keer
+RENT-OFFI-2787,Rented,Rent,2024-01-04,2024-03-17,Sharma Heights,Kanakia,Mira Bhayandar,401107,Office Space,,1689,,199000.0,199000.0,Yagnesh Varghese
+RENT-APAR-2788,Rented,Rent,2021-11-11,2021-12-15,Nadig Heights,Beverly Park,Mira Bhayandar,401101,Apartment,2.0,756,,28000.0,28000.0,Ekaraj Parmer
+RENT-SHOP-2789,Rented,Rent,2022-11-27,2023-01-22,Varughese Heights,Beverly Park,Mira Bhayandar,401101,Shop,,649,,145000.0,145000.0,Udarsh Kapur
+RENT-SHOP-2790,Rented,Rent,2024-06-24,2024-08-01,Salvi Complex,Bhayandar East,Mira Bhayandar,401105,Shop,,1423,,186000.0,186000.0,Triya Bali
+SALE-APAR-2791,Sold,Sale,2023-08-19,2023-10-22,Boase Park,Kanakia,Mira Bhayandar,401101,Apartment,3.0,1484,15800000.0,,15428557.0,Samaksh Dora
+RENT-APAR-2792,Rented,Rent,2022-01-31,2022-04-30,Sandal Park,Bhayandar West,Mira Bhayandar,401105,Apartment,3.0,1155,,47000.0,47000.0,Kamala Yogi
+RENT-APAR-2793,Rented,Rent,2023-10-14,2024-01-07,Sibal Plaza,Bhayandar East,Mira Bhayandar,401105,Apartment,3.0,1189,,50000.0,50000.0,Umang Jain
+SALE-APAR-2794,Sold,Sale,2025-06-03,2025-07-05,Ben Residency,Golden Nest,Mira Bhayandar,401107,Apartment,3.0,1549,19800000.0,,18893077.0,Advay Wadhwa
+SALE-APAR-2795,Sold,Sale,2022-10-19,2022-12-11,Mohanty Park,Shanti Nagar,Mira Bhayandar,401105,Apartment,2.0,733,8400000.0,,8011845.0,Oviya Basu
+RENT-OFFI-2796,Rented,Rent,2022-10-28,2022-11-21,Bora Park,Kanakia,Mira Bhayandar,401107,Office Space,,2320,,76000.0,76000.0,Geetika Grewal
+SALE-OFFI-2797,Sold,Sale,2024-02-03,2024-04-09,Nagar Plaza,Kanakia,Mira Bhayandar,401105,Office Space,,1115,20900000.0,,20707915.0,Bimala Jha
+RENT-OFFI-2798,Rented,Rent,2022-09-20,2022-11-24,Mammen Park,Golden Nest,Mira Bhayandar,401105,Office Space,,1569,,164000.0,164000.0,Ishita Bhavsar
+SALE-SHOP-2799,Sold,Sale,2023-08-11,2023-10-29,Prasad Towers,Shanti Nagar,Mira Bhayandar,401105,Shop,,752,35600000.0,,34834995.0,Upadhriti Prabhakar
+SALE-OFFI-2800,Sold,Sale,2024-06-10,2024-07-08,Mane Towers,Beverly Park,Mira Bhayandar,401105,Office Space,,998,39500000.0,,39200974.0,Vedhika Saraf
+SALE-OFFI-2801,Sold,Sale,2024-10-04,2024-11-29,Wadhwa Residency,Bhayandar West,Mira Bhayandar,401107,Office Space,,1369,9600000.0,,9555579.0,Udyati Padmanabhan
+SALE-OFFI-2802,Sold,Sale,2022-07-21,2022-09-02,Borah Residency,Beverly Park,Mira Bhayandar,401105,Office Space,,947,38900000.0,,37760877.0,Nathaniel Batra
+SALE-APAR-2803,Sold,Sale,2025-04-24,2025-06-01,Dave Complex,Golden Nest,Mira Bhayandar,401101,Apartment,1.0,493,4900000.0,,4771376.0,Yoshita Trivedi
+RENT-APAR-2804,Rented,Rent,2020-11-25,2020-12-27,Kashyap Residency,Bhayandar East,Mira Bhayandar,401105,Apartment,1.0,634,,17000.0,17000.0,Waida Kale
+SALE-SHOP-2805,Sold,Sale,2024-04-03,2024-06-30,Mittal Complex,Bhayandar West,Mira Bhayandar,401105,Shop,,239,19500000.0,,18691269.0,Dipta Lala
+SALE-APAR-2806,Sold,Sale,2024-04-11,2024-06-03,Natt Residency,Beverly Park,Mira Bhayandar,401101,Apartment,1.0,588,7400000.0,,7156744.0,Falan Balan
+SALE-APAR-2807,Sold,Sale,2021-11-12,2022-01-26,Bali Plaza,Bhayandar East,Mira Bhayandar,401105,Apartment,2.0,952,9200000.0,,8851585.0,Suhani Sama
+RENT-OFFI-2808,Rented,Rent,2022-04-09,2022-06-13,Kalita Residency,Mira Road East,Mira Bhayandar,401107,Office Space,,1280,,165000.0,165000.0,Vasudha Kakar
+RENT-SHOP-2809,Rented,Rent,2023-03-13,2023-05-31,Mannan Complex,Shanti Nagar,Mira Bhayandar,401101,Shop,,2089,,110000.0,110000.0,Samesh Kanda
+SALE-OFFI-2810,Sold,Sale,2021-05-07,2021-07-07,Doctor Towers,Mira Road East,Mira Bhayandar,401105,Office Space,,488,36200000.0,,35507891.0,Watika Barad
+RENT-OFFI-2811,Rented,Rent,2022-01-13,2022-02-02,Samra Heights,Shanti Nagar,Mira Bhayandar,401107,Office Space,,783,,106000.0,106000.0,Vedhika Tara
+RENT-APAR-2812,Rented,Rent,2022-08-09,2022-11-07,Kota Heights,Beverly Park,Mira Bhayandar,401101,Apartment,3.0,1139,,42000.0,42000.0,Sachi Majumdar
+RENT-SHOP-2813,Rented,Rent,2022-09-26,2022-11-17,Sundaram Plaza,Beverly Park,Mira Bhayandar,401107,Shop,,2286,,133000.0,133000.0,Laksh Ahluwalia
+SALE-SHOP-2814,Sold,Sale,2022-03-05,2022-04-17,Krish Complex,Bhayandar West,Mira Bhayandar,401101,Shop,,2237,26600000.0,,25875230.0,Damyanti Oza
+RENT-OFFI-2815,Rented,Rent,2021-07-09,2021-07-30,Bora Towers,Shanti Nagar,Mira Bhayandar,401107,Office Space,,1508,,149000.0,149000.0,Falak Dutt
+RENT-OFFI-2816,Rented,Rent,2022-03-25,2022-06-10,Balakrishnan Complex,Mira Road East,Mira Bhayandar,401107,Office Space,,1834,,101000.0,101000.0,Chaaya Raman
+RENT-SHOP-2817,Rented,Rent,2023-11-18,2024-02-04,Sathe Towers,Shanti Nagar,Mira Bhayandar,401101,Shop,,787,,141000.0,141000.0,Lohit Banerjee
+SALE-OFFI-2818,Sold,Sale,2021-10-22,2022-01-19,Raja Plaza,Beverly Park,Mira Bhayandar,401107,Office Space,,671,35400000.0,,33834872.0,Wriddhish Nagi
+RENT-OFFI-2819,Rented,Rent,2024-03-18,2024-04-07,Om Residency,Bhayandar West,Mira Bhayandar,401105,Office Space,,2083,,164000.0,164000.0,Vidhi Madan
+RENT-OFFI-2820,Rented,Rent,2022-02-28,2022-05-10,Kaur Complex,Bhayandar West,Mira Bhayandar,401105,Office Space,,1385,,121000.0,121000.0,Gautam Rajagopal
+RENT-SHOP-2821,Rented,Rent,2025-04-14,2025-07-08,Narayanan Residency,Bhayandar East,Mira Bhayandar,401107,Shop,,2129,,198000.0,198000.0,Eiravati Manda
+RENT-SHOP-2822,Rented,Rent,2022-02-28,2022-04-25,Amble Plaza,Bhayandar West,Mira Bhayandar,401107,Shop,,1961,,66000.0,66000.0,Nicholas Mitra
+RENT-APAR-2823,Rented,Rent,2024-05-05,2024-06-16,Agarwal Residency,Shanti Nagar,Mira Bhayandar,401101,Apartment,2.0,1091,,27000.0,27000.0,Kashvi Sahota
+RENT-OFFI-2824,Rented,Rent,2022-01-07,2022-02-21,Kota Plaza,Shanti Nagar,Mira Bhayandar,401107,Office Space,,1927,,106000.0,106000.0,Krishna Balay
+SALE-OFFI-2825,Sold,Sale,2025-07-21,2025-08-26,Radhakrishnan Complex,Kanakia,Mira Bhayandar,401101,Office Space,,2029,18200000.0,,17930440.0,Lakshmi Vora
+RENT-APAR-2826,Rented,Rent,2023-03-03,2023-04-20,Tiwari Heights,Bhayandar West,Mira Bhayandar,401101,Apartment,1.0,640,,25000.0,25000.0,Bhavini Chana
+RENT-APAR-2827,Rented,Rent,2020-12-24,2021-03-03,Anne Towers,Golden Nest,Mira Bhayandar,401101,Apartment,3.0,1516,,60000.0,60000.0,Tanmayi Palla
+RENT-APAR-2828,Rented,Rent,2024-07-05,2024-08-05,Dyal Plaza,Kanakia,Mira Bhayandar,401105,Apartment,2.0,1064,,31000.0,31000.0,Turvi Dugal
+SALE-SHOP-2829,Sold,Sale,2024-03-03,2024-05-03,Nayar Residency,Golden Nest,Mira Bhayandar,401101,Shop,,1977,11400000.0,,11350611.0,Ishanvi Chokshi
+RENT-SHOP-2830,Rented,Rent,2024-05-28,2024-08-18,Sarraf Complex,Bhayandar West,Mira Bhayandar,401107,Shop,,1866,,98000.0,98000.0,Fitan Prabhu
+RENT-SHOP-2831,Rented,Rent,2024-06-01,2024-07-02,Dhingra Complex,Mira Road East,Mira Bhayandar,401107,Shop,,2183,,173000.0,173000.0,Sarthak Bains
+SALE-SHOP-2832,Sold,Sale,2024-12-08,2025-03-05,Bandi Towers,Bhayandar West,Mira Bhayandar,401107,Shop,,1906,28500000.0,,28082904.0,Dipta Atwal
+SALE-APAR-2833,Sold,Sale,2020-09-11,2020-10-30,Kanda Towers,Shanti Nagar,Mira Bhayandar,401101,Apartment,3.0,1566,23300000.0,,22578912.0,Yamini Dash
+RENT-APAR-2834,Rented,Rent,2024-10-16,2024-11-22,Chander Towers,Bhayandar East,Mira Bhayandar,401105,Apartment,1.0,500,,25000.0,25000.0,Ria Char
+RENT-SHOP-2835,Rented,Rent,2021-12-28,2022-03-20,Raj Residency,Bhayandar West,Mira Bhayandar,401101,Shop,,1888,,73000.0,73000.0,Hitesh Kapur
+SALE-OFFI-2836,Sold,Sale,2022-08-19,2022-10-27,Saraf Complex,Shanti Nagar,Mira Bhayandar,401101,Office Space,,728,10200000.0,,9760377.0,Shivansh Kalita
+SALE-SHOP-2837,Sold,Sale,2021-06-21,2021-07-17,Raj Complex,Kanakia,Mira Bhayandar,401107,Shop,,820,26900000.0,,26545478.0,Ekapad Sunder
+SALE-SHOP-2838,Sold,Sale,2021-07-14,2021-08-26,Andra Complex,Bhayandar West,Mira Bhayandar,401101,Shop,,796,7700000.0,,7696387.0,Mason Bhakta
+RENT-OFFI-2839,Rented,Rent,2023-12-05,2023-12-26,Bava Residency,Bhayandar East,Mira Bhayandar,401105,Office Space,,1579,,113000.0,113000.0,Xavier Iyengar
+SALE-SHOP-2840,Sold,Sale,2023-02-13,2023-03-27,Sankar Residency,Bhayandar West,Mira Bhayandar,401101,Shop,,1904,15700000.0,,15607091.0,Keya Comar
+RENT-APAR-2841,Rented,Rent,2022-12-14,2023-01-10,Gola Plaza,Shanti Nagar,Mira Bhayandar,401101,Apartment,1.0,655,,16000.0,16000.0,Udant Dhaliwal
+SALE-APAR-2842,Sold,Sale,2022-10-01,2022-10-25,Bose Complex,Mira Road East,Mira Bhayandar,401105,Apartment,3.0,1336,20200000.0,,19560642.0,Reva Nazareth
+SALE-SHOP-2843,Sold,Sale,2024-03-26,2024-05-12,Varkey Residency,Beverly Park,Mira Bhayandar,401101,Shop,,1866,19600000.0,,18754948.0,Ekanta Tandon
+RENT-OFFI-2844,Rented,Rent,2023-09-19,2023-11-20,Ganesan Plaza,Shanti Nagar,Mira Bhayandar,401107,Office Space,,2315,,94000.0,94000.0,Prisha Deshmukh
+SALE-SHOP-2845,Sold,Sale,2020-09-19,2020-11-12,Amble Residency,Mira Road East,Mira Bhayandar,401107,Shop,,1118,11800000.0,,11707212.0,Samesh Thakkar
+SALE-APAR-2846,Sold,Sale,2023-07-19,2023-09-22,Sarkar Complex,Shanti Nagar,Mira Bhayandar,401107,Apartment,2.0,814,14000000.0,,13356466.0,Arin Badal
+SALE-OFFI-2847,Sold,Sale,2020-10-01,2020-10-30,Sawhney Residency,Beverly Park,Mira Bhayandar,401105,Office Space,,1327,10200000.0,,10128983.0,Yamini Kalla
+RENT-APAR-2848,Rented,Rent,2021-05-17,2021-06-20,Kulkarni Plaza,Bhayandar West,Mira Bhayandar,401105,Apartment,1.0,442,,19000.0,19000.0,Xalak Boase
+RENT-SHOP-2849,Rented,Rent,2024-05-27,2024-07-03,Sankar Residency,Beverly Park,Mira Bhayandar,401107,Shop,,1289,,108000.0,108000.0,Upasna Baral
+SALE-APAR-2850,Sold,Sale,2020-11-11,2020-12-20,Jain Complex,Bhayandar West,Mira Bhayandar,401105,Apartment,3.0,1444,15500000.0,,15232831.0,Varsha Tata
+RENT-OFFI-2851,Rented,Rent,2024-07-21,2024-09-14,Amble Towers,Kanakia,Mira Bhayandar,401107,Office Space,,2448,,77000.0,77000.0,Yachana Sarraf
+SALE-SHOP-2852,Sold,Sale,2025-06-30,2025-08-31,Pant Park,Kanakia,Mira Bhayandar,401107,Shop,,2317,19500000.0,,18627514.0,Faras Goel
+SALE-SHOP-2853,Sold,Sale,2023-05-08,2023-07-12,Gupta Complex,Golden Nest,Mira Bhayandar,401101,Shop,,730,29900000.0,,28775043.0,Udyati Subramaniam
+SALE-OFFI-2854,Sold,Sale,2023-10-19,2024-01-10,Vig Plaza,Beverly Park,Mira Bhayandar,401107,Office Space,,1155,30300000.0,,29347116.0,Advika Chopra
+RENT-APAR-2855,Rented,Rent,2021-02-11,2021-05-10,Borah Plaza,Shanti Nagar,Mira Bhayandar,401107,Apartment,3.0,1606,,55000.0,55000.0,Aishani Panchal
+SALE-SHOP-2856,Sold,Sale,2023-04-18,2023-06-09,Khanna Towers,Mira Road East,Mira Bhayandar,401101,Shop,,1892,18600000.0,,17753657.0,Sai Chopra
+RENT-APAR-2857,Rented,Rent,2023-09-06,2023-10-27,Zacharia Towers,Mira Road East,Mira Bhayandar,401101,Apartment,2.0,786,,29000.0,29000.0,Naveen Dugar
+SALE-APAR-2858,Sold,Sale,2021-12-16,2022-02-27,Sampath Park,Shanti Nagar,Mira Bhayandar,401105,Apartment,1.0,698,6900000.0,,6586422.0,Brinda Chaudhuri
+RENT-OFFI-2859,Rented,Rent,2022-11-30,2023-01-10,Chander Park,Bhayandar West,Mira Bhayandar,401105,Office Space,,961,,141000.0,141000.0,Kashish Kale
+RENT-APAR-2860,Rented,Rent,2021-10-24,2022-01-12,Thakur Plaza,Beverly Park,Mira Bhayandar,401101,Apartment,2.0,884,,37000.0,37000.0,Ikshita Gera
+RENT-APAR-2861,Rented,Rent,2024-10-14,2024-11-24,Dhingra Residency,Golden Nest,Mira Bhayandar,401107,Apartment,2.0,1010,,38000.0,38000.0,Amrita Gill
+SALE-OFFI-2862,Sold,Sale,2023-07-14,2023-08-13,Bhatt Park,Bhayandar West,Mira Bhayandar,401105,Office Space,,1249,13000000.0,,12821887.0,Qarin Ravi
+SALE-APAR-2863,Sold,Sale,2023-09-15,2023-12-09,Maharaj Towers,Bhayandar West,Mira Bhayandar,401105,Apartment,1.0,614,4900000.0,,4772242.0,Adweta Atwal
+SALE-APAR-2864,Sold,Sale,2024-12-20,2025-02-05,Ramaswamy Residency,Kanakia,Mira Bhayandar,401101,Apartment,1.0,489,6900000.0,,6816790.0,Hemani Dasgupta
+SALE-OFFI-2865,Sold,Sale,2022-04-28,2022-06-09,Narayanan Park,Bhayandar West,Mira Bhayandar,401101,Office Space,,347,12600000.0,,12372959.0,Alexander Ahluwalia
+SALE-APAR-2866,Sold,Sale,2022-10-15,2022-11-13,Ramachandran Complex,Golden Nest,Mira Bhayandar,401101,Apartment,1.0,477,6600000.0,,6358113.0,Jackson Pillai
+RENT-SHOP-2867,Rented,Rent,2021-09-24,2021-12-05,Sekhon Park,Kanakia,Mira Bhayandar,401105,Shop,,236,,113000.0,113000.0,Benjamin Gill
+SALE-APAR-2868,Sold,Sale,2024-12-06,2025-01-11,Tiwari Residency,Mira Road East,Mira Bhayandar,401101,Apartment,1.0,591,6800000.0,,6626660.0,Anmol Soni
+SALE-OFFI-2869,Sold,Sale,2020-09-08,2020-10-08,Murthy Heights,Mira Road East,Mira Bhayandar,401107,Office Space,,1196,22600000.0,,22021741.0,Vamakshi Raghavan
+SALE-SHOP-2870,Sold,Sale,2021-02-24,2021-05-10,Dutta Towers,Kanakia,Mira Bhayandar,401101,Shop,,2133,26000000.0,,25038931.0,Aahana Khanna
+SALE-SHOP-2871,Sold,Sale,2021-09-26,2021-12-11,Sha Complex,Kanakia,Mira Bhayandar,401107,Shop,,932,20300000.0,,19604344.0,Zilmil Seshadri
+SALE-APAR-2872,Sold,Sale,2020-12-03,2021-02-02,Mohan Complex,Bhayandar West,Mira Bhayandar,401105,Apartment,2.0,773,8500000.0,,8393524.0,Hredhaan Sahni
+RENT-SHOP-2873,Rented,Rent,2023-08-22,2023-11-07,Bhat Towers,Bhayandar West,Mira Bhayandar,401101,Shop,,1312,,144000.0,144000.0,Amara Sastry
+RENT-OFFI-2874,Rented,Rent,2020-12-09,2021-01-09,Loyal Heights,Beverly Park,Mira Bhayandar,401105,Office Space,,1099,,173000.0,173000.0,Dev Barad
+SALE-SHOP-2875,Sold,Sale,2020-09-27,2020-11-18,Karnik Plaza,Beverly Park,Mira Bhayandar,401107,Shop,,656,23800000.0,,23599665.0,Ekavir Jayaraman
+SALE-OFFI-2876,Sold,Sale,2022-07-07,2022-09-19,Hayer Heights,Beverly Park,Mira Bhayandar,401107,Office Space,,1857,36300000.0,,35162498.0,Vinaya Hans
+SALE-OFFI-2877,Sold,Sale,2020-11-28,2021-01-30,Savant Towers,Bhayandar West,Mira Bhayandar,401107,Office Space,,600,9100000.0,,9044103.0,Alka Chanda
+SALE-OFFI-2878,Sold,Sale,2020-12-26,2021-02-13,Sandhu Towers,Bhayandar West,Mira Bhayandar,401101,Office Space,,956,35900000.0,,34252699.0,Devika Kaul
+RENT-OFFI-2879,Rented,Rent,2024-07-10,2024-08-11,Chandra Complex,Beverly Park,Mira Bhayandar,401107,Office Space,,2033,,118000.0,118000.0,Falak Gade
+RENT-APAR-2880,Rented,Rent,2023-02-24,2023-04-02,Dugar Plaza,Shanti Nagar,Mira Bhayandar,401101,Apartment,3.0,1410,,60000.0,60000.0,Naveen Bhattacharyya
+RENT-OFFI-2881,Rented,Rent,2023-02-25,2023-04-20,Chaudry Park,Kanakia,Mira Bhayandar,401101,Office Space,,1612,,105000.0,105000.0,William Sekhon
+SALE-APAR-2882,Sold,Sale,2022-02-14,2022-04-13,Bawa Complex,Beverly Park,Mira Bhayandar,401105,Apartment,2.0,955,11800000.0,,11477328.0,Oeshi Buch
+SALE-SHOP-2883,Sold,Sale,2024-09-07,2024-11-17,Rout Complex,Beverly Park,Mira Bhayandar,401105,Shop,,2430,19400000.0,,18978745.0,Simon Narayanan
+RENT-OFFI-2884,Rented,Rent,2021-01-31,2021-04-30,Jayaraman Heights,Bhayandar West,Mira Bhayandar,401107,Office Space,,1537,,85000.0,85000.0,Siya Memon
+RENT-APAR-2885,Rented,Rent,2021-08-11,2021-10-26,Kibe Park,Golden Nest,Mira Bhayandar,401105,Apartment,2.0,882,,28000.0,28000.0,Samar Butala
+SALE-OFFI-2886,Sold,Sale,2022-11-11,2022-12-31,Seth Park,Beverly Park,Mira Bhayandar,401101,Office Space,,2113,8000000.0,,7728909.0,Alexander Koshy
+SALE-APAR-2887,Sold,Sale,2023-12-10,2024-02-01,Wali Residency,Beverly Park,Mira Bhayandar,401105,Apartment,2.0,789,10100000.0,,9685980.0,Ekalinga Chaudhuri
+RENT-SHOP-2888,Rented,Rent,2024-12-25,2025-01-28,Madan Residency,Mira Road East,Mira Bhayandar,401101,Shop,,1291,,140000.0,140000.0,Aishani Edwin
+RENT-APAR-2889,Rented,Rent,2025-07-15,2025-09-26,Ganesan Residency,Shanti Nagar,Mira Bhayandar,401107,Apartment,3.0,1227,,43000.0,43000.0,Meera Munshi
+SALE-SHOP-2890,Sold,Sale,2021-12-28,2022-02-22,Chanda Heights,Beverly Park,Mira Bhayandar,401101,Shop,,1639,38100000.0,,36497079.0,Simon Anne
+SALE-OFFI-2891,Sold,Sale,2022-03-13,2022-05-03,Mohan Park,Bhayandar East,Mira Bhayandar,401101,Office Space,,683,31300000.0,,30930677.0,Niharika Ben
+SALE-APAR-2892,Sold,Sale,2020-10-10,2020-11-25,Bhattacharyya Plaza,Beverly Park,Mira Bhayandar,401101,Apartment,1.0,472,7900000.0,,7526225.0,Waida Chacko
+SALE-OFFI-2893,Sold,Sale,2025-04-29,2025-07-06,Bora Residency,Bhayandar East,Mira Bhayandar,401101,Office Space,,1468,18900000.0,,18857001.0,Gaurika Kumer
+RENT-SHOP-2894,Rented,Rent,2023-01-15,2023-03-26,Gupta Plaza,Kanakia,Mira Bhayandar,401107,Shop,,1250,,172000.0,172000.0,Orinder Arya
+RENT-OFFI-2895,Rented,Rent,2022-12-16,2023-02-05,Viswanathan Plaza,Bhayandar East,Mira Bhayandar,401105,Office Space,,422,,102000.0,102000.0,Adweta Minhas
+RENT-APAR-2896,Rented,Rent,2024-07-16,2024-09-06,Om Plaza,Bhayandar West,Mira Bhayandar,401101,Apartment,1.0,595,,20000.0,20000.0,Ryan Nair
+SALE-OFFI-2897,Sold,Sale,2022-05-04,2022-07-18,Prakash Towers,Shanti Nagar,Mira Bhayandar,401101,Office Space,,398,16900000.0,,16738460.0,Mohini Sane
+SALE-OFFI-2898,Sold,Sale,2022-02-02,2022-04-19,Kurian Residency,Kanakia,Mira Bhayandar,401105,Office Space,,1838,8200000.0,,8059995.0,Anamika Contractor
+RENT-SHOP-2899,Rented,Rent,2023-06-08,2023-07-30,Sane Heights,Bhayandar West,Mira Bhayandar,401107,Shop,,970,,76000.0,76000.0,Manya Narasimhan
+RENT-OFFI-2900,Rented,Rent,2023-10-26,2023-12-28,Korpal Towers,Golden Nest,Mira Bhayandar,401107,Office Space,,1148,,157000.0,157000.0,Unnati Parmer
+RENT-SHOP-2901,Rented,Rent,2020-12-18,2021-01-18,Chaudhry Park,Kanakia,Mira Bhayandar,401105,Shop,,1720,,160000.0,160000.0,Rushil Prabhu
+RENT-APAR-2902,Rented,Rent,2021-08-01,2021-08-23,Tara Complex,Mira Road East,Mira Bhayandar,401105,Apartment,3.0,1640,,55000.0,55000.0,Dalaja Vaidya
+RENT-APAR-2903,Rented,Rent,2022-12-16,2023-02-28,Bhatnagar Complex,Bhayandar East,Mira Bhayandar,401107,Apartment,1.0,440,,20000.0,20000.0,Rachit Banik
+SALE-SHOP-2904,Sold,Sale,2020-09-24,2020-11-03,Dass Residency,Bhayandar East,Mira Bhayandar,401105,Shop,,1874,18400000.0,,18014727.0,Anamika Vig
+RENT-OFFI-2905,Rented,Rent,2023-11-28,2024-01-09,Thakkar Heights,Kanakia,Mira Bhayandar,401105,Office Space,,320,,63000.0,63000.0,Tamanna Roy
+SALE-APAR-2906,Sold,Sale,2021-12-05,2022-01-10,Nair Residency,Bhayandar East,Mira Bhayandar,401105,Apartment,3.0,1633,25000000.0,,23852879.0,Hitesh Suresh
+SALE-APAR-2907,Sold,Sale,2024-06-14,2024-08-30,Chakrabarti Residency,Golden Nest,Mira Bhayandar,401105,Apartment,2.0,972,15000000.0,,14340724.0,Udant Jayaraman
+RENT-SHOP-2908,Rented,Rent,2023-08-12,2023-09-11,Naidu Towers,Golden Nest,Mira Bhayandar,401105,Shop,,592,,87000.0,87000.0,Yasti Tiwari
+SALE-APAR-2909,Sold,Sale,2024-10-02,2024-12-16,Khatri Complex,Kanakia,Mira Bhayandar,401107,Apartment,3.0,1105,15400000.0,,15133500.0,Kabir Parmar
+SALE-SHOP-2910,Sold,Sale,2024-01-01,2024-03-12,Mahal Residency,Shanti Nagar,Mira Bhayandar,401101,Shop,,1288,9600000.0,,9499453.0,Daksha Shukla
+SALE-SHOP-2911,Sold,Sale,2022-02-10,2022-04-25,Borra Plaza,Shanti Nagar,Mira Bhayandar,401107,Shop,,2102,31000000.0,,30376074.0,Idika Reddy
+RENT-OFFI-2912,Rented,Rent,2022-12-25,2023-03-09,Madan Residency,Shanti Nagar,Mira Bhayandar,401105,Office Space,,1563,,165000.0,165000.0,Teerth Jani
+SALE-APAR-2913,Sold,Sale,2023-03-18,2023-05-10,Bala Heights,Beverly Park,Mira Bhayandar,401101,Apartment,3.0,1224,20400000.0,,19835188.0,Yasti Saini
+SALE-APAR-2914,Sold,Sale,2025-05-05,2025-06-06,Dada Park,Bhayandar East,Mira Bhayandar,401101,Apartment,3.0,1226,20400000.0,,19603004.0,Yash Bakshi
+RENT-SHOP-2915,Rented,Rent,2021-06-03,2021-08-20,Lata Heights,Mira Road East,Mira Bhayandar,401105,Shop,,1817,,144000.0,144000.0,Harshil Suri
+RENT-OFFI-2916,Rented,Rent,2022-01-19,2022-02-28,Ganesh Residency,Bhayandar West,Mira Bhayandar,401107,Office Space,,1362,,121000.0,121000.0,Pahal Contractor
+RENT-APAR-2917,Rented,Rent,2021-06-29,2021-08-09,Goswami Complex,Beverly Park,Mira Bhayandar,401101,Apartment,2.0,950,,38000.0,38000.0,Dayita Mand
+SALE-SHOP-2918,Sold,Sale,2024-08-08,2024-10-09,Halder Complex,Mira Road East,Mira Bhayandar,401101,Shop,,1972,10800000.0,,10268261.0,Max Borra
+SALE-APAR-2919,Sold,Sale,2025-04-08,2025-05-24,Mangal Heights,Bhayandar East,Mira Bhayandar,401101,Apartment,1.0,441,6300000.0,,6148150.0,Hiral Chadha
+SALE-APAR-2920,Sold,Sale,2022-11-08,2022-12-19,Badami Heights,Kanakia,Mira Bhayandar,401105,Apartment,2.0,726,9700000.0,,9321682.0,Ekbal Ramanathan
+RENT-APAR-2921,Rented,Rent,2022-02-23,2022-05-01,Ganguly Towers,Shanti Nagar,Mira Bhayandar,401107,Apartment,3.0,1405,,57000.0,57000.0,Radha Saraf
+RENT-SHOP-2922,Rented,Rent,2024-09-03,2024-11-06,Prabhakar Park,Bhayandar East,Mira Bhayandar,401101,Shop,,2364,,141000.0,141000.0,Urishilla Pau
+SALE-APAR-2923,Sold,Sale,2021-05-15,2021-08-01,Raman Heights,Beverly Park,Mira Bhayandar,401105,Apartment,1.0,551,6200000.0,,6016354.0,Gaurav Pandey
+SALE-SHOP-2924,Sold,Sale,2021-04-27,2021-06-18,Loke Residency,Beverly Park,Mira Bhayandar,401107,Shop,,2091,15800000.0,,15174817.0,Gaurav Sarma
+SALE-APAR-2925,Sold,Sale,2023-02-18,2023-03-27,Sharma Park,Bhayandar West,Mira Bhayandar,401101,Apartment,2.0,738,15000000.0,,14867434.0,Avni Bhasin
+SALE-APAR-2926,Sold,Sale,2020-12-19,2021-03-05,Mann Park,Kanakia,Mira Bhayandar,401107,Apartment,1.0,400,6600000.0,,6468505.0,Girik Kala
+RENT-OFFI-2927,Rented,Rent,2020-07-29,2020-09-23,Randhawa Park,Shanti Nagar,Mira Bhayandar,401107,Office Space,,2105,,95000.0,95000.0,Daksha Puri
+SALE-OFFI-2928,Sold,Sale,2024-04-04,2024-05-15,Varughese Plaza,Beverly Park,Mira Bhayandar,401101,Office Space,,1108,20200000.0,,19965323.0,Ekiya Hayer
+SALE-SHOP-2929,Sold,Sale,2023-09-15,2023-11-26,Sanghvi Complex,Bhayandar East,Mira Bhayandar,401105,Shop,,346,38000000.0,,36450992.0,Ekiya Kapoor
+SALE-SHOP-2930,Sold,Sale,2021-07-06,2021-08-29,Mandal Towers,Golden Nest,Mira Bhayandar,401107,Shop,,951,10600000.0,,10506436.0,Alka Keer
+RENT-SHOP-2931,Rented,Rent,2024-10-14,2024-12-06,Deep Heights,Bhayandar West,Mira Bhayandar,401101,Shop,,896,,59000.0,59000.0,Maanav Warrior
+SALE-SHOP-2932,Sold,Sale,2021-03-04,2021-05-15,Chander Plaza,Shanti Nagar,Mira Bhayandar,401105,Shop,,1800,37600000.0,,36138249.0,Rohan Soni
+SALE-OFFI-2933,Sold,Sale,2024-09-15,2024-10-07,Tara Towers,Shanti Nagar,Mira Bhayandar,401107,Office Space,,2044,31300000.0,,30291747.0,Laban Rajagopalan
+RENT-OFFI-2934,Rented,Rent,2023-02-18,2023-04-03,Balakrishnan Park,Beverly Park,Mira Bhayandar,401101,Office Space,,1962,,156000.0,156000.0,Tara Bhargava
+RENT-APAR-2935,Rented,Rent,2024-03-06,2024-04-06,Kothari Towers,Mira Road East,Mira Bhayandar,401101,Apartment,1.0,499,,20000.0,20000.0,Avni Mammen
+RENT-OFFI-2936,Rented,Rent,2022-12-19,2023-02-28,Barman Park,Golden Nest,Mira Bhayandar,401105,Office Space,,1398,,58000.0,58000.0,Bishakha Bhavsar
+SALE-SHOP-2937,Sold,Sale,2023-02-06,2023-04-19,Sha Heights,Kanakia,Mira Bhayandar,401107,Shop,,331,34900000.0,,34098416.0,Vinaya Subramaniam
+SALE-SHOP-2938,Sold,Sale,2023-08-29,2023-10-09,Soni Residency,Bhayandar East,Mira Bhayandar,401101,Shop,,1303,30600000.0,,30050241.0,Chasmum Mitra
+SALE-OFFI-2939,Sold,Sale,2021-06-26,2021-07-28,Dutt Towers,Shanti Nagar,Mira Bhayandar,401101,Office Space,,1609,33700000.0,,33497625.0,Aishani Memon
+RENT-SHOP-2940,Rented,Rent,2024-02-10,2024-04-25,Tella Heights,Shanti Nagar,Mira Bhayandar,401101,Shop,,474,,155000.0,155000.0,Nirja Ganguly
+SALE-OFFI-2941,Sold,Sale,2022-01-30,2022-03-05,Kannan Park,Golden Nest,Mira Bhayandar,401101,Office Space,,2081,14800000.0,,14673356.0,Falguni Johal
+SALE-APAR-2942,Sold,Sale,2023-03-27,2023-06-08,Keer Residency,Mira Road East,Mira Bhayandar,401101,Apartment,1.0,519,6100000.0,,5994205.0,Idika Dada
+RENT-SHOP-2943,Rented,Rent,2023-11-15,2024-01-13,Mohan Plaza,Shanti Nagar,Mira Bhayandar,401101,Shop,,2343,,55000.0,55000.0,Garima Prasad
+SALE-SHOP-2944,Sold,Sale,2023-10-13,2023-11-08,Mahal Heights,Shanti Nagar,Mira Bhayandar,401107,Shop,,1561,39100000.0,,37710067.0,Laban Gola
+SALE-APAR-2945,Sold,Sale,2023-10-20,2023-12-31,Khatri Complex,Golden Nest,Mira Bhayandar,401107,Apartment,1.0,568,5800000.0,,5693360.0,Darsh Mutti
+RENT-APAR-2946,Rented,Rent,2024-04-08,2024-05-29,Panchal Heights,Golden Nest,Mira Bhayandar,401105,Apartment,2.0,809,,35000.0,35000.0,Charles Ray
+SALE-OFFI-2947,Sold,Sale,2023-07-30,2023-10-07,Nigam Park,Golden Nest,Mira Bhayandar,401101,Office Space,,565,37100000.0,,36639595.0,Vinaya Dave
+SALE-APAR-2948,Sold,Sale,2025-07-22,2025-08-11,Dua Towers,Mira Road East,Mira Bhayandar,401107,Apartment,2.0,1093,10900000.0,,10770884.0,Zehaan Kapadia
+SALE-SHOP-2949,Sold,Sale,2022-12-13,2023-01-20,Tailor Residency,Golden Nest,Mira Bhayandar,401107,Shop,,1246,22700000.0,,22383663.0,Panini Varty
+SALE-APAR-2950,Sold,Sale,2025-02-19,2025-03-15,Sood Park,Kanakia,Mira Bhayandar,401107,Apartment,3.0,1155,21300000.0,,20812446.0,Mekhala Ghosh
+SALE-APAR-2951,Sold,Sale,2023-01-20,2023-04-18,Khanna Plaza,Shanti Nagar,Mira Bhayandar,401105,Apartment,3.0,1153,19900000.0,,19512930.0,Laban Varghese
+SALE-APAR-2952,Sold,Sale,2021-10-05,2021-11-17,Narain Towers,Mira Road East,Mira Bhayandar,401105,Apartment,3.0,1569,18400000.0,,18328040.0,Shravya Apte
+RENT-SHOP-2953,Rented,Rent,2024-10-17,2025-01-14,Chauhan Residency,Kanakia,Mira Bhayandar,401107,Shop,,2166,,119000.0,119000.0,Bhavya Keer
+SALE-OFFI-2954,Sold,Sale,2021-01-21,2021-02-23,Nigam Complex,Beverly Park,Mira Bhayandar,401101,Office Space,,1894,15700000.0,,15331740.0,Samaksh Peri
+RENT-APAR-2955,Rented,Rent,2021-08-24,2021-10-01,Solanki Complex,Bhayandar East,Mira Bhayandar,401105,Apartment,3.0,1717,,53000.0,53000.0,Qarin Mitra
+RENT-APAR-2956,Rented,Rent,2024-02-07,2024-04-02,Jaggi Towers,Kanakia,Mira Bhayandar,401107,Apartment,3.0,1449,,55000.0,55000.0,Unnati Kalita
+SALE-APAR-2957,Sold,Sale,2022-08-18,2022-10-25,Om Towers,Golden Nest,Mira Bhayandar,401105,Apartment,2.0,1022,13100000.0,,12738309.0,Panini Pal
+RENT-APAR-2958,Rented,Rent,2020-08-22,2020-10-03,Mitra Complex,Golden Nest,Mira Bhayandar,401107,Apartment,1.0,663,,15000.0,15000.0,Siddharth Bains
+SALE-APAR-2959,Sold,Sale,2020-09-03,2020-10-10,Goel Residency,Mira Road East,Mira Bhayandar,401105,Apartment,1.0,566,5700000.0,,5649353.0,Faris Dora
+RENT-APAR-2960,Rented,Rent,2024-12-22,2025-03-16,Kota Residency,Bhayandar West,Mira Bhayandar,401107,Apartment,2.0,865,,29000.0,29000.0,Aditya Viswanathan
+SALE-SHOP-2961,Sold,Sale,2023-03-11,2023-04-24,Rai Heights,Bhayandar West,Mira Bhayandar,401107,Shop,,1919,37900000.0,,37040709.0,Banjeet Ravi
+SALE-APAR-2962,Sold,Sale,2024-05-27,2024-06-20,Baria Plaza,Beverly Park,Mira Bhayandar,401105,Apartment,3.0,1581,18400000.0,,18088592.0,Nitara Bail
+RENT-APAR-2963,Rented,Rent,2023-11-17,2024-01-23,Tella Towers,Beverly Park,Mira Bhayandar,401107,Apartment,2.0,696,,35000.0,35000.0,Maya Lad
+RENT-OFFI-2964,Rented,Rent,2023-09-12,2023-11-10,Kata Residency,Bhayandar East,Mira Bhayandar,401101,Office Space,,689,,82000.0,82000.0,Gautam Borde
+SALE-SHOP-2965,Sold,Sale,2025-04-28,2025-06-04,Mann Heights,Mira Road East,Mira Bhayandar,401107,Shop,,1955,34200000.0,,33562633.0,Zaid Mukherjee
+SALE-OFFI-2966,Sold,Sale,2023-04-03,2023-06-28,Sandhu Complex,Shanti Nagar,Mira Bhayandar,401101,Office Space,,1308,23900000.0,,23564194.0,Radha Mody
+SALE-APAR-2967,Sold,Sale,2024-05-12,2024-07-06,Dhingra Heights,Kanakia,Mira Bhayandar,401107,Apartment,2.0,744,10000000.0,,9718401.0,Luke Savant
+RENT-OFFI-2968,Rented,Rent,2021-08-03,2021-10-26,Kala Park,Kanakia,Mira Bhayandar,401105,Office Space,,1625,,199000.0,199000.0,Diya Radhakrishnan
+RENT-SHOP-2969,Rented,Rent,2025-01-23,2025-03-02,Keer Park,Bhayandar West,Mira Bhayandar,401101,Shop,,634,,92000.0,92000.0,Netra Atwal
+RENT-APAR-2970,Rented,Rent,2023-04-27,2023-07-23,Dara Heights,Bhayandar East,Mira Bhayandar,401107,Apartment,1.0,472,,15000.0,15000.0,Jeevika Doshi
+RENT-SHOP-2971,Rented,Rent,2024-09-25,2024-11-03,Madan Park,Kanakia,Mira Bhayandar,401107,Shop,,674,,127000.0,127000.0,Mugdha Nath
+SALE-APAR-2972,Sold,Sale,2022-10-20,2022-11-29,Sura Park,Kanakia,Mira Bhayandar,401101,Apartment,3.0,1124,19300000.0,,18646234.0,Oscar Roy
+SALE-SHOP-2973,Sold,Sale,2022-03-23,2022-05-19,Chawla Complex,Bhayandar East,Mira Bhayandar,401101,Shop,,2021,33900000.0,,32296080.0,Alexander Sood
+RENT-APAR-2974,Rented,Rent,2023-08-16,2023-09-24,Banerjee Residency,Mira Road East,Mira Bhayandar,401101,Apartment,2.0,660,,27000.0,27000.0,Janani Char
+SALE-APAR-2975,Sold,Sale,2025-06-17,2025-09-01,Singhal Residency,Golden Nest,Mira Bhayandar,401101,Apartment,2.0,1045,13500000.0,,13073840.0,Priya Narain
+SALE-OFFI-2976,Sold,Sale,2023-04-12,2023-05-19,Mani Plaza,Kanakia,Mira Bhayandar,401107,Office Space,,2210,22800000.0,,21786414.0,Qushi Ravel
+SALE-APAR-2977,Sold,Sale,2021-12-24,2022-01-26,Tata Complex,Mira Road East,Mira Bhayandar,401105,Apartment,3.0,1790,20800000.0,,19824118.0,Jyoti Dada
+RENT-APAR-2978,Rented,Rent,2024-11-27,2025-01-27,Divan Heights,Shanti Nagar,Mira Bhayandar,401105,Apartment,3.0,1493,,54000.0,54000.0,Parth Khalsa
+RENT-APAR-2979,Rented,Rent,2024-12-23,2025-03-19,Tripathi Residency,Bhayandar East,Mira Bhayandar,401105,Apartment,3.0,1557,,58000.0,58000.0,Rajata Mody
+SALE-SHOP-2980,Sold,Sale,2020-12-30,2021-03-21,Munshi Complex,Golden Nest,Mira Bhayandar,401101,Shop,,1497,38900000.0,,38168117.0,Ryan Srinivas
+SALE-SHOP-2981,Sold,Sale,2021-01-21,2021-04-06,Ranganathan Complex,Kanakia,Mira Bhayandar,401107,Shop,,1731,23500000.0,,23476717.0,Ekantika Jhaveri
+SALE-SHOP-2982,Sold,Sale,2023-02-14,2023-04-28,Dani Residency,Shanti Nagar,Mira Bhayandar,401101,Shop,,1331,14500000.0,,14012938.0,Krish Krishnamurthy
+SALE-APAR-2983,Sold,Sale,2020-12-11,2021-02-09,Ahuja Park,Golden Nest,Mira Bhayandar,401107,Apartment,1.0,669,4600000.0,,4443336.0,Nathaniel Pal
+SALE-APAR-2984,Sold,Sale,2025-06-14,2025-08-31,Pandit Residency,Kanakia,Mira Bhayandar,401105,Apartment,3.0,1121,17900000.0,,17302806.0,Aarnav Parekh
+RENT-OFFI-2985,Rented,Rent,2020-12-30,2021-02-08,Kaul Towers,Kanakia,Mira Bhayandar,401105,Office Space,,1735,,157000.0,157000.0,Triveni Merchant
+SALE-OFFI-2986,Sold,Sale,2025-07-03,2025-09-16,Vala Towers,Bhayandar West,Mira Bhayandar,401107,Office Space,,1742,14200000.0,,13767963.0,Jackson Krishna
+RENT-OFFI-2987,Rented,Rent,2023-04-22,2023-06-26,Nanda Residency,Golden Nest,Mira Bhayandar,401105,Office Space,,1440,,54000.0,54000.0,Bahadurjit Savant
+RENT-APAR-2988,Rented,Rent,2021-01-29,2021-04-18,Varughese Towers,Kanakia,Mira Bhayandar,401107,Apartment,1.0,435,,17000.0,17000.0,Mekhala Soman
+SALE-SHOP-2989,Sold,Sale,2021-07-01,2021-08-21,Kakar Plaza,Beverly Park,Mira Bhayandar,401105,Shop,,984,9500000.0,,9416842.0,Tanvi Tripathi
+RENT-SHOP-2990,Rented,Rent,2023-12-20,2024-02-11,Dash Park,Golden Nest,Mira Bhayandar,401107,Shop,,1247,,112000.0,112000.0,Madhav Kibe
+RENT-APAR-2991,Rented,Rent,2025-02-16,2025-05-07,Ghose Heights,Bhayandar East,Mira Bhayandar,401107,Apartment,3.0,1571,,50000.0,50000.0,Sneha Agarwal
+SALE-OFFI-2992,Sold,Sale,2023-04-23,2023-05-14,Dora Heights,Bhayandar West,Mira Bhayandar,401105,Office Space,,448,21900000.0,,21485742.0,Nakul Balan
+SALE-OFFI-2993,Sold,Sale,2024-12-13,2025-02-01,Patel Park,Shanti Nagar,Mira Bhayandar,401101,Office Space,,1090,12700000.0,,12266166.0,Amaira Wali
+RENT-SHOP-2994,Rented,Rent,2022-09-15,2022-11-15,Varma Residency,Kanakia,Mira Bhayandar,401105,Shop,,1228,,121000.0,121000.0,Yug Shan
+RENT-APAR-2995,Rented,Rent,2021-05-04,2021-06-06,Sunder Complex,Golden Nest,Mira Bhayandar,401107,Apartment,3.0,1494,,42000.0,42000.0,Lipika Ramakrishnan
+RENT-OFFI-2996,Rented,Rent,2024-12-29,2025-02-12,Kapoor Towers,Bhayandar West,Mira Bhayandar,401101,Office Space,,2123,,66000.0,66000.0,Madhav Kale
+SALE-APAR-2997,Sold,Sale,2022-05-16,2022-07-21,Rajan Residency,Bhayandar East,Mira Bhayandar,401101,Apartment,2.0,741,14400000.0,,14235453.0,Jeet Vasa
+SALE-APAR-2998,Sold,Sale,2023-12-25,2024-03-22,Contractor Residency,Mira Road East,Mira Bhayandar,401107,Apartment,1.0,564,6100000.0,,5952941.0,Owen Sankaran
+SALE-OFFI-2999,Sold,Sale,2022-03-22,2022-06-14,Kala Complex,Mira Road East,Mira Bhayandar,401101,Office Space,,423,26400000.0,,25675703.0,Janani Divan
+RENT-SHOP-3000,Rented,Rent,2021-06-23,2021-08-20,Wali Residency,Golden Nest,Mira Bhayandar,401105,Shop,,2478,,124000.0,124000.0,Ekavir Yogi
