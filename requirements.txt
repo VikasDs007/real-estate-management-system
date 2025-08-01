@@ -4,3 +4,13 @@ numpy==1.24.3
 plotly==5.17.0
 openpyxl==3.1.2
 scikit-learn==1.3.0
+pathlib
+warnings
+datetime
+json
+os
+uuid
+io
+base64
+st-aggrid
+streamlit-plotly-events
